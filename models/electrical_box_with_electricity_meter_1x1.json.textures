@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "electrical_box_with_electricity_meter"
+      },
+      "name": "default"
+    },
+    "a": {
+      "map": {
+        "0": "electrical_box_with_electricity_meterlcd"
+      },
+      "name": "a"
+    }
+  }
+}

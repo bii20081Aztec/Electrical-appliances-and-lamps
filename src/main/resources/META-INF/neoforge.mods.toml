@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="CC BY-NC-SA 4.0"
+
+[[mods]]
+modId="lightingfixtures"
+version="0.4.5"
+displayName="Electrical appliances and lamps"
+displayURL="https://space.bilibili.com/1685065897"
+logoFile="logo.png"
+credits="MCreator BlockBenck"
+authors="Noel-Cornehl"
+description="The addition of various appliances and lamps will make your Minecraft more realistic This MoD will not be available for subsequent versions of MCMOD"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.lightingfixtures]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.65,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.lightingfixtures]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

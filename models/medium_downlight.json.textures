@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "medium_downlight"
+      },
+      "name": "default"
+    }
+  }
+}

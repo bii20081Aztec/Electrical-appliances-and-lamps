@@ -1,0 +1,10 @@
+{
+  "parent": "lightingfixtures:custom/model",
+  "textures": {
+    "all": "lightingfixtures:block/deng_ju_",
+    "particle": "lightingfixtures:block/deng_ju_",
+    "0": "lightingfixtures:block/xi_ding_deng_",
+    "1": "lightingfixtures:block/deng_ju_"
+  },
+  "render_type": "solid"
+}

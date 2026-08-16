@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "led_integrated_lamp_head"
+      },
+      "name": "default"
+    }
+  }
+}

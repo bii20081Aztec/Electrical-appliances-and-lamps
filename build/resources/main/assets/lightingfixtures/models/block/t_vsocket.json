@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/whiteboard",
+  "textures": {
+    "all": "lightingfixtures:block/tv_socket",
+    "particle": "lightingfixtures:block/tv_socket",
+    "missing": "lightingfixtures:block/tv_socket"
+  },
+  "render_type": "solid"
+}

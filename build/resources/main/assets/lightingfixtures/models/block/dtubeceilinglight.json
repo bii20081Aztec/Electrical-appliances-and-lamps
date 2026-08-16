@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/2d_tube_ceiling_light",
+  "textures": {
+    "all": "lightingfixtures:block/2d_tube_ceiling_light",
+    "particle": "lightingfixtures:block/2d_tube_ceiling_light",
+    "0": "lightingfixtures:block/2d_tube_ceiling_light"
+  },
+  "render_type": "cutout"
+}

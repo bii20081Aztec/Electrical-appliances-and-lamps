@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/heated_fan_bathroom_heater",
+  "textures": {
+    "all": "lightingfixtures:block/heated_fan_bathroom_heater",
+    "particle": "lightingfixtures:block/heated_fan_bathroom_heater",
+    "0": "lightingfixtures:block/heated_fan_bathroom_heater"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "the_main_corner_pipe_of_the_heater"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "heating_interconnection_pipes"
+      },
+      "name": "default"
+    },
+    "a": {
+      "map": {
+        "0": "heating_interconnection_pipesa"
+      },
+      "name": "a"
+    },
+    "b": {
+      "map": {
+        "0": "heating_interconnection_pipesb"
+      },
+      "name": "b"
+    },
+    "c": {
+      "map": {
+        "0": "heating_interconnection_pipesc"
+      },
+      "name": "c"
+    }
+  }
+}

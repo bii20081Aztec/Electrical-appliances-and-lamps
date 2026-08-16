@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/ovemvlcd"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/ovemvlcd",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/ovemvlcd",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/ovemvlcd",
+      "y": 270
+    }
+  }
+}

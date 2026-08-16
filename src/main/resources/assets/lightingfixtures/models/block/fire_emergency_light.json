@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/fire_emergency_light",
+  "textures": {
+    "all": "lightingfixtures:block/fire_emergency_light",
+    "particle": "lightingfixtures:block/fire_emergency_light",
+    "0": "lightingfixtures:block/fire_emergency_light"
+  },
+  "render_type": "cutout_mipped"
+}

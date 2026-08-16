@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/explosion-proof_lamp_-_double_tube",
+  "textures": {
+    "all": "lightingfixtures:block/explosion-proof_lamp",
+    "particle": "lightingfixtures:block/explosion-proof_lamp",
+    "0": "lightingfixtures:block/explosion-proof_lamp"
+  },
+  "render_type": "cutout"
+}

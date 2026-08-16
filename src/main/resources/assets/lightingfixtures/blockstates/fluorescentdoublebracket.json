@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/fluorescentdoublebracket"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/fluorescentdoublebracket",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/fluorescentdoublebracket",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/fluorescentdoublebracket",
+      "y": 270
+    }
+  }
+}

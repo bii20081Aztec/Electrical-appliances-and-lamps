@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/outdoor_380v_electric_meter_box2",
+  "textures": {
+    "all": "lightingfixtures:block/outdoor_380v_electric_meter_box",
+    "particle": "lightingfixtures:block/outdoor_380v_electric_meter_box",
+    "2": "lightingfixtures:block/outdoor_380v_electric_meter_boxlcd"
+  },
+  "render_type": "cutout"
+}

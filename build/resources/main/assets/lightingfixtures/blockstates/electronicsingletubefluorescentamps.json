@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/electronicsingletubefluorescentamps"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/electronicsingletubefluorescentamps",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/electronicsingletubefluorescentamps",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/electronicsingletubefluorescentamps",
+      "y": 270
+    }
+  }
+}

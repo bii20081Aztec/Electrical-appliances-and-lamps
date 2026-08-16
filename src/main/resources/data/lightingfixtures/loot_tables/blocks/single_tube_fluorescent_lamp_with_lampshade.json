@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "lightingfixtures:blocks/single_tube_fluorescent_lamp_with_lampshade",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "lightingfixtures:single_tube_fluorescent_lamp_with_lampshade"
+        }
+      ]
+    }
+  ]
+}

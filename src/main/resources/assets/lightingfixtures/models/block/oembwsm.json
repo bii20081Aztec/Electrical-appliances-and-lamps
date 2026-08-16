@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/outdoor_electric_meter_box_with_six_meters",
+  "textures": {
+    "all": "lightingfixtures:block/electrical_cabinets_1x1",
+    "particle": "lightingfixtures:block/electrical_cabinets_1x1",
+    "0": "lightingfixtures:block/outdoor_electric_meter_box_with_three_meters"
+  },
+  "render_type": "cutout"
+}

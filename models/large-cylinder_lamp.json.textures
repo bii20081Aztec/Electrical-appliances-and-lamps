@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "large-cylinder_lamp"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "lightingfixtures:item/ah"
+  },
+  "render_type": "translucent"
+}

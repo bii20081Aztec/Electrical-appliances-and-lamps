@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/access_control_intercom_extension",
+  "textures": {
+    "all": "lightingfixtures:block/access_control_intercom_extension",
+    "particle": "lightingfixtures:block/access_control_intercom_extension",
+    "0": "lightingfixtures:block/access_control_intercom_extension"
+  },
+  "render_type": "solid"
+}

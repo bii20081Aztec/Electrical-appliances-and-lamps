@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "heating_bleed_valve"
+      },
+      "name": "default"
+    }
+  }
+}

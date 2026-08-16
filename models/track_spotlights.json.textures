@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "a": {
+      "map": {
+        "missing": "track_spotlights1"
+      },
+      "name": "a"
+    },
+    "default": {
+      "map": {
+        "missing": "track_spotlights"
+      },
+      "name": "default"
+    }
+  }
+}

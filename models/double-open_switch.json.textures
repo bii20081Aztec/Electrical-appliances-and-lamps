@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "single-switch_switch"
+      },
+      "name": "default"
+    },
+    "dos": {
+      "map": {
+        "0": "double-open_switch"
+      },
+      "name": "dos"
+    },
+    "thr": {
+      "map": {
+        "0": "three-on_switch"
+      },
+      "name": "thr"
+    },
+    "qua": {
+      "map": {
+        "0": "quadruple_switch"
+      },
+      "name": "qua"
+    }
+  }
+}

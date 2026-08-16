@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/integrated_electronic_t5_fluorescent_lamp_-_short",
+  "textures": {
+    "all": "lightingfixtures:block/integrated_electronic_t5_fluorescent_lamp",
+    "particle": "lightingfixtures:block/integrated_electronic_t5_fluorescent_lamp",
+    "0": "lightingfixtures:block/integrated_electronic_t5_fluorescent_lamp"
+  },
+  "render_type": "solid"
+}

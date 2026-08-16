@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/lamp_warmth_bath",
+  "textures": {
+    "all": "lightingfixtures:block/lamp_warmth_bath",
+    "particle": "lightingfixtures:block/lamp_warmth_bath",
+    "0": "lightingfixtures:block/lamp_warmth_bath"
+  },
+  "render_type": "solid"
+}

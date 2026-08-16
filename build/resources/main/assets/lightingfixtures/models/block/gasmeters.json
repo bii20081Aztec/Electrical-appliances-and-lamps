@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/gas_meters",
+  "textures": {
+    "all": "lightingfixtures:block/gas_meters",
+    "particle": "lightingfixtures:block/gas_meters",
+    "0": "lightingfixtures:block/gas_meters"
+  },
+  "render_type": "solid"
+}

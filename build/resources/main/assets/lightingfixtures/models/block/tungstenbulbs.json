@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/tungsten_bulbs",
+  "textures": {
+    "all": "lightingfixtures:block/tungsten_bulbs",
+    "particle": "lightingfixtures:block/tungsten_bulbs",
+    "0": "lightingfixtures:block/tungsten_bulbs"
+  },
+  "render_type": "solid"
+}

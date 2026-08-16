@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/classroom_led_lights"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/classroom_led_lights",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/classroom_led_lights",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/classroom_led_lights",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wall",
+        "1": "na_"
+      },
+      "name": "default"
+    }
+  }
+}

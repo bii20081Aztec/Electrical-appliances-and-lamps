@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/fluorescent_lamp_holders"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/fluorescent_lamp_holders",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/fluorescent_lamp_holders",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/fluorescent_lamp_holders",
+      "y": 270
+    }
+  }
+}

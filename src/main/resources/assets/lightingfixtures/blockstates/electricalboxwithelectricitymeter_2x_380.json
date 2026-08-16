@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/electricalboxwithelectricitymeter_2x_380"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/electricalboxwithelectricitymeter_2x_380",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/electricalboxwithelectricitymeter_2x_380",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/electricalboxwithelectricitymeter_2x_380",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/classroom-light",
+  "textures": {
+    "all": "lightingfixtures:block/classroom-light",
+    "particle": "lightingfixtures:block/classroom-light",
+    "1": "lightingfixtures:block/classroom-light"
+  },
+  "render_type": "solid"
+}

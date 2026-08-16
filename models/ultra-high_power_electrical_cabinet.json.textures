@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "ultra-high_power_electrical_cabinet"
+      },
+      "name": "default"
+    }
+  }
+}

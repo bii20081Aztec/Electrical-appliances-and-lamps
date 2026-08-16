@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/heating_main_valve",
+  "textures": {
+    "all": "lightingfixtures:block/heating_pipes",
+    "particle": "lightingfixtures:block/heating_pipes",
+    "0": "lightingfixtures:block/heating_main_valve"
+  },
+  "render_type": "solid"
+}

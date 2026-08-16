@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/double-tube_fluorescent_lamp_with_lampshade",
+  "textures": {
+    "all": "lightingfixtures:block/oip-c_6",
+    "particle": "lightingfixtures:block/oip-c_6",
+    "0": "lightingfixtures:block/double-tube_fluorescent_lamp_with_lampshade"
+  },
+  "render_type": "solid"
+}

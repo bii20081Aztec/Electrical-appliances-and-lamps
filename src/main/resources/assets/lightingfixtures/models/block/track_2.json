@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/track",
+  "textures": {
+    "all": "lightingfixtures:block/track_spotlights",
+    "particle": "lightingfixtures:block/track_spotlights",
+    "0": "lightingfixtures:block/track_spotlights1"
+  },
+  "render_type": "solid"
+}

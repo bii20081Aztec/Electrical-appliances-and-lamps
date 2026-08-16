@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "two-open_three-pin_socket"
+      },
+      "name": "default"
+    },
+    "io": {
+      "map": {
+        "0": "one_open_three-pin_socket"
+      },
+      "name": "io"
+    }
+  }
+}

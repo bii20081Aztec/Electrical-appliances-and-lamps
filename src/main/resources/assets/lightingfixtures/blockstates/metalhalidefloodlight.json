@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/metalhalidefloodlight"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/metalhalidefloodlight",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/metalhalidefloodlight",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/metalhalidefloodlight",
+      "y": 270
+    }
+  }
+}

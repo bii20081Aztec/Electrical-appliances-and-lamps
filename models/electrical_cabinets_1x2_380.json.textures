@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "qwe",
+        "2": "electrical_cabinets_1x2_380"
+      },
+      "name": "default"
+    }
+  }
+}

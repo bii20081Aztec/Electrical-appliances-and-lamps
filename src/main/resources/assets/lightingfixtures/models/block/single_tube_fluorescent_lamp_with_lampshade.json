@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/single-tube_fluorescent_lamp_with_lampshade",
+  "textures": {
+    "all": "lightingfixtures:block/single-tube_fluorescent_lamps",
+    "particle": "lightingfixtures:block/single-tube_fluorescent_lamps",
+    "0": "lightingfixtures:block/single-tube_fluorescent_lamp_with_lampshade"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/aluminum_tubes_are_fluorescent2",
+  "textures": {
+    "all": "lightingfixtures:block/aluminum_tubes_are_fluorescent",
+    "particle": "lightingfixtures:block/aluminum_tubes_are_fluorescent",
+    "1": "lightingfixtures:block/aluminum_tubes_are_fluorescent"
+  },
+  "render_type": "solid"
+}

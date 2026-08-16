@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "face=floor,facing=north": {
+      "model": "lightingfixtures:block/twoopenthreepinsocket"
+    },
+    "face=floor,facing=east": {
+      "model": "lightingfixtures:block/twoopenthreepinsocket",
+      "y": 90
+    },
+    "face=floor,facing=south": {
+      "model": "lightingfixtures:block/twoopenthreepinsocket",
+      "y": 180
+    },
+    "face=floor,facing=west": {
+      "model": "lightingfixtures:block/twoopenthreepinsocket",
+      "y": 270
+    },
+    "face=wall,facing=north": {
+      "model": "lightingfixtures:block/twoopenthreepinsocket",
+      "x": 90
+    },
+    "face=wall,facing=east": {
+      "model": "lightingfixtures:block/twoopenthreepinsocket",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south": {
+      "model": "lightingfixtures:block/twoopenthreepinsocket",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west": {
+      "model": "lightingfixtures:block/twoopenthreepinsocket",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north": {
+      "model": "lightingfixtures:block/twoopenthreepinsocket",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east": {
+      "model": "lightingfixtures:block/twoopenthreepinsocket",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south": {
+      "model": "lightingfixtures:block/twoopenthreepinsocket",
+      "x": 180
+    },
+    "face=ceiling,facing=west": {
+      "model": "lightingfixtures:block/twoopenthreepinsocket",
+      "x": 180,
+      "y": 90
+    }
+  }
+}

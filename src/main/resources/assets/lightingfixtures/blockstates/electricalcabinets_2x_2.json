@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/electricalcabinets_2x_2"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/electricalcabinets_2x_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/electricalcabinets_2x_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/electricalcabinets_2x_2",
+      "y": 270
+    }
+  }
+}

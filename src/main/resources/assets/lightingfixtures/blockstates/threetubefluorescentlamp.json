@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/threetubefluorescentlamp"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/threetubefluorescentlamp",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/threetubefluorescentlamp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/threetubefluorescentlamp",
+      "y": 270
+    }
+  }
+}

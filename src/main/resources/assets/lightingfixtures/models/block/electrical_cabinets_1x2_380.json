@@ -1,0 +1,10 @@
+{
+  "parent": "lightingfixtures:custom/electrical_cabinets_1x2_380",
+  "textures": {
+    "all": "lightingfixtures:block/electrical_cabinets_1x1",
+    "particle": "lightingfixtures:block/electrical_cabinets_1x1",
+    "1": "lightingfixtures:block/qwe",
+    "2": "lightingfixtures:block/electrical_cabinets_1x2_380"
+  },
+  "render_type": "solid"
+}

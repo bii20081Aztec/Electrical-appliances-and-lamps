@@ -1,0 +1,164 @@
+
+/*
+ *    MCreator note: This file will be REGENERATED on each build.
+ */
+package net.mcreator.lightingfixtures.init;
+
+import net.minecraftforge.registries.RegistryObject;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.DeferredRegister;
+
+import net.minecraft.world.level.block.Block;
+import net.minecraft.world.item.Item;
+import net.minecraft.world.item.BlockItem;
+
+import net.mcreator.lightingfixtures.item.LikeItem;
+import net.mcreator.lightingfixtures.item.ElectricCardItem;
+import net.mcreator.lightingfixtures.LightingfixturesMod;
+
+public class LightingfixturesModItems {
+	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, LightingfixturesMod.MODID);
+	public static final RegistryObject<Item> CEILING = block(LightingfixturesModBlocks.CEILING);
+	public static final RegistryObject<Item> SINGLETUBEFLUORESCENTLAMPS = block(LightingfixturesModBlocks.SINGLETUBEFLUORESCENTLAMPS);
+	public static final RegistryObject<Item> SINGLETUBEFLUORESCENTLAMPS_1 = block(LightingfixturesModBlocks.SINGLETUBEFLUORESCENTLAMPS_1);
+	public static final RegistryObject<Item> DOUBLETUBEFLUORESCENTLAMPS = block(LightingfixturesModBlocks.DOUBLETUBEFLUORESCENTLAMPS);
+	public static final RegistryObject<Item> THREETUBEFLUORESCENTLAMP = block(LightingfixturesModBlocks.THREETUBEFLUORESCENTLAMP);
+	public static final RegistryObject<Item> FLUORESCENTLIGHTSFORCLASSROOMS = block(LightingfixturesModBlocks.FLUORESCENTLIGHTSFORCLASSROOMS);
+	public static final RegistryObject<Item> CLASSROOM_LED_LIGHTS = block(LightingfixturesModBlocks.CLASSROOM_LED_LIGHTS);
+	public static final RegistryObject<Item> FLUORESCENTLIGHTBULBS = block(LightingfixturesModBlocks.FLUORESCENTLIGHTBULBS);
+	public static final RegistryObject<Item> LE_DPANELLIGHT = block(LightingfixturesModBlocks.LE_DPANELLIGHT);
+	public static final RegistryObject<Item> LE_DCANOPYLIGHT_1_X_2 = block(LightingfixturesModBlocks.LE_DCANOPYLIGHT_1_X_2);
+	public static final RegistryObject<Item> LE_DCANOPYLIGHT_2_X_2 = block(LightingfixturesModBlocks.LE_DCANOPYLIGHT_2_X_2);
+	public static final RegistryObject<Item> ALUMINUMGUSSET = block(LightingfixturesModBlocks.ALUMINUMGUSSET);
+	public static final RegistryObject<Item> ALUMINUMGUSSET_1_X_2 = block(LightingfixturesModBlocks.ALUMINUMGUSSET_1_X_2);
+	public static final RegistryObject<Item> ALUMINUMGUSSET_2_X_2 = block(LightingfixturesModBlocks.ALUMINUMGUSSET_2_X_2);
+	public static final RegistryObject<Item> FLUORESCENTCEILINGLIGHTS = block(LightingfixturesModBlocks.FLUORESCENTCEILINGLIGHTS);
+	public static final RegistryObject<Item> FLUORESCENTCEILINGLIGHTS_2 = block(LightingfixturesModBlocks.FLUORESCENTCEILINGLIGHTS_2);
+	public static final RegistryObject<Item> FLUORESCENTCEILINGLIGHTS_1 = block(LightingfixturesModBlocks.FLUORESCENTCEILINGLIGHTS_1);
+	public static final RegistryObject<Item> SINGLESWITCHSWITCH = block(LightingfixturesModBlocks.SINGLESWITCHSWITCH);
+	public static final RegistryObject<Item> DOUBLEOPENSWITCH = block(LightingfixturesModBlocks.DOUBLEOPENSWITCH);
+	public static final RegistryObject<Item> THREEONSWITCH = block(LightingfixturesModBlocks.THREEONSWITCH);
+	public static final RegistryObject<Item> QUADRUPLESWITCH = block(LightingfixturesModBlocks.QUADRUPLESWITCH);
+	public static final RegistryObject<Item> LE_DFLOODLIGHTS = block(LightingfixturesModBlocks.LE_DFLOODLIGHTS);
+	public static final RegistryObject<Item> LED_FLOOD_LIGHT_TOP = block(LightingfixturesModBlocks.LED_FLOOD_LIGHT_TOP);
+	public static final RegistryObject<Item> LARGECYLINDERLAMP = block(LightingfixturesModBlocks.LARGECYLINDERLAMP);
+	public static final RegistryObject<Item> MEDIUMDOWNLIGHT = block(LightingfixturesModBlocks.MEDIUMDOWNLIGHT);
+	public static final RegistryObject<Item> SMALLDOWNLIGHTS = block(LightingfixturesModBlocks.SMALLDOWNLIGHTS);
+	public static final RegistryObject<Item> ELECTRONICSINGLETUBEFLUORESCENTAMPS = block(LightingfixturesModBlocks.ELECTRONICSINGLETUBEFLUORESCENTAMPS);
+	public static final RegistryObject<Item> ELECTRONICDOUBLETUBEFLUORESCENTLAMPS = block(LightingfixturesModBlocks.ELECTRONICDOUBLETUBEFLUORESCENTLAMPS);
+	public static final RegistryObject<Item> TRACKSPOTLIGHTS = block(LightingfixturesModBlocks.TRACKSPOTLIGHTS);
+	public static final RegistryObject<Item> TRACKSPOTLIGHTS_1 = block(LightingfixturesModBlocks.TRACKSPOTLIGHTS_1);
+	public static final RegistryObject<Item> METALHALIDEFLOODLIGHTS = block(LightingfixturesModBlocks.METALHALIDEFLOODLIGHTS);
+	public static final RegistryObject<Item> METALHALIDEFLOODLIGHT = block(LightingfixturesModBlocks.METALHALIDEFLOODLIGHT);
+	public static final RegistryObject<Item> FLUORESCENTLUMINAIRES = block(LightingfixturesModBlocks.FLUORESCENTLUMINAIRES);
+	public static final RegistryObject<Item> ALUMINUMTUBESAREFLUORESCENT = block(LightingfixturesModBlocks.ALUMINUMTUBESAREFLUORESCENT);
+	public static final RegistryObject<Item> ENERGYSAVINGLAMPMEDIUM = block(LightingfixturesModBlocks.ENERGYSAVINGLAMPMEDIUM);
+	public static final RegistryObject<Item> ENERGYSAVINLAMPLARGE = block(LightingfixturesModBlocks.ENERGYSAVINLAMPLARGE);
+	public static final RegistryObject<Item> ONEOPENTHREEPINSOCKET = block(LightingfixturesModBlocks.ONEOPENTHREEPINSOCKET);
+	public static final RegistryObject<Item> TWOOPENTHREEPINSOCKET = block(LightingfixturesModBlocks.TWOOPENTHREEPINSOCKET);
+	public static final RegistryObject<Item> SEVENPINSOCKET = block(LightingfixturesModBlocks.SEVENPINSOCKET);
+	public static final RegistryObject<Item> T_VSOCKET = block(LightingfixturesModBlocks.T_VSOCKET);
+	public static final RegistryObject<Item> INTERNETOUTLETS = block(LightingfixturesModBlocks.INTERNETOUTLETS);
+	public static final RegistryObject<Item> GASMETERS = block(LightingfixturesModBlocks.GASMETERS);
+	public static final RegistryObject<Item> RAIN_CS = block(LightingfixturesModBlocks.RAIN_CS);
+	public static final RegistryObject<Item> ELECTRICALCABINETS_1X_1 = block(LightingfixturesModBlocks.ELECTRICALCABINETS_1X_1);
+	public static final RegistryObject<Item> ELECTRICALCABINETS_1_X_2 = block(LightingfixturesModBlocks.ELECTRICALCABINETS_1_X_2);
+	public static final RegistryObject<Item> ELECTRICALCABINETS_2X_2 = block(LightingfixturesModBlocks.ELECTRICALCABINETS_2X_2);
+	public static final RegistryObject<Item> ELECTRICALCABINETS_2X_3 = block(LightingfixturesModBlocks.ELECTRICALCABINETS_2X_3);
+	public static final RegistryObject<Item> ELECTRICALBOXWITHELECTRICITYMETER = block(LightingfixturesModBlocks.ELECTRICALBOXWITHELECTRICITYMETER);
+	public static final RegistryObject<Item> ELECTRICALBOXWITHELECTRICITYMETER_1X_1 = block(LightingfixturesModBlocks.ELECTRICALBOXWITHELECTRICITYMETER_1X_1);
+	public static final RegistryObject<Item> ELECTRICALBOXWITHELECTRICITYMETER_2X_1 = block(LightingfixturesModBlocks.ELECTRICALBOXWITHELECTRICITYMETER_2X_1);
+	public static final RegistryObject<Item> ELECTRICALBOXWITHELECTRICITYMETER_2X_2 = block(LightingfixturesModBlocks.ELECTRICALBOXWITHELECTRICITYMETER_2X_2);
+	public static final RegistryObject<Item> ACCESSCONTROLINTERCOMHOST = block(LightingfixturesModBlocks.ACCESSCONTROLINTERCOMHOST);
+	public static final RegistryObject<Item> ACCESSCONTROLINTERCOMEXTENSION = block(LightingfixturesModBlocks.ACCESSCONTROLINTERCOMEXTENSION);
+	public static final RegistryObject<Item> IODINETUNGSTENLAMP = block(LightingfixturesModBlocks.IODINETUNGSTENLAMP);
+	public static final RegistryObject<Item> DOUBLETUBECEILINGLIGHT = block(LightingfixturesModBlocks.DOUBLETUBECEILINGLIGHT);
+	public static final RegistryObject<Item> DTUBECEILINGLIGHT = block(LightingfixturesModBlocks.DTUBECEILINGLIGHT);
+	public static final RegistryObject<Item> ACCESSCONTROLINTERCOMEXTENSION_ON = block(LightingfixturesModBlocks.ACCESSCONTROLINTERCOMEXTENSION_ON);
+	public static final RegistryObject<Item> SINGLE_TUBE_FLUORESCENT_LAMP_WITH_LAMPSHADE = block(LightingfixturesModBlocks.SINGLE_TUBE_FLUORESCENT_LAMP_WITH_LAMPSHADE);
+	public static final RegistryObject<Item> DOUBLE_TUBE_SINGLESTAND_FLUORESCENT_LAMP_WITH_LAMPSHADE = block(LightingfixturesModBlocks.DOUBLE_TUBE_SINGLESTAND_FLUORESCENT_LAMP_WITH_LAMPSHADE);
+	public static final RegistryObject<Item> DOUBLE_TUBE_FLUORESCENT_LAMPWITH_LAMPSHADE = block(LightingfixturesModBlocks.DOUBLE_TUBE_FLUORESCENT_LAMPWITH_LAMPSHADE);
+	public static final RegistryObject<Item> THREE_LAMP_FLUORESCENT_LAMPWITH_LAMPSHADE = block(LightingfixturesModBlocks.THREE_LAMP_FLUORESCENT_LAMPWITH_LAMPSHADE);
+	public static final RegistryObject<Item> FLUORESCENT_LAMP_HOLDERS = block(LightingfixturesModBlocks.FLUORESCENT_LAMP_HOLDERS);
+	public static final RegistryObject<Item> FLUORESCENTDOUBLEBRACKET = block(LightingfixturesModBlocks.FLUORESCENTDOUBLEBRACKET);
+	public static final RegistryObject<Item> ELECTRICALBOXWITHELECTRICITYMETER_2X_3 = block(LightingfixturesModBlocks.ELECTRICALBOXWITHELECTRICITYMETER_2X_3);
+	public static final RegistryObject<Item> ELECTRICALBOXWITHELECTRICITYMETER_2X_380 = block(LightingfixturesModBlocks.ELECTRICALBOXWITHELECTRICITYMETER_2X_380);
+	public static final RegistryObject<Item> TUNGSTENBULBS = block(LightingfixturesModBlocks.TUNGSTENBULBS);
+	public static final RegistryObject<Item> WATERMETER = block(LightingfixturesModBlocks.WATERMETER);
+	public static final RegistryObject<Item> FIVEPINSOCKET = block(LightingfixturesModBlocks.FIVEPINSOCKET);
+	public static final RegistryObject<Item> T_VNETWORKSOCKET = block(LightingfixturesModBlocks.T_VNETWORKSOCKET);
+	public static final RegistryObject<Item> DUALNETWORKOUTLETS = block(LightingfixturesModBlocks.DUALNETWORKOUTLETS);
+	public static final RegistryObject<Item> HIGHPOWEROUTLETS = block(LightingfixturesModBlocks.HIGHPOWEROUTLETS);
+	public static final RegistryObject<Item> LIKE = REGISTRY.register("like", () -> new LikeItem());
+	public static final RegistryObject<Item> HEATINGPIPES = block(LightingfixturesModBlocks.HEATINGPIPES);
+	public static final RegistryObject<Item> HEATINGPIPE = block(LightingfixturesModBlocks.HEATINGPIPE);
+	public static final RegistryObject<Item> HEATINGBRANCHPIPE = block(LightingfixturesModBlocks.HEATINGBRANCHPIPE);
+	public static final RegistryObject<Item> THEHEATINGIS = block(LightingfixturesModBlocks.THEHEATINGIS);
+	public static final RegistryObject<Item> HEATINGINTERCONNECTIONPIPES = block(LightingfixturesModBlocks.HEATINGINTERCONNECTIONPIPES);
+	public static final RegistryObject<Item> THEMAINCORNERPIPEOFTHEHEATER = block(LightingfixturesModBlocks.THEMAINCORNERPIPEOFTHEHEATER);
+	public static final RegistryObject<Item> THEMAINHEATINGISTHE = block(LightingfixturesModBlocks.THEMAINHEATINGISTHE);
+	public static final RegistryObject<Item> THEMAINBRANCHPIPEOFTHEHEATER = block(LightingfixturesModBlocks.THEMAINBRANCHPIPEOFTHEHEATER);
+	public static final RegistryObject<Item> HEATINGSUPERVISOR = block(LightingfixturesModBlocks.HEATINGSUPERVISOR);
+	public static final RegistryObject<Item> HEATINGMAINVALVE = block(LightingfixturesModBlocks.HEATINGMAINVALVE);
+	public static final RegistryObject<Item> HEATINGBLEEDVALVE = block(LightingfixturesModBlocks.HEATINGBLEEDVALVE);
+	public static final RegistryObject<Item> HEATINGA = block(LightingfixturesModBlocks.HEATINGA);
+	public static final RegistryObject<Item> HEATINGB = block(LightingfixturesModBlocks.HEATINGB);
+	public static final RegistryObject<Item> HEATINGC = block(LightingfixturesModBlocks.HEATINGC);
+	public static final RegistryObject<Item> LAMPWARMTHBATH = block(LightingfixturesModBlocks.LAMPWARMTHBATH);
+	public static final RegistryObject<Item> CEMOSPALCEPA = block(LightingfixturesModBlocks.CEMOSPALCEPA);
+	public static final RegistryObject<Item> FIRE_EMERGENCY_LIGHT = block(LightingfixturesModBlocks.FIRE_EMERGENCY_LIGHT);
+	public static final RegistryObject<Item> SMOKE_DETECTOR = block(LightingfixturesModBlocks.SMOKE_DETECTOR);
+	public static final RegistryObject<Item> FIRE_ALARM_BUTTON = block(LightingfixturesModBlocks.FIRE_ALARM_BUTTON);
+	public static final RegistryObject<Item> ALUMINUM_GRILLE = block(LightingfixturesModBlocks.ALUMINUM_GRILLE);
+	public static final RegistryObject<Item> ALUMINUM_GRILLE_2 = block(LightingfixturesModBlocks.ALUMINUM_GRILLE_2);
+	public static final RegistryObject<Item> ALUMINUM_TUBESARE_FLUORESCENT_2 = block(LightingfixturesModBlocks.ALUMINUM_TUBESARE_FLUORESCENT_2);
+	public static final RegistryObject<Item> SUPERMARKE_TANTITHEFT_SYSTEM = block(LightingfixturesModBlocks.SUPERMARKE_TANTITHEFT_SYSTEM);
+	public static final RegistryObject<Item> SUPERMARKET_SELF_CHECKOUT_SYSTEM = block(LightingfixturesModBlocks.SUPERMARKET_SELF_CHECKOUT_SYSTEM);
+	public static final RegistryObject<Item> HIGH_POWER_ELECTRIC_METER_BOX = block(LightingfixturesModBlocks.HIGH_POWER_ELECTRIC_METER_BOX);
+	public static final RegistryObject<Item> ELECTRICAL_CABINETS_1X1_380 = block(LightingfixturesModBlocks.ELECTRICAL_CABINETS_1X1_380);
+	public static final RegistryObject<Item> ELECTRICAL_CABINETS_1X2_380 = block(LightingfixturesModBlocks.ELECTRICAL_CABINETS_1X2_380);
+	public static final RegistryObject<Item> CORNER_TYPE_FLUORESCENT_LAMP = block(LightingfixturesModBlocks.CORNER_TYPE_FLUORESCENT_LAMP);
+	public static final RegistryObject<Item> FOUR_TUBE_FLUORESCENT_LAMP = block(LightingfixturesModBlocks.FOUR_TUBE_FLUORESCENT_LAMP);
+	public static final RegistryObject<Item> FOUR_TUBE_FLUORESCENT_LIGHT_WITH_LAMPSHADE = block(LightingfixturesModBlocks.FOUR_TUBE_FLUORESCENT_LIGHT_WITH_LAMPSHADE);
+	public static final RegistryObject<Item> TRACK = block(LightingfixturesModBlocks.TRACK);
+	public static final RegistryObject<Item> TRACK_2 = block(LightingfixturesModBlocks.TRACK_2);
+	public static final RegistryObject<Item> UHPEC = block(LightingfixturesModBlocks.UHPEC);
+	public static final RegistryObject<Item> PSG = block(LightingfixturesModBlocks.PSG);
+	public static final RegistryObject<Item> PSGA = block(LightingfixturesModBlocks.PSGA);
+	public static final RegistryObject<Item> PSGB = block(LightingfixturesModBlocks.PSGB);
+	public static final RegistryObject<Item> OTEMBWTM = block(LightingfixturesModBlocks.OTEMBWTM);
+	public static final RegistryObject<Item> EBWEM = block(LightingfixturesModBlocks.EBWEM);
+	public static final RegistryObject<Item> OEMBWTM = block(LightingfixturesModBlocks.OEMBWTM);
+	public static final RegistryObject<Item> OEMBWSM = block(LightingfixturesModBlocks.OEMBWSM);
+	public static final RegistryObject<Item> OEMBWFM = block(LightingfixturesModBlocks.OEMBWFM);
+	public static final RegistryObject<Item> OTEMBWAEM = block(LightingfixturesModBlocks.OTEMBWAEM);
+	public static final RegistryObject<Item> OVEMV = block(LightingfixturesModBlocks.OVEMV);
+	public static final RegistryObject<Item> OVEMV_2 = block(LightingfixturesModBlocks.OVEMV_2);
+	public static final RegistryObject<Item> TPFLST = block(LightingfixturesModBlocks.TPFLST);
+	public static final RegistryObject<Item> TPFLDT = block(LightingfixturesModBlocks.TPFLDT);
+	public static final RegistryObject<Item> EPLST = block(LightingfixturesModBlocks.EPLST);
+	public static final RegistryObject<Item> EPLDT = block(LightingfixturesModBlocks.EPLDT);
+	public static final RegistryObject<Item> EPLEHB = block(LightingfixturesModBlocks.EPLEHB);
+	public static final RegistryObject<Item> LETFLL = block(LightingfixturesModBlocks.LETFLL);
+	public static final RegistryObject<Item> LETFLS = block(LightingfixturesModBlocks.LETFLS);
+	public static final RegistryObject<Item> HFBH = block(LightingfixturesModBlocks.HFBH);
+	public static final RegistryObject<Item> HFS = block(LightingfixturesModBlocks.HFS);
+	public static final RegistryObject<Item> EBWEM_2_X_3_LCD = block(LightingfixturesModBlocks.EBWEM_2_X_3_LCD);
+	public static final RegistryObject<Item> EBWEM_LCD = block(LightingfixturesModBlocks.EBWEM_LCD);
+	public static final RegistryObject<Item> OVEMVLCD = block(LightingfixturesModBlocks.OVEMVLCD);
+	public static final RegistryObject<Item> OVEMVLCD_2 = block(LightingfixturesModBlocks.OVEMVLCD_2);
+	public static final RegistryObject<Item> ELECTRIC_CARD = REGISTRY.register("electric_card", () -> new ElectricCardItem());
+	public static final RegistryObject<Item> ESLS = block(LightingfixturesModBlocks.ESLS);
+	public static final RegistryObject<Item> ESLL = block(LightingfixturesModBlocks.ESLL);
+	public static final RegistryObject<Item> ESLM = block(LightingfixturesModBlocks.ESLM);
+	public static final RegistryObject<Item> LE_DILH = block(LightingfixturesModBlocks.LE_DILH);
+	public static final RegistryObject<Item> SLE_DBC = block(LightingfixturesModBlocks.SLE_DBC);
+	public static final RegistryObject<Item> MLE_DBC = block(LightingfixturesModBlocks.MLE_DBC);
+	public static final RegistryObject<Item> LLE_DBC = block(LightingfixturesModBlocks.LLE_DBC);
+
+	// Start of user code block custom items
+	// End of user code block custom items
+	private static RegistryObject<Item> block(RegistryObject<Block> block) {
+		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
+	}
+}

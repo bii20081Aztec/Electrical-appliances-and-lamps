@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lightingfixtures:block/oip-c_6",
+    "up": "lightingfixtures:block/oip-c_6",
+    "north": "lightingfixtures:block/oip-c_6",
+    "east": "lightingfixtures:block/oip-c_6",
+    "south": "lightingfixtures:block/oip-c_6",
+    "west": "lightingfixtures:block/oip-c_6",
+    "particle": "lightingfixtures:block/oip-c_6"
+  },
+  "render_type": "cutout_mipped"
+}

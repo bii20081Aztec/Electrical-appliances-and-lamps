@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/supermarket_anti-theft_system",
+  "textures": {
+    "all": "lightingfixtures:block/supermarket_anti-theft_system",
+    "particle": "lightingfixtures:block/supermarket_anti-theft_system",
+    "0": "lightingfixtures:block/supermarket_anti-theft_system"
+  },
+  "render_type": "solid"
+}

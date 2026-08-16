@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/double_tube_fluorescent_lampwith_lampshade"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/double_tube_fluorescent_lampwith_lampshade",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/double_tube_fluorescent_lampwith_lampshade",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/double_tube_fluorescent_lampwith_lampshade",
+      "y": 270
+    }
+  }
+}

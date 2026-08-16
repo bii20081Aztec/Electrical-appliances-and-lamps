@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/heater_fan_switch",
+  "textures": {
+    "all": "lightingfixtures:block/heater_fan_switch",
+    "particle": "lightingfixtures:block/heater_fan_switch",
+    "0": "lightingfixtures:block/heater_fan_switch"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "double-tube_fluorescent_lamp_with_lampshade"
+      },
+      "name": "default"
+    }
+  }
+}

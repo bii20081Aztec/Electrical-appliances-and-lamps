@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "electrical_box_with_electricity_meter_1x11"
+      },
+      "name": "default"
+    }
+  }
+}

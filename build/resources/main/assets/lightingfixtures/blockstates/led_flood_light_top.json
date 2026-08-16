@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/led_flood_light_top"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/led_flood_light_top",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/led_flood_light_top",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/led_flood_light_top",
+      "y": 270
+    }
+  }
+}

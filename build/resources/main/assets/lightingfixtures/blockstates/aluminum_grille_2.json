@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/aluminum_grille_2"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/aluminum_grille_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/aluminum_grille_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/aluminum_grille_2",
+      "y": 270
+    }
+  }
+}

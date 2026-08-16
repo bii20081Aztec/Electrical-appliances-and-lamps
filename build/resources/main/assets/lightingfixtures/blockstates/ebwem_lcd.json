@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/ebwem_lcd"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/ebwem_lcd",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/ebwem_lcd",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/ebwem_lcd",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/medium_downlight",
+  "textures": {
+    "all": "lightingfixtures:block/medium_downlight",
+    "particle": "lightingfixtures:block/medium_downlight",
+    "1": "lightingfixtures:block/medium_downlight"
+  },
+  "render_type": "solid"
+}

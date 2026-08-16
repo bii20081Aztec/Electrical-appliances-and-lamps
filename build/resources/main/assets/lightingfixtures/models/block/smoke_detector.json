@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/smoke_detector",
+  "textures": {
+    "all": "lightingfixtures:block/smoke_detector",
+    "particle": "lightingfixtures:block/smoke_detector",
+    "0": "lightingfixtures:block/smoke_detector"
+  },
+  "render_type": "solid"
+}

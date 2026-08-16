@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "high-power_electric_meter_box"
+      },
+      "name": "default"
+    }
+  }
+}

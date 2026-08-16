@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/double-tube_ceiling_light",
+  "textures": {
+    "all": "lightingfixtures:block/double-tube_ceiling_light",
+    "particle": "lightingfixtures:block/double-tube_ceiling_light",
+    "0": "lightingfixtures:block/double-tube_ceiling_light"
+  },
+  "render_type": "solid"
+}

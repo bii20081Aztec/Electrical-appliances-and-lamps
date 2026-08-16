@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/led_integrated_lamp_head",
+  "textures": {
+    "all": "lightingfixtures:block/led_integrated_lamp_head",
+    "particle": "lightingfixtures:block/led_integrated_lamp_head",
+    "0": "lightingfixtures:block/led_integrated_lamp_head"
+  },
+  "render_type": "solid"
+}

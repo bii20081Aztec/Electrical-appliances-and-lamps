@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/corner-type_fluorescent_lamp",
+  "textures": {
+    "all": "lightingfixtures:block/deng_ju_",
+    "particle": "lightingfixtures:block/deng_ju_",
+    "0": "lightingfixtures:block/corner-type_fluorescent_lamp"
+  },
+  "render_type": "solid"
+}

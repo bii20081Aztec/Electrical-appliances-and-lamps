@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "ceiling_mounted_speaker_aluminum_ceiling_panel"
+      },
+      "name": "default"
+    }
+  }
+}

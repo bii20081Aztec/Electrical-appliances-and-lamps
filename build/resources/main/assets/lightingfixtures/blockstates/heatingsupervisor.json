@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/heatingsupervisor"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/heatingsupervisor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/heatingsupervisor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/heatingsupervisor",
+      "y": 270
+    }
+  }
+}

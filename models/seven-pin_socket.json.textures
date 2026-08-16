@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "seven-pin_socket"
+      },
+      "name": "default"
+    },
+    "internet": {
+      "map": {
+        "0": "internet_outlets"
+      },
+      "name": "internet"
+    },
+    "tv": {
+      "map": {
+        "0": "tv_socket"
+      },
+      "name": "tv"
+    }
+  }
+}

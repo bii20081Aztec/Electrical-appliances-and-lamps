@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "access_control_intercom_extension"
+      },
+      "name": "default"
+    },
+    "asd": {
+      "map": {
+        "0": "access_control_intercom_extension_on"
+      },
+      "name": "asd"
+    }
+  }
+}

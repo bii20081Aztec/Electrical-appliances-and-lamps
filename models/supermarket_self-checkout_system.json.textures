@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "supermarket_self-checkout_system",
+        "3": "sup"
+      },
+      "name": "default"
+    }
+  }
+}

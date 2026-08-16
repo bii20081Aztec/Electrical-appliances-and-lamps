@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tungsten_bulbs"
+      },
+      "name": "default"
+    }
+  }
+}

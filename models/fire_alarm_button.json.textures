@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fire_alarm_button"
+      },
+      "name": "default"
+    }
+  }
+}

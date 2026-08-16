@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "supermarket_anti-theft_system"
+      },
+      "name": "default"
+    }
+  }
+}

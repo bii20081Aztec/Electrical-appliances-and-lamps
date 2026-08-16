@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/energy-saving_lamp_medium",
+  "textures": {
+    "all": "minecraft:block/bamboo_stalk",
+    "particle": "minecraft:block/bamboo_stalk",
+    "0": "lightingfixtures:block/sylvania_energy-saving_lamp_2u_tube"
+  },
+  "render_type": "solid"
+}

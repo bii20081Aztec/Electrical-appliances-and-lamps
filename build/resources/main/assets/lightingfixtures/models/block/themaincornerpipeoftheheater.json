@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/the_main_corner_pipe_of_the_heater",
+  "textures": {
+    "all": "lightingfixtures:block/heating_pipes",
+    "particle": "lightingfixtures:block/heating_pipes",
+    "1": "lightingfixtures:block/the_main_corner_pipe_of_the_heater"
+  },
+  "render_type": "solid"
+}

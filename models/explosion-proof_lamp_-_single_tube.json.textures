@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "explosion-proof_lamp"
+      },
+      "name": "default"
+    }
+  }
+}

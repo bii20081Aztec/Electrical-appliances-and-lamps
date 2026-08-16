@@ -1,0 +1,3132 @@
+{
+  "mod_elements": [
+    {
+      "name": "Ceiling",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ceiling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/CeilingBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ceiling.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/ceiling.json",
+          "src/main/resources/assets/lightingfixtures/models/item/ceiling.json",
+          "src/main/resources/assets/lightingfixtures/models/block/ceiling.json"
+        ]
+      }
+    },
+    {
+      "name": "Lightingfixtures",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightingfixtures",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Singletubefluorescentlamps",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "singletubefluorescentlamps",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/singletubefluorescentlamps.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/singletubefluorescentlamps.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/singletubefluorescentlamps.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/SingletubefluorescentlampsBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/singletubefluorescentlamps.json"
+        ]
+      }
+    },
+    {
+      "name": "Singletubefluorescentlamps1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "singletubefluorescentlamps_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/singletubefluorescentlamps_1.json",
+          "src/main/resources/assets/lightingfixtures/models/block/singletubefluorescentlamps_1.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Singletubefluorescentlamps1Block.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/singletubefluorescentlamps_1.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/singletubefluorescentlamps_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Doubletubefluorescentlamps",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doubletubefluorescentlamps",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/doubletubefluorescentlamps.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/doubletubefluorescentlamps.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/doubletubefluorescentlamps.json",
+          "src/main/resources/assets/lightingfixtures/models/item/doubletubefluorescentlamps.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/DoubletubefluorescentlampsBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Threetubefluorescentlamp",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "threetubefluorescentlamp",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/ThreetubefluorescentlampBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/threetubefluorescentlamp.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/threetubefluorescentlamp.json",
+          "src/main/resources/assets/lightingfixtures/models/item/threetubefluorescentlamp.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/threetubefluorescentlamp.json"
+        ]
+      }
+    },
+    {
+      "name": "Fluorescentlightsforclassrooms",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluorescentlightsforclassrooms",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/fluorescentlightsforclassrooms.json",
+          "src/main/resources/assets/lightingfixtures/models/block/fluorescentlightsforclassrooms.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/FluorescentlightsforclassroomsBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/fluorescentlightsforclassrooms.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/fluorescentlightsforclassrooms.json"
+        ]
+      }
+    },
+    {
+      "name": "ClassroomLEDLights",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "classroom_led_lights",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/classroom_led_lights.json",
+          "src/main/resources/assets/lightingfixtures/models/item/classroom_led_lights.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/classroom_led_lights.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/ClassroomLEDLightsBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/classroom_led_lights.json"
+        ]
+      }
+    },
+    {
+      "name": "Fluorescentlightbulbs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluorescentlightbulbs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/FluorescentlightbulbsBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/fluorescentlightbulbs.json",
+          "src/main/resources/assets/lightingfixtures/models/block/fluorescentlightbulbs.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/fluorescentlightbulbs.json",
+          "src/main/resources/assets/lightingfixtures/models/item/fluorescentlightbulbs.json"
+        ]
+      }
+    },
+    {
+      "name": "LEDpanellight",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "le_dpanellight",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/le_dpanellight.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/le_dpanellight.json",
+          "src/main/resources/assets/lightingfixtures/models/block/le_dpanellight.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/LEDpanellightBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/le_dpanellight.json"
+        ]
+      }
+    },
+    {
+      "name": "LEDluminaires",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "le_dluminaires",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "LEDcanopylight1X2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "le_dcanopylight_1_x_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/le_dcanopylight_1_x_2.json",
+          "src/main/resources/assets/lightingfixtures/models/block/le_dcanopylight_1_x_2.json",
+          "src/main/resources/assets/lightingfixtures/models/item/le_dcanopylight_1_x_2.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/LEDcanopylight1X2Block.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/le_dcanopylight_1_x_2.json"
+        ]
+      }
+    },
+    {
+      "name": "LEDcanopylight2X2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "le_dcanopylight_2_x_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/le_dcanopylight_2_x_2.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/le_dcanopylight_2_x_2.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/le_dcanopylight_2_x_2.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/LEDcanopylight2X2Block.java",
+          "src/main/resources/assets/lightingfixtures/models/item/le_dcanopylight_2_x_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Aluminumgusset",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminumgusset",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/aluminumgusset.json",
+          "src/main/resources/assets/lightingfixtures/models/item/aluminumgusset.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/AluminumgussetBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/aluminumgusset.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/aluminumgusset.json"
+        ]
+      }
+    },
+    {
+      "name": "Aluminumgusset1X2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminumgusset_1_x_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/aluminumgusset_1_x_2.json",
+          "src/main/resources/assets/lightingfixtures/models/block/aluminumgusset_1_x_2.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/aluminumgusset_1_x_2.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Aluminumgusset1X2Block.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/aluminumgusset_1_x_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Aluminumgusset2X2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminumgusset_2_x_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/Aluminumgusset2X2Block.java",
+          "src/main/resources/assets/lightingfixtures/models/block/aluminumgusset_2_x_2.json",
+          "src/main/resources/assets/lightingfixtures/models/item/aluminumgusset_2_x_2.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/aluminumgusset_2_x_2.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/aluminumgusset_2_x_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Fluorescentceilinglights",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluorescentceilinglights",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/fluorescentceilinglights.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/FluorescentceilinglightsBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/fluorescentceilinglights.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/fluorescentceilinglights.json",
+          "src/main/resources/assets/lightingfixtures/models/item/fluorescentceilinglights.json"
+        ]
+      }
+    },
+    {
+      "name": "Fluorescentceilinglights2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluorescentceilinglights_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/fluorescentceilinglights_2.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/fluorescentceilinglights_2.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Fluorescentceilinglights2Block.java",
+          "src/main/resources/assets/lightingfixtures/models/item/fluorescentceilinglights_2.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/fluorescentceilinglights_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Fluorescentceilinglights1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluorescentceilinglights_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/fluorescentceilinglights_1.json",
+          "src/main/resources/assets/lightingfixtures/models/item/fluorescentceilinglights_1.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/fluorescentceilinglights_1.json",
+          "src/main/resources/assets/lightingfixtures/models/block/fluorescentceilinglights_1.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Fluorescentceilinglights1Block.java"
+        ]
+      }
+    },
+    {
+      "name": "Switchsocketsandfans",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "switchsocketsandfans",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Singleswitchswitch",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "singleswitchswitch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/singleswitchswitch.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/singleswitchswitch.json",
+          "src/main/resources/assets/lightingfixtures/models/block/singleswitchswitch.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/SingleswitchswitchBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/singleswitchswitch.json"
+        ]
+      }
+    },
+    {
+      "name": "Doubleopenswitch",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doubleopenswitch",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/doubleopenswitch.json",
+          "src/main/resources/assets/lightingfixtures/models/item/doubleopenswitch.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/DoubleopenswitchBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/doubleopenswitch.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/doubleopenswitch.json"
+        ]
+      }
+    },
+    {
+      "name": "Threeonswitch",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "threeonswitch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/threeonswitch.json",
+          "src/main/resources/assets/lightingfixtures/models/item/threeonswitch.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/threeonswitch.json",
+          "src/main/resources/assets/lightingfixtures/models/block/threeonswitch.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/ThreeonswitchBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Quadrupleswitch",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quadrupleswitch",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/QuadrupleswitchBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/quadrupleswitch.json",
+          "src/main/resources/assets/lightingfixtures/models/item/quadrupleswitch.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/quadrupleswitch.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/quadrupleswitch.json"
+        ]
+      }
+    },
+    {
+      "name": "LEDfloodlights",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "le_dfloodlights",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/le_dfloodlights.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/LEDfloodlightsBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/le_dfloodlights.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/le_dfloodlights.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/le_dfloodlights.json"
+        ]
+      }
+    },
+    {
+      "name": "LEDFloodLightTop",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "led_flood_light_top",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/LEDFloodLightTopBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/led_flood_light_top.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/led_flood_light_top.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/led_flood_light_top.json",
+          "src/main/resources/assets/lightingfixtures/models/item/led_flood_light_top.json"
+        ]
+      }
+    },
+    {
+      "name": "Largecylinderlamp",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "largecylinderlamp",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/largecylinderlamp.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/LargecylinderlampBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/largecylinderlamp.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/largecylinderlamp.json",
+          "src/main/resources/assets/lightingfixtures/models/block/largecylinderlamp.json"
+        ]
+      }
+    },
+    {
+      "name": "Mediumdownlight",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mediumdownlight",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/mediumdownlight.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/mediumdownlight.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/MediumdownlightBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/mediumdownlight.json",
+          "src/main/resources/assets/lightingfixtures/models/block/mediumdownlight.json"
+        ]
+      }
+    },
+    {
+      "name": "Smalldownlights",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smalldownlights",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/SmalldownlightsBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/smalldownlights.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/smalldownlights.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/smalldownlights.json",
+          "src/main/resources/assets/lightingfixtures/models/block/smalldownlights.json"
+        ]
+      }
+    },
+    {
+      "name": "Electronicsingletubefluorescentamps",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electronicsingletubefluorescentamps",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/electronicsingletubefluorescentamps.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/electronicsingletubefluorescentamps.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/electronicsingletubefluorescentamps.json",
+          "src/main/resources/assets/lightingfixtures/models/block/electronicsingletubefluorescentamps.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/ElectronicsingletubefluorescentampsBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Electronicdoubletubefluorescentlamps",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electronicdoubletubefluorescentlamps",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/electronicdoubletubefluorescentlamps.json",
+          "src/main/resources/assets/lightingfixtures/models/block/electronicdoubletubefluorescentlamps.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/electronicdoubletubefluorescentlamps.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/ElectronicdoubletubefluorescentlampsBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/electronicdoubletubefluorescentlamps.json"
+        ]
+      }
+    },
+    {
+      "name": "Trackspotlights",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trackspotlights",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/trackspotlights.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/trackspotlights.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/TrackspotlightsBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/trackspotlights.json",
+          "src/main/resources/assets/lightingfixtures/models/item/trackspotlights.json"
+        ]
+      }
+    },
+    {
+      "name": "Trackspotlights1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trackspotlights_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/trackspotlights_1.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Trackspotlights1Block.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/trackspotlights_1.json",
+          "src/main/resources/assets/lightingfixtures/models/item/trackspotlights_1.json",
+          "src/main/resources/assets/lightingfixtures/models/block/trackspotlights_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Metalhalidefloodlights",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metalhalidefloodlights",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/metalhalidefloodlights.json",
+          "src/main/resources/assets/lightingfixtures/models/block/metalhalidefloodlights.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/MetalhalidefloodlightsBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/metalhalidefloodlights.json",
+          "src/main/resources/assets/lightingfixtures/models/item/metalhalidefloodlights.json"
+        ]
+      }
+    },
+    {
+      "name": "Metalhalidefloodlight",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metalhalidefloodlight",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/metalhalidefloodlight.json",
+          "src/main/resources/assets/lightingfixtures/models/item/metalhalidefloodlight.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/metalhalidefloodlight.json",
+          "src/main/resources/assets/lightingfixtures/models/block/metalhalidefloodlight.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/MetalhalidefloodlightBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Fluorescentluminaires",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluorescentluminaires",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/fluorescentluminaires.json",
+          "src/main/resources/assets/lightingfixtures/models/block/fluorescentluminaires.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/FluorescentluminairesBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/fluorescentluminaires.json",
+          "src/main/resources/assets/lightingfixtures/models/item/fluorescentluminaires.json"
+        ]
+      }
+    },
+    {
+      "name": "Aluminumtubesarefluorescent",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminumtubesarefluorescent",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/aluminumtubesarefluorescent.json",
+          "src/main/resources/assets/lightingfixtures/models/item/aluminumtubesarefluorescent.json",
+          "src/main/resources/assets/lightingfixtures/models/block/aluminumtubesarefluorescent.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/aluminumtubesarefluorescent.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/AluminumtubesarefluorescentBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Energysavinglampmedium",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energysavinglampmedium",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/energysavinglampmedium.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/energysavinglampmedium.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/energysavinglampmedium.json",
+          "src/main/resources/assets/lightingfixtures/models/block/energysavinglampmedium.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/EnergysavinglampmediumBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Energysavinlamplarge",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energysavinlamplarge",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/EnergysavinlamplargeBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/energysavinlamplarge.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/energysavinlamplarge.json",
+          "src/main/resources/assets/lightingfixtures/models/block/energysavinlamplarge.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/energysavinlamplarge.json"
+        ]
+      }
+    },
+    {
+      "name": "Oneopenthreepinsocket",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oneopenthreepinsocket",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/oneopenthreepinsocket.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/OneopenthreepinsocketBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/oneopenthreepinsocket.json",
+          "src/main/resources/assets/lightingfixtures/models/block/oneopenthreepinsocket.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/oneopenthreepinsocket.json"
+        ]
+      }
+    },
+    {
+      "name": "Twoopenthreepinsocket",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twoopenthreepinsocket",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/twoopenthreepinsocket.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/twoopenthreepinsocket.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/twoopenthreepinsocket.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/TwoopenthreepinsocketBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/twoopenthreepinsocket.json"
+        ]
+      }
+    },
+    {
+      "name": "Sevenpinsocket",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sevenpinsocket",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/sevenpinsocket.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/sevenpinsocket.json",
+          "src/main/resources/assets/lightingfixtures/models/block/sevenpinsocket.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/SevenpinsocketBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/sevenpinsocket.json"
+        ]
+      }
+    },
+    {
+      "name": "TVsocket",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "t_vsocket",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/TVsocketBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/t_vsocket.json",
+          "src/main/resources/assets/lightingfixtures/models/item/t_vsocket.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/t_vsocket.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/t_vsocket.json"
+        ]
+      }
+    },
+    {
+      "name": "Internetoutlets",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "internetoutlets",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/internetoutlets.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/internetoutlets.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/InternetoutletsBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/internetoutlets.json",
+          "src/main/resources/assets/lightingfixtures/models/item/internetoutlets.json"
+        ]
+      }
+    },
+    {
+      "name": "Gasmeters",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gasmeters",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/gasmeters.json",
+          "src/main/resources/assets/lightingfixtures/models/item/gasmeters.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/gasmeters.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/GasmetersBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/gasmeters.json"
+        ]
+      }
+    },
+    {
+      "name": "RainCS",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rain_cs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/rain_cs.json",
+          "src/main/resources/assets/lightingfixtures/models/block/rain_cs.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/RainCSBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/rain_cs.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/rain_cs.json"
+        ]
+      }
+    },
+    {
+      "name": "Electricalcabinets1x1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electricalcabinets_1x_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/electricalcabinets_1x_1.json",
+          "src/main/resources/assets/lightingfixtures/models/block/electricalcabinets_1x_1.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/electricalcabinets_1x_1.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Electricalcabinets1x1Block.java",
+          "src/main/resources/assets/lightingfixtures/models/item/electricalcabinets_1x_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Electricalcabinets1X2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electricalcabinets_1_x_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/electricalcabinets_1_x_2.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/electricalcabinets_1_x_2.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/electricalcabinets_1_x_2.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Electricalcabinets1X2Block.java",
+          "src/main/resources/assets/lightingfixtures/models/block/electricalcabinets_1_x_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Electricalcabinets2x2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electricalcabinets_2x_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/Electricalcabinets2x2Block.java",
+          "src/main/resources/assets/lightingfixtures/models/block/electricalcabinets_2x_2.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/electricalcabinets_2x_2.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/electricalcabinets_2x_2.json",
+          "src/main/resources/assets/lightingfixtures/models/item/electricalcabinets_2x_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Electricalcabinets2x3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electricalcabinets_2x_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/Electricalcabinets2x3Block.java",
+          "src/main/resources/assets/lightingfixtures/models/block/electricalcabinets_2x_3.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/electricalcabinets_2x_3.json",
+          "src/main/resources/assets/lightingfixtures/models/item/electricalcabinets_2x_3.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/electricalcabinets_2x_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Electricalboxwithelectricitymeter",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electricalboxwithelectricitymeter",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/ElectricalboxwithelectricitymeterBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/electricalboxwithelectricitymeter.json",
+          "src/main/resources/assets/lightingfixtures/models/block/electricalboxwithelectricitymeter.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/electricalboxwithelectricitymeter.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/electricalboxwithelectricitymeter.json"
+        ]
+      }
+    },
+    {
+      "name": "Electricalboxwithelectricitymeter1x1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electricalboxwithelectricitymeter_1x_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/Electricalboxwithelectricitymeter1x1Block.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/electricalboxwithelectricitymeter_1x_1.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/electricalboxwithelectricitymeter_1x_1.json",
+          "src/main/resources/assets/lightingfixtures/models/block/electricalboxwithelectricitymeter_1x_1.json",
+          "src/main/resources/assets/lightingfixtures/models/item/electricalboxwithelectricitymeter_1x_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Electricalboxwithelectricitymeter2x1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electricalboxwithelectricitymeter_2x_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/electricalboxwithelectricitymeter_2x_1.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/electricalboxwithelectricitymeter_2x_1.json",
+          "src/main/resources/assets/lightingfixtures/models/item/electricalboxwithelectricitymeter_2x_1.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Electricalboxwithelectricitymeter2x1Block.java",
+          "src/main/resources/assets/lightingfixtures/models/block/electricalboxwithelectricitymeter_2x_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Electricalboxwithelectricitymeter2x2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electricalboxwithelectricitymeter_2x_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/electricalboxwithelectricitymeter_2x_2.json",
+          "src/main/resources/assets/lightingfixtures/models/item/electricalboxwithelectricitymeter_2x_2.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/electricalboxwithelectricitymeter_2x_2.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Electricalboxwithelectricitymeter2x2Block.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/electricalboxwithelectricitymeter_2x_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Ccsa",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ccsa",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/procedures/CcsaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cs",
+      "type": "command",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/command/CsCommand.java"
+        ]
+      }
+    },
+    {
+      "name": "Accesscontrolintercomhost",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "accesscontrolintercomhost",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/AccesscontrolintercomhostBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/accesscontrolintercomhost.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/accesscontrolintercomhost.json",
+          "src/main/resources/assets/lightingfixtures/models/block/accesscontrolintercomhost.json",
+          "src/main/resources/assets/lightingfixtures/models/item/accesscontrolintercomhost.json"
+        ]
+      }
+    },
+    {
+      "name": "Accesscontrolintercomextension",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "accesscontrolintercomextension",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/accesscontrolintercomextension.json",
+          "src/main/resources/assets/lightingfixtures/models/block/accesscontrolintercomextension.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/accesscontrolintercomextension.json",
+          "src/main/resources/assets/lightingfixtures/models/item/accesscontrolintercomextension.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/AccesscontrolintercomextensionBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Host",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "host",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/procedures/HostProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Soon",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soon",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/procedures/SoonProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Coming",
+      "type": "command",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coming",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/command/ComingCommand.java"
+        ]
+      }
+    },
+    {
+      "name": "Iodinetungstenlamp",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iodinetungstenlamp",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/iodinetungstenlamp.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/iodinetungstenlamp.json",
+          "src/main/resources/assets/lightingfixtures/models/block/iodinetungstenlamp.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/iodinetungstenlamp.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/IodinetungstenlampBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Doubletubeceilinglight",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doubletubeceilinglight",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/doubletubeceilinglight.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/doubletubeceilinglight.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/doubletubeceilinglight.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/DoubletubeceilinglightBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/doubletubeceilinglight.json"
+        ]
+      }
+    },
+    {
+      "name": "Dtubeceilinglight",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dtubeceilinglight",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/dtubeceilinglight.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/dtubeceilinglight.json",
+          "src/main/resources/assets/lightingfixtures/models/block/dtubeceilinglight.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/DtubeceilinglightBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/dtubeceilinglight.json"
+        ]
+      }
+    },
+    {
+      "name": "AccesscontrolintercomextensionON",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "accesscontrolintercomextension_on",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/accesscontrolintercomextension_on.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/accesscontrolintercomextension_on.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/AccesscontrolintercomextensionONBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/accesscontrolintercomextension_on.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/accesscontrolintercomextension_on.json"
+        ]
+      }
+    },
+    {
+      "name": "ASX",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "asx",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/procedures/ASXProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AXC",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/procedures/AXCProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DeepSeek",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deep_seek",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/procedures/DeepSeekProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DeepSeekHI",
+      "type": "command",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deep_seek_hi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/command/DeepSeekHICommand.java"
+        ]
+      }
+    },
+    {
+      "name": "DeepSeekno",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deep_seekno",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/procedures/DeepSeeknoProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Singletubefluorescentlampwithlampshade",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "single_tube_fluorescent_lamp_with_lampshade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/SingletubefluorescentlampwithlampshadeBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/single_tube_fluorescent_lamp_with_lampshade.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/single_tube_fluorescent_lamp_with_lampshade.json",
+          "src/main/resources/assets/lightingfixtures/models/block/single_tube_fluorescent_lamp_with_lampshade.json",
+          "src/main/resources/assets/lightingfixtures/models/item/single_tube_fluorescent_lamp_with_lampshade.json"
+        ]
+      }
+    },
+    {
+      "name": "Doubletubesinglestandfluorescentlampwithlampshade",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "double_tube_singlestand_fluorescent_lamp_with_lampshade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/DoubletubesinglestandfluorescentlampwithlampshadeBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/double_tube_singlestand_fluorescent_lamp_with_lampshade.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/double_tube_singlestand_fluorescent_lamp_with_lampshade.json",
+          "src/main/resources/assets/lightingfixtures/models/block/double_tube_singlestand_fluorescent_lamp_with_lampshade.json",
+          "src/main/resources/assets/lightingfixtures/models/item/double_tube_singlestand_fluorescent_lamp_with_lampshade.json"
+        ]
+      }
+    },
+    {
+      "name": "Doubletubefluorescentlampwithlampshade",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "double_tube_fluorescent_lampwith_lampshade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/double_tube_fluorescent_lampwith_lampshade.json",
+          "src/main/resources/assets/lightingfixtures/models/item/double_tube_fluorescent_lampwith_lampshade.json",
+          "src/main/resources/assets/lightingfixtures/models/block/double_tube_fluorescent_lampwith_lampshade.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/double_tube_fluorescent_lampwith_lampshade.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/DoubletubefluorescentlampwithlampshadeBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Threelampfluorescentlampwithlampshade",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "three_lamp_fluorescent_lampwith_lampshade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/ThreelampfluorescentlampwithlampshadeBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/three_lamp_fluorescent_lampwith_lampshade.json",
+          "src/main/resources/assets/lightingfixtures/models/item/three_lamp_fluorescent_lampwith_lampshade.json",
+          "src/main/resources/assets/lightingfixtures/models/block/three_lamp_fluorescent_lampwith_lampshade.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/three_lamp_fluorescent_lampwith_lampshade.json"
+        ]
+      }
+    },
+    {
+      "name": "Fluorescentlampholders",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluorescent_lamp_holders",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/fluorescent_lamp_holders.json",
+          "src/main/resources/assets/lightingfixtures/models/block/fluorescent_lamp_holders.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/fluorescent_lamp_holders.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/FluorescentlampholdersBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/fluorescent_lamp_holders.json"
+        ]
+      }
+    },
+    {
+      "name": "Fluorescentdoublebracket",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluorescentdoublebracket",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/fluorescentdoublebracket.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/fluorescentdoublebracket.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/fluorescentdoublebracket.json",
+          "src/main/resources/assets/lightingfixtures/models/item/fluorescentdoublebracket.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/FluorescentdoublebracketBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Electricalboxwithelectricitymeter2x3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electricalboxwithelectricitymeter_2x_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/Electricalboxwithelectricitymeter2x3Block.java",
+          "src/main/resources/assets/lightingfixtures/models/item/electricalboxwithelectricitymeter_2x_3.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/electricalboxwithelectricitymeter_2x_3.json",
+          "src/main/resources/assets/lightingfixtures/models/block/electricalboxwithelectricitymeter_2x_3.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/electricalboxwithelectricitymeter_2x_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Electricalboxwithelectricitymeter2x380",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electricalboxwithelectricitymeter_2x_380",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/electricalboxwithelectricitymeter_2x_380.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/electricalboxwithelectricitymeter_2x_380.json",
+          "src/main/resources/assets/lightingfixtures/models/item/electricalboxwithelectricitymeter_2x_380.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Electricalboxwithelectricitymeter2x380Block.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/electricalboxwithelectricitymeter_2x_380.json"
+        ]
+      }
+    },
+    {
+      "name": "Tungstenbulbs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungstenbulbs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/TungstenbulbsBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/tungstenbulbs.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/tungstenbulbs.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/tungstenbulbs.json",
+          "src/main/resources/assets/lightingfixtures/models/item/tungstenbulbs.json"
+        ]
+      }
+    },
+    {
+      "name": "Watermeter",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watermeter",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/watermeter.json",
+          "src/main/resources/assets/lightingfixtures/models/item/watermeter.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/WatermeterBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/watermeter.json",
+          "src/main/resources/assets/lightingfixtures/models/block/watermeter.json"
+        ]
+      }
+    },
+    {
+      "name": "Fivepinsocket",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fivepinsocket",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/fivepinsocket.json",
+          "src/main/resources/assets/lightingfixtures/models/block/fivepinsocket.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/fivepinsocket.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/FivepinsocketBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/fivepinsocket.json"
+        ]
+      }
+    },
+    {
+      "name": "TVnetworksocket",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "t_vnetworksocket",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/t_vnetworksocket.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/t_vnetworksocket.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/TVnetworksocketBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/t_vnetworksocket.json",
+          "src/main/resources/assets/lightingfixtures/models/item/t_vnetworksocket.json"
+        ]
+      }
+    },
+    {
+      "name": "Dualnetworkoutlets",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dualnetworkoutlets",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/dualnetworkoutlets.json",
+          "src/main/resources/assets/lightingfixtures/models/block/dualnetworkoutlets.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/DualnetworkoutletsBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/dualnetworkoutlets.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/dualnetworkoutlets.json"
+        ]
+      }
+    },
+    {
+      "name": "Highpoweroutlets",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "highpoweroutlets",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/highpoweroutlets.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/HighpoweroutletsBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/highpoweroutlets.json",
+          "src/main/resources/assets/lightingfixtures/models/block/highpoweroutlets.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/highpoweroutlets.json"
+        ]
+      }
+    },
+    {
+      "name": "Like",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "like",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/like.json",
+          "src/main/java/net/mcreator/lightingfixtures/item/LikeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Heatingpipes",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heatingpipes",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/heatingpipes.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/HeatingpipesBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/heatingpipes.json",
+          "src/main/resources/assets/lightingfixtures/models/item/heatingpipes.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/heatingpipes.json"
+        ]
+      }
+    },
+    {
+      "name": "Heatingpipe",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heatingpipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/heatingpipe.json",
+          "src/main/resources/assets/lightingfixtures/models/block/heatingpipe.json",
+          "src/main/resources/assets/lightingfixtures/models/item/heatingpipe.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/HeatingpipeBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/heatingpipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Heatingbranchpipe",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heatingbranchpipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/heatingbranchpipe.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/heatingbranchpipe.json",
+          "src/main/resources/assets/lightingfixtures/models/block/heatingbranchpipe.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/HeatingbranchpipeBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/heatingbranchpipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Theheatingis",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "theheatingis",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/TheheatingisBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/theheatingis.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/theheatingis.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/theheatingis.json",
+          "src/main/resources/assets/lightingfixtures/models/block/theheatingis.json"
+        ]
+      }
+    },
+    {
+      "name": "Heatinginterconnectionpipes",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heatinginterconnectionpipes",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/heatinginterconnectionpipes.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/HeatinginterconnectionpipesBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/heatinginterconnectionpipes.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/heatinginterconnectionpipes.json",
+          "src/main/resources/assets/lightingfixtures/models/item/heatinginterconnectionpipes.json"
+        ]
+      }
+    },
+    {
+      "name": "Themaincornerpipeoftheheater",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "themaincornerpipeoftheheater",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/themaincornerpipeoftheheater.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/themaincornerpipeoftheheater.json",
+          "src/main/resources/assets/lightingfixtures/models/item/themaincornerpipeoftheheater.json",
+          "src/main/resources/assets/lightingfixtures/models/block/themaincornerpipeoftheheater.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/ThemaincornerpipeoftheheaterBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Themainheatingisthe",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "themainheatingisthe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/ThemainheatingistheBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/themainheatingisthe.json",
+          "src/main/resources/assets/lightingfixtures/models/block/themainheatingisthe.json",
+          "src/main/resources/assets/lightingfixtures/models/item/themainheatingisthe.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/themainheatingisthe.json"
+        ]
+      }
+    },
+    {
+      "name": "Themainbranchpipeoftheheater",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "themainbranchpipeoftheheater",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/themainbranchpipeoftheheater.json",
+          "src/main/resources/assets/lightingfixtures/models/item/themainbranchpipeoftheheater.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/themainbranchpipeoftheheater.json",
+          "src/main/resources/assets/lightingfixtures/models/block/themainbranchpipeoftheheater.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/ThemainbranchpipeoftheheaterBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Heatingsupervisor",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heatingsupervisor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/heatingsupervisor.json",
+          "src/main/resources/assets/lightingfixtures/models/block/heatingsupervisor.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/HeatingsupervisorBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/heatingsupervisor.json",
+          "src/main/resources/assets/lightingfixtures/models/item/heatingsupervisor.json"
+        ]
+      }
+    },
+    {
+      "name": "Heatingmainvalve",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heatingmainvalve",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/heatingmainvalve.json",
+          "src/main/resources/assets/lightingfixtures/models/block/heatingmainvalve.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/heatingmainvalve.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/heatingmainvalve.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/HeatingmainvalveBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Heatingbleedvalve",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heatingbleedvalve",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/HeatingbleedvalveBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/heatingbleedvalve.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/heatingbleedvalve.json",
+          "src/main/resources/assets/lightingfixtures/models/block/heatingbleedvalve.json",
+          "src/main/resources/assets/lightingfixtures/models/item/heatingbleedvalve.json"
+        ]
+      }
+    },
+    {
+      "name": "Heatinga",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heatinga",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/heatinga.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/HeatingaBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/heatinga.json",
+          "src/main/resources/assets/lightingfixtures/models/block/heatinga.json",
+          "src/main/resources/assets/lightingfixtures/models/item/heatinga.json"
+        ]
+      }
+    },
+    {
+      "name": "Heatingb",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heatingb",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/heatingb.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/HeatingbBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/heatingb.json",
+          "src/main/resources/assets/lightingfixtures/models/block/heatingb.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/heatingb.json"
+        ]
+      }
+    },
+    {
+      "name": "Heatingc",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heatingc",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/heatingc.json",
+          "src/main/resources/assets/lightingfixtures/models/block/heatingc.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/heatingc.json",
+          "src/main/resources/assets/lightingfixtures/models/item/heatingc.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/HeatingcBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Lampwarmthbath",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lampwarmthbath",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/lampwarmthbath.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/LampwarmthbathBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/lampwarmthbath.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/lampwarmthbath.json",
+          "src/main/resources/assets/lightingfixtures/models/block/lampwarmthbath.json"
+        ]
+      }
+    },
+    {
+      "name": "Csgui",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "csgui",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/procedures/CsguiProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cemospalcepa",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cemospalcepa",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/CemospalcepaBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/cemospalcepa.json",
+          "src/main/resources/assets/lightingfixtures/models/item/cemospalcepa.json",
+          "src/main/resources/assets/lightingfixtures/models/block/cemospalcepa.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/cemospalcepa.json"
+        ]
+      }
+    },
+    {
+      "name": "Fireemergencylight",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fire_emergency_light",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/fire_emergency_light.json",
+          "src/main/resources/assets/lightingfixtures/models/item/fire_emergency_light.json",
+          "src/main/resources/assets/lightingfixtures/models/block/fire_emergency_light.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/fire_emergency_light.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/FireemergencylightBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Smokedetector",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoke_detector",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/SmokedetectorBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/smoke_detector.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/smoke_detector.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/smoke_detector.json",
+          "src/main/resources/assets/lightingfixtures/models/item/smoke_detector.json"
+        ]
+      }
+    },
+    {
+      "name": "FireAlarmButton",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fire_alarm_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/fire_alarm_button.json",
+          "src/main/resources/assets/lightingfixtures/models/block/fire_alarm_button.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/FireAlarmButtonBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/fire_alarm_button.json",
+          "src/main/resources/assets/lightingfixtures/models/item/fire_alarm_button.json"
+        ]
+      }
+    },
+    {
+      "name": "AluminumGrille",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_grille",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/AluminumGrilleBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/aluminum_grille.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/aluminum_grille.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/aluminum_grille.json",
+          "src/main/resources/assets/lightingfixtures/models/item/aluminum_grille.json"
+        ]
+      }
+    },
+    {
+      "name": "AluminumGrille2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_grille_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/aluminum_grille_2.json",
+          "src/main/resources/assets/lightingfixtures/models/item/aluminum_grille_2.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/AluminumGrille2Block.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/aluminum_grille_2.json",
+          "src/main/resources/assets/lightingfixtures/models/block/aluminum_grille_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Aluminumtubesarefluorescent2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_tubesare_fluorescent_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/aluminum_tubesare_fluorescent_2.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Aluminumtubesarefluorescent2Block.java",
+          "src/main/resources/assets/lightingfixtures/models/item/aluminum_tubesare_fluorescent_2.json",
+          "src/main/resources/assets/lightingfixtures/models/block/aluminum_tubesare_fluorescent_2.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/aluminum_tubesare_fluorescent_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Supermarketantitheftsystem",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "supermarke_tantitheft_system",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/supermarke_tantitheft_system.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/SupermarketantitheftsystemBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/supermarke_tantitheft_system.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/supermarke_tantitheft_system.json",
+          "src/main/resources/assets/lightingfixtures/models/block/supermarke_tantitheft_system.json"
+        ]
+      }
+    },
+    {
+      "name": "SupermarketSelfCheckoutSystem",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "supermarket_self_checkout_system",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/supermarket_self_checkout_system.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/SupermarketSelfCheckoutSystemBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/supermarket_self_checkout_system.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/supermarket_self_checkout_system.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/supermarket_self_checkout_system.json"
+        ]
+      }
+    },
+    {
+      "name": "Highpowerelectricmeterbox",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "high_power_electric_meter_box",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/HighpowerelectricmeterboxBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/high_power_electric_meter_box.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/high_power_electric_meter_box.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/high_power_electric_meter_box.json",
+          "src/main/resources/assets/lightingfixtures/models/item/high_power_electric_meter_box.json"
+        ]
+      }
+    },
+    {
+      "name": "Electricalcabinets1x1380",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electrical_cabinets_1x1_380",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/electrical_cabinets_1x1_380.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Electricalcabinets1x1380Block.java",
+          "src/main/resources/assets/lightingfixtures/models/block/electrical_cabinets_1x1_380.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/electrical_cabinets_1x1_380.json",
+          "src/main/resources/assets/lightingfixtures/models/item/electrical_cabinets_1x1_380.json"
+        ]
+      }
+    },
+    {
+      "name": "Electricalcabinets1x2380",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electrical_cabinets_1x2_380",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/electrical_cabinets_1x2_380.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/electrical_cabinets_1x2_380.json",
+          "src/main/resources/assets/lightingfixtures/models/item/electrical_cabinets_1x2_380.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Electricalcabinets1x2380Block.java",
+          "src/main/resources/assets/lightingfixtures/models/block/electrical_cabinets_1x2_380.json"
+        ]
+      }
+    },
+    {
+      "name": "Cornertypefluorescentlamp",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corner_type_fluorescent_lamp",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/corner_type_fluorescent_lamp.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/corner_type_fluorescent_lamp.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/CornertypefluorescentlampBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/corner_type_fluorescent_lamp.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/corner_type_fluorescent_lamp.json"
+        ]
+      }
+    },
+    {
+      "name": "Fourtubefluorescentlamp",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "four_tube_fluorescent_lamp",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/FourtubefluorescentlampBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/four_tube_fluorescent_lamp.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/four_tube_fluorescent_lamp.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/four_tube_fluorescent_lamp.json",
+          "src/main/resources/assets/lightingfixtures/models/item/four_tube_fluorescent_lamp.json"
+        ]
+      }
+    },
+    {
+      "name": "Fourtubefluorescentlightwithlampshade",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "four_tube_fluorescent_light_with_lampshade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/four_tube_fluorescent_light_with_lampshade.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/FourtubefluorescentlightwithlampshadeBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/four_tube_fluorescent_light_with_lampshade.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/four_tube_fluorescent_light_with_lampshade.json",
+          "src/main/resources/assets/lightingfixtures/models/block/four_tube_fluorescent_light_with_lampshade.json"
+        ]
+      }
+    },
+    {
+      "name": "Track",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "track",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/TrackBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/track.json",
+          "src/main/resources/assets/lightingfixtures/models/item/track.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/track.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/track.json"
+        ]
+      }
+    },
+    {
+      "name": "Track2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "track_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/Track2Block.java",
+          "src/main/resources/assets/lightingfixtures/models/block/track_2.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/track_2.json",
+          "src/main/resources/assets/lightingfixtures/models/item/track_2.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/track_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Uhpec",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uhpec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/uhpec.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/uhpec.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/UhpecBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/uhpec.json",
+          "src/main/resources/assets/lightingfixtures/models/block/uhpec.json"
+        ]
+      }
+    },
+    {
+      "name": "Psg",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "psg",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/PsgBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/psg.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/psg.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/psg.json",
+          "src/main/resources/assets/lightingfixtures/models/item/psg.json"
+        ]
+      }
+    },
+    {
+      "name": "PSGA",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "psga",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/psga.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/psga.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/PSGABlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/psga.json",
+          "src/main/resources/assets/lightingfixtures/models/block/psga.json"
+        ]
+      }
+    },
+    {
+      "name": "PSGB",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "psgb",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/psgb.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/psgb.json",
+          "src/main/resources/assets/lightingfixtures/models/block/psgb.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/PSGBBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/psgb.json"
+        ]
+      }
+    },
+    {
+      "name": "OTEMBWTM",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "otembwtm",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/otembwtm.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/otembwtm.json",
+          "src/main/resources/assets/lightingfixtures/models/block/otembwtm.json",
+          "src/main/resources/assets/lightingfixtures/models/item/otembwtm.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/OTEMBWTMBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "EBWEM",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ebwem",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/EBWEMBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ebwem.json",
+          "src/main/resources/assets/lightingfixtures/models/item/ebwem.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/ebwem.json",
+          "src/main/resources/assets/lightingfixtures/models/block/ebwem.json"
+        ]
+      }
+    },
+    {
+      "name": "OEMBWTM",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oembwtm",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/OEMBWTMBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/oembwtm.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/oembwtm.json",
+          "src/main/resources/assets/lightingfixtures/models/item/oembwtm.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/oembwtm.json"
+        ]
+      }
+    },
+    {
+      "name": "Oembwsm",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oembwsm",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/OembwsmBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/oembwsm.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/oembwsm.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/oembwsm.json",
+          "src/main/resources/assets/lightingfixtures/models/block/oembwsm.json"
+        ]
+      }
+    },
+    {
+      "name": "Oembwfm",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oembwfm",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/oembwfm.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/OembwfmBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/oembwfm.json",
+          "src/main/resources/assets/lightingfixtures/models/item/oembwfm.json",
+          "src/main/resources/assets/lightingfixtures/models/block/oembwfm.json"
+        ]
+      }
+    },
+    {
+      "name": "Otembwaem",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "otembwaem",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/otembwaem.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/OtembwaemBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/otembwaem.json",
+          "src/main/resources/assets/lightingfixtures/models/item/otembwaem.json",
+          "src/main/resources/assets/lightingfixtures/models/block/otembwaem.json"
+        ]
+      }
+    },
+    {
+      "name": "OVEMV",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovemv",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/OVEMVBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/ovemv.json",
+          "src/main/resources/assets/lightingfixtures/models/block/ovemv.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ovemv.json",
+          "src/main/resources/assets/lightingfixtures/models/item/ovemv.json"
+        ]
+      }
+    },
+    {
+      "name": "OVEMV2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovemv_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/ovemv_2.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ovemv_2.json",
+          "src/main/resources/assets/lightingfixtures/models/block/ovemv_2.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/OVEMV2Block.java",
+          "src/main/resources/assets/lightingfixtures/models/item/ovemv_2.json"
+        ]
+      }
+    },
+    {
+      "name": "OVEMVT1",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovemvt_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/procedures/OVEMVT1Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OVEMV2T2",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovemv_2_t_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/procedures/OVEMV2T2Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TPFLST",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tpflst",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/tpflst.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/TPFLSTBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/tpflst.json",
+          "src/main/resources/assets/lightingfixtures/models/item/tpflst.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/tpflst.json"
+        ]
+      }
+    },
+    {
+      "name": "TPFLDT",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tpfldt",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/tpfldt.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/TPFLDTBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/tpfldt.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/tpfldt.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/tpfldt.json"
+        ]
+      }
+    },
+    {
+      "name": "EPLST",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eplst",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/eplst.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/EPLSTBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/eplst.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/eplst.json",
+          "src/main/resources/assets/lightingfixtures/models/item/eplst.json"
+        ]
+      }
+    },
+    {
+      "name": "EPLDT",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epldt",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/epldt.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/epldt.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/epldt.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/EPLDTBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/epldt.json"
+        ]
+      }
+    },
+    {
+      "name": "EPLEHB",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eplehb",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/eplehb.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/EPLEHBBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/eplehb.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/eplehb.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/eplehb.json"
+        ]
+      }
+    },
+    {
+      "name": "LETFLL",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "letfll",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/LETFLLBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/letfll.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/letfll.json",
+          "src/main/resources/assets/lightingfixtures/models/block/letfll.json",
+          "src/main/resources/assets/lightingfixtures/models/item/letfll.json"
+        ]
+      }
+    },
+    {
+      "name": "LETFLS",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "letfls",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/letfls.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/letfls.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/letfls.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/LETFLSBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/letfls.json"
+        ]
+      }
+    },
+    {
+      "name": "HFBH",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hfbh",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/hfbh.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/hfbh.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/hfbh.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/HFBHBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/hfbh.json"
+        ]
+      }
+    },
+    {
+      "name": "HFS",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hfs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/HFSBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/hfs.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/hfs.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/hfs.json",
+          "src/main/resources/assets/lightingfixtures/models/item/hfs.json"
+        ]
+      }
+    },
+    {
+      "name": "Ebwem2X3LCD",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ebwem_2_x_3_lcd",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/Ebwem2X3LCDBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ebwem_2_x_3_lcd.json",
+          "src/main/resources/assets/lightingfixtures/models/item/ebwem_2_x_3_lcd.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/ebwem_2_x_3_lcd.json",
+          "src/main/resources/assets/lightingfixtures/models/block/ebwem_2_x_3_lcd.json"
+        ]
+      }
+    },
+    {
+      "name": "EbwemLCD",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ebwem_lcd",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/ebwem_lcd.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ebwem_lcd.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/EbwemLCDBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/ebwem_lcd.json",
+          "src/main/resources/assets/lightingfixtures/models/item/ebwem_lcd.json"
+        ]
+      }
+    },
+    {
+      "name": "OVEMVLCD",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovemvlcd",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/ovemvlcd.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/ovemvlcd.json",
+          "src/main/resources/assets/lightingfixtures/models/block/ovemvlcd.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ovemvlcd.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/OVEMVLCDBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "OVEMVLCD2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovemvlcd_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/OVEMVLCD2Block.java",
+          "src/main/resources/assets/lightingfixtures/models/item/ovemvlcd_2.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/ovemvlcd_2.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ovemvlcd_2.json",
+          "src/main/resources/assets/lightingfixtures/models/block/ovemvlcd_2.json"
+        ]
+      }
+    },
+    {
+      "name": "OVEMVLCDT",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovemvlcdt",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/procedures/OVEMVLCDTProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OVEMVLCDT2",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovemvlcdt_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/procedures/OVEMVLCDT2Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ElectricCard",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electric_card",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/item/ElectricCardItem.java",
+          "src/main/resources/assets/lightingfixtures/models/item/electric_card.json"
+        ]
+      }
+    },
+    {
+      "name": "Power",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/procedures/PowerProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ESLS",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "esls",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/esls.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/esls.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/ESLSBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/esls.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/esls.json"
+        ]
+      }
+    },
+    {
+      "name": "ESLL",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "esll",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/esll.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/esll.json",
+          "src/main/resources/assets/lightingfixtures/models/block/esll.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/esll.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/ESLLBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Eslm",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eslm",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/EslmBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/eslm.json",
+          "src/main/resources/assets/lightingfixtures/models/block/eslm.json",
+          "src/main/resources/assets/lightingfixtures/models/item/eslm.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/eslm.json"
+        ]
+      }
+    },
+    {
+      "name": "LEDilh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "le_dilh",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/le_dilh.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/LEDilhBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/le_dilh.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/le_dilh.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/le_dilh.json"
+        ]
+      }
+    },
+    {
+      "name": "SLEDbc",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sle_dbc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/SLEDbcBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/sle_dbc.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/sle_dbc.json",
+          "src/main/resources/assets/lightingfixtures/models/item/sle_dbc.json",
+          "src/main/resources/assets/lightingfixtures/models/block/sle_dbc.json"
+        ]
+      }
+    },
+    {
+      "name": "MLEDbc",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mle_dbc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/mle_dbc.json",
+          "src/main/resources/assets/lightingfixtures/models/item/mle_dbc.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/mle_dbc.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/MLEDbcBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/mle_dbc.json"
+        ]
+      }
+    },
+    {
+      "name": "LLEDbc",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lle_dbc",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/lle_dbc.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/lle_dbc.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/lle_dbc.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/LLEDbcBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/lle_dbc.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "calling_sounds",
+      "files": [
+        "split"
+      ],
+      "category": "voice",
+      "subtitle": "Calling sounds"
+    },
+    {
+      "name": "azxs",
+      "files": [
+        "lu_yin__12"
+      ],
+      "category": "voice",
+      "subtitle": ""
+    },
+    {
+      "name": "like",
+      "files": [
+        "30770004372-1-30280"
+      ],
+      "category": "neutral",
+      "subtitle": "XXX！喜欢！"
+    },
+    {
+      "name": "gta",
+      "files": [
+        "gta"
+      ],
+      "category": "neutral",
+      "subtitle": "You are committing a crime"
+    }
+  ],
+  "tag_elements": {
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:Like"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "ru_ru": {
+      "block.lightingfixtures.fivepinsocket": "пятигнездовая розетка",
+      "item_group.lightingfixtures.le_dluminaires": "светодиодные светильники",
+      "block.lightingfixtures.led_flood_light_top": "светодиодный прожектор (верх)",
+      "block.lightingfixtures.smalldownlights": "маленькие точечные светильники",
+      "block.lightingfixtures.three_lamp_fluorescent_lampwith_lampshade": "трёхламповая люминесцентная лампа с плафоном",
+      "block.lightingfixtures.themaincornerpipeoftheheater": "главная угловая труба отопления",
+      "block.lightingfixtures.lampwarmthbath": "лампа тепла для ванной",
+      "block.lightingfixtures.heatingbranchpipe.description_0": "комбинируется с радиаторами школьного и домашнего модуля",
+      "block.lightingfixtures.double_tube_fluorescent_lampwith_lampshade": "двухламповая люминесцентная лампа с плафоном",
+      "block.lightingfixtures.eplst": "взрывозащищённая лампа — одна трубка",
+      "block.lightingfixtures.letfls.description_0": "§6\"Эту люминесцентную лампу T5 автор купил на PDD за шесть юаней, принёс домой и восстановил\"",
+      "block.lightingfixtures.themainbranchpipeoftheheater": "главная ответвляющая труба отопления",
+      "block.lightingfixtures.electricalcabinets_1x_1": "электрический шкаф 1×1",
+      "block.lightingfixtures.oembwfm": "уличный ящик счётчика с четырьмя счётчиками",
+      "block.lightingfixtures.twoopenthreepinsocket": "двойная розетка с тремя отверстиями",
+      "block.lightingfixtures.trackspotlights_1": "трековый точечный светильник (чёрный)",
+      "block.lightingfixtures.oneopenthreepinsocket": "одноместная розетка с тремя отверстиями",
+      "block.lightingfixtures.ceiling": "светодиодный потолочный светильник",
+      "block.lightingfixtures.doubleopenswitch": "двойной выключатель",
+      "block.lightingfixtures.accesscontrolintercomextension": "домофонная трубка",
+      "block.lightingfixtures.accesscontrolintercomhost": "главный блок домофона",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_2x_3": "распределительный щит со счётчиком 2×3",
+      "block.lightingfixtures.psga": "парковый фонарь",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_2x_2": "распределительный щит со счётчиком 2×2",
+      "block.lightingfixtures.psgb": "парковый фонарь",
+      "block.lightingfixtures.dtubeceilinglight": "потолочный светильник с 2D трубкой",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_2x_1": "распределительный щит со счётчиком 1×2",
+      "block.lightingfixtures.threeonswitch": "тройной выключатель",
+      "block.lightingfixtures.letfll": "интегрированная электронная люминесцентная лампа T5 — длинная",
+      "block.lightingfixtures.track": "трек",
+      "block.lightingfixtures.quadrupleswitch": "четверной выключатель",
+      "block.lightingfixtures.letfls": "интегрированная электронная люминесцентная лампа T5 — короткая",
+      "block.lightingfixtures.aluminumgusset_1_x_2": "алюминиевая панель 1×2",
+      "block.lightingfixtures.fire_emergency_light": "пожарный аварийный светильник",
+      "block.lightingfixtures.smoke_detector": "дымовой извещатель",
+      "block.lightingfixtures.aluminum_tubesare_fluorescent_2": "алюминиевая трубная люминесцентная лампа",
+      "block.lightingfixtures.heatingb.description_0": "комбинируется с радиаторами школьного и домашнего модуля",
+      "block.lightingfixtures.four_tube_fluorescent_light_with_lampshade": "четырёхламповая люминесцентная лампа с плафоном",
+      "block.lightingfixtures.mle_dbc": "Medium LED ball cannon",
+      "block.lightingfixtures.accesscontrolintercomextension_on": "домофонная трубка (вкл)",
+      "block.lightingfixtures.heatingmainvalve": "главный клапан отопления",
+      "block.lightingfixtures.aluminum_grille_2": "алюминиевая решётка",
+      "block.lightingfixtures.le_dcanopylight_2_x_2": "светодиодный потолочный светильник 2×2",
+      "block.lightingfixtures.fluorescentceilinglights": "люминесцентный потолочный светильник 1×2",
+      "block.lightingfixtures.metalhalidefloodlights": "металлогалогенный прожектор",
+      "block.lightingfixtures.electrical_cabinets_1x2_380": "электрический шкаф 1×2 380",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_1x_1": "распределительный щит со счётчиком 1×1",
+      "block.lightingfixtures.le_dpanellight": "светодиодный панельный светильник",
+      "block.lightingfixtures.energysavinlamplarge": "энергосберегающая лампа (большая)",
+      "block.lightingfixtures.doubletubeceilinglight": "двухтрубный потолочный светильник",
+      "block.lightingfixtures.threetubefluorescentlamp": "трёхтрубная люминесцентная лампа",
+      "block.lightingfixtures.heatingsupervisor": "главная труба отопления",
+      "block.lightingfixtures.corner_type_fluorescent_lamp": "угловая люминесцентная лампа",
+      "block.lightingfixtures.otembwaem": "уличный ящик счётчика с одним счётчиком",
+      "block.lightingfixtures.sevenpinsocket": "семигнездовая розетка",
+      "subtitles.like": "XXX! нравится!",
+      "block.lightingfixtures.doubletubefluorescentlamps": "двухтрубные люминесцентные лампы",
+      "block.lightingfixtures.hfs": "выключатель вентилятора обогревателя",
+      "block.lightingfixtures.sle_dbc": "Small LED ball cannon",
+      "block.lightingfixtures.aluminumgusset": "алюминиевая панель",
+      "block.lightingfixtures.heatingpipe": "длинная труба отопления",
+      "block.lightingfixtures.le_dfloodlights": "светодиодный прожектор",
+      "block.lightingfixtures.ovemvlcd_2": "Outdoor 380V Electric Meter Box",
+      "block.lightingfixtures.heatingpipe.description_0": "комбинируется с радиаторами школьного и домашнего модуля",
+      "block.lightingfixtures.heatinga.description_0": "комбинируется с радиаторами школьного и домашнего модуля",
+      "block.lightingfixtures.trackspotlights": "трековые точечные светильники",
+      "block.lightingfixtures.electronicdoubletubefluorescentlamps": "электронные двухтрубные люминесцентные лампы",
+      "block.lightingfixtures.ebwem_lcd": "Electrical box with electricity meter 1X1",
+      "block.lightingfixtures.lle_dbc": "Large LED ball cannon",
+      "block.lightingfixtures.ovemv_2": "уличный ящик счётчика 380 В",
+      "block.lightingfixtures.hfs.description_0": "реальный выключатель из дома",
+      "block.lightingfixtures.tungstenbulbs": "лампа накаливания",
+      "block.lightingfixtures.singleswitchswitch": "одинарный выключатель",
+      "block.lightingfixtures.electronicsingletubefluorescentamps": "электронные однотрубные люминесцентные лампы",
+      "block.lightingfixtures.iodinetungstenlamp": "йодно-вольфрамовая лампа",
+      "block.lightingfixtures.otembwtm": "уличный ящик счётчика с двумя счётчиками",
+      "block.lightingfixtures.hfbh": "вентиляторный обогреватель для ванной",
+      "block.lightingfixtures.metalhalidefloodlight": "металлогалогенный прожектор (верх)",
+      "block.lightingfixtures.tpflst": "защищённая люминесцентная лампа — одна трубка",
+      "block.lightingfixtures.eslm": "Energy-saving lamp (large)",
+      "block.lightingfixtures.esll": "Energy-saving lamp (medium)",
+      "block.lightingfixtures.fluorescentlightbulbs": "энергосберегающая лампа (маленькая)",
+      "block.lightingfixtures.themainheatingisthe": "главная горизонтально-вертикальная труба отопления",
+      "block.lightingfixtures.singletubefluorescentlamps_1": "одностойка с двумя трубками люминесцентная лампа",
+      "block.lightingfixtures.fluorescentdoublebracket": "люминесцентный двойной кронштейн",
+      "block.lightingfixtures.ebwem_2_x_3_lcd": "Electrical box with electricity meter 2X3",
+      "block.lightingfixtures.uhpec": "сверхмощный электрический шкаф",
+      "block.lightingfixtures.heatinginterconnectionpipes.description_0": "комбинируется с радиаторами школьного и домашнего модуля",
+      "block.lightingfixtures.esls": "Energy-saving lamps (small)",
+      "block.lightingfixtures.track_2": "трек",
+      "block.lightingfixtures.heatingpipes.description_0": "комбинируется с радиаторами школьного и домашнего модуля",
+      "block.lightingfixtures.highpoweroutlets": "розетка высокой мощности",
+      "block.lightingfixtures.heatingc.description_0": "комбинируется с радиаторами школьного и домашнего модуля",
+      "block.lightingfixtures.aluminumgusset_2_x_2": "алюминиевая панель 2×2",
+      "block.lightingfixtures.fire_alarm_button": "кнопка пожарной сигнализации",
+      "block.lightingfixtures.electricalboxwithelectricitymeter": "распределительный щит со счётчиком 1×1",
+      "block.lightingfixtures.watermeter": "водяной счётчик",
+      "block.lightingfixtures.eplehb": "взрывозащищённая лампа — удлинённый подвес",
+      "block.lightingfixtures.oembwsm": "уличный ящик счётчика с шестью счётчиками",
+      "block.lightingfixtures.heatingpipes": "трубы отопления",
+      "block.lightingfixtures.largecylinderlamp": "большой точечный светильник",
+      "item.lightingfixtures.like.desc": "очень популярная двумерная музыка",
+      "block.lightingfixtures.theheatingis": "главная горизонтальная труба отопления",
+      "block.lightingfixtures.classroom_led_lights": "классный светодиодный светильник",
+      "block.lightingfixtures.supermarke_tantitheft_system": "супермаркетная противокражная система",
+      "block.lightingfixtures.le_dilh": "LED integrated lamp head",
+      "block.lightingfixtures.ovemv": "уличный ящик счётчика 380 В",
+      "block.lightingfixtures.hfbh.description_0": "§9\"Спасибо тёплому вентилятору в моей ванной. Ты работал молча много лет, и наконец я сделал тебя в Minecraft. Хотя ты сам об этом не знаешь.\"",
+      "block.lightingfixtures.gasmeters": "газовый счётчик",
+      "block.lightingfixtures.cemospalcepa": "алюминиевая панель потолочного громкоговорителя",
+      "block.lightingfixtures.ebwem": "распределительный щит со счётчиком 2×1",
+      "item_group.lightingfixtures.switchsocketsandfans": "прочие устройства",
+      "block.lightingfixtures.double_tube_singlestand_fluorescent_lamp_with_lampshade": "одностойка с двумя трубками люминесцентная лампа с плафоном",
+      "block.lightingfixtures.tpfldt": "защищённая люминесцентная лампа — две трубки",
+      "block.lightingfixtures.le_dcanopylight_1_x_2": "светодиодный потолочный светильник 1×2",
+      "block.lightingfixtures.high_power_electric_meter_box": "высокомощный ящик счётчика",
+      "block.lightingfixtures.fluorescentlightsforclassrooms": "люминесцентная лампа для класса",
+      "block.lightingfixtures.rain_cs": "дождь CS",
+      "block.lightingfixtures.aluminum_grille": "алюминиевая решётка",
+      "block.lightingfixtures.oembwtm": "уличный ящик счётчика с тремя счётчиками",
+      "block.lightingfixtures.singletubefluorescentlamps": "однотрубные люминесцентные лампы",
+      "block.lightingfixtures.single_tube_fluorescent_lamp_with_lampshade": "однотрубная люминесцентная лампа с плафоном",
+      "block.lightingfixtures.psg": "парковый фонарь",
+      "block.lightingfixtures.mediumdownlight": "средний точечный светильник",
+      "block.lightingfixtures.four_tube_fluorescent_lamp": "четырёхламповая люминесцентная лампа",
+      "block.lightingfixtures.internetoutlets": "интернет-розетка",
+      "block.lightingfixtures.t_vsocket": "телевизионная розетка",
+      "block.lightingfixtures.heatingbranchpipe": "ответвляющая труба отопления",
+      "block.lightingfixtures.electrical_cabinets_1x1_380": "электрический шкаф 1×1 380",
+      "block.lightingfixtures.letfll.description_0": "§6\"Эту люминесцентную лампу T5 автор купил на PDD за шесть юаней, принёс домой и восстановил\"",
+      "block.lightingfixtures.aluminumtubesarefluorescent": "алюминиевая трубная люминесцентная лампа",
+      "item.lightingfixtures.electric_card": "Electric Card",
+      "block.lightingfixtures.dualnetworkoutlets": "двойная интернет-розетка",
+      "subtitles.gta": "You are committing a crime",
+      "block.lightingfixtures.fluorescent_lamp_holders": "держатель люминесцентной лампы",
+      "block.lightingfixtures.heatingc": "соединительная труба отопления",
+      "block.lightingfixtures.supermarket_self_checkout_system": "система самообслуживания в супермаркете",
+      "block.lightingfixtures.epldt": "взрывозащищённая лампа — две трубки",
+      "block.lightingfixtures.energysavinglampmedium": "энергосберегающая лампа (средняя)",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_2x_380": "распределительный щит со счётчиком 2×2 380",
+      "block.lightingfixtures.heatinginterconnectionpipes": "соединительная труба отопления",
+      "block.lightingfixtures.t_vnetworksocket": "телевизионно-интернетная розетка",
+      "item.lightingfixtures.like": "§6нравится",
+      "block.lightingfixtures.heatingb": "соединительная труба отопления",
+      "block.lightingfixtures.fluorescentluminaires": "старомодный подвесной люминесцентный светильник",
+      "block.lightingfixtures.heatinga": "соединительная труба отопления",
+      "block.lightingfixtures.ovemvlcd": "Outdoor 380V Electric Meter Box",
+      "block.lightingfixtures.fluorescentceilinglights_2": "люминесцентный потолочный светильник 2×2",
+      "block.lightingfixtures.electricalcabinets_2x_3": "электрический шкаф 2×3",
+      "block.lightingfixtures.electricalcabinets_2x_2": "электрический шкаф 2×2",
+      "item_group.lightingfixtures.lightingfixtures": "люминесцентные лампы",
+      "subtitles.calling_sounds": "вызов",
+      "block.lightingfixtures.fluorescentceilinglights_1": "люминесцентный потолочный светильник",
+      "block.lightingfixtures.electricalcabinets_1_x_2": "электрический шкаф 1×2"
+    },
+    "en_us": {
+      "block.lightingfixtures.fivepinsocket": "Five-pin socket",
+      "item_group.lightingfixtures.le_dluminaires": "LED luminaires",
+      "block.lightingfixtures.led_flood_light_top": "LED Flood Light (Top)",
+      "block.lightingfixtures.smalldownlights": "Small downlights",
+      "block.lightingfixtures.three_lamp_fluorescent_lampwith_lampshade": "Three-tube fluorescent lamp",
+      "block.lightingfixtures.themaincornerpipeoftheheater": "The main corner pipe of the heater",
+      "block.lightingfixtures.lampwarmthbath": "Lamp warmth bath",
+      "block.lightingfixtures.heatingbranchpipe.description_0": "Pair with school and home modular radiators",
+      "block.lightingfixtures.double_tube_fluorescent_lampwith_lampshade": "Double-tube fluorescent lamps",
+      "block.lightingfixtures.eplst": "Explosion-proof Lamp - Single Tube",
+      "block.lightingfixtures.letfls.description_0": "§6\"This T5 fluorescent lamp was bought by the author PDD for six yuan, brought home, and restored\"",
+      "block.lightingfixtures.themainbranchpipeoftheheater": "The main branch pipe of the heater",
+      "block.lightingfixtures.electricalcabinets_1x_1": "Electrical cabinets 1X1",
+      "block.lightingfixtures.oembwfm": "Outdoor electric meter box with four meters",
+      "block.lightingfixtures.twoopenthreepinsocket": "Two-open three-pin socket",
+      "block.lightingfixtures.trackspotlights_1": "Track spotlights",
+      "block.lightingfixtures.oneopenthreepinsocket": "One open three-pin socket",
+      "block.lightingfixtures.ceiling": "Ceiling",
+      "block.lightingfixtures.doubleopenswitch": "Double-open switch",
+      "block.lightingfixtures.accesscontrolintercomextension": "Access control intercom extension",
+      "block.lightingfixtures.accesscontrolintercomhost": "Access control intercom host",
+      "block.lightingfixtures.psga": "Park streetlights",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_2x_3": "Electrical box with electricity meter 2X3",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_2x_2": "Electrical box with electricity meter 2X2",
+      "block.lightingfixtures.psgb": "Park streetlights",
+      "block.lightingfixtures.dtubeceilinglight": "2D tube ceiling light",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_2x_1": "Electrical cabinets 2X1",
+      "block.lightingfixtures.threeonswitch": "Three-on switch",
+      "block.lightingfixtures.letfll": "Integrated electronic T5 fluorescent lamp - long",
+      "block.lightingfixtures.quadrupleswitch": "Quadruple switch",
+      "block.lightingfixtures.track": "Track",
+      "block.lightingfixtures.letfls": "Integrated electronic T5 fluorescent lamp - short",
+      "block.lightingfixtures.aluminumgusset_1_x_2": "Aluminum gusset 1 X 2",
+      "block.lightingfixtures.fire_emergency_light": "Fire emergency light",
+      "block.lightingfixtures.smoke_detector": "Smoke detector",
+      "block.lightingfixtures.aluminum_tubesare_fluorescent_2": "Aluminum tubes are fluorescent",
+      "block.lightingfixtures.heatingb.description_0": "Pair with school and home modular radiators",
+      "block.lightingfixtures.four_tube_fluorescent_light_with_lampshade": "Four-tube fluorescent light with lampshade",
+      "block.lightingfixtures.mle_dbc": "Medium LED ball cannon",
+      "block.lightingfixtures.accesscontrolintercomextension_on": "Access control intercom extension",
+      "block.lightingfixtures.heatingmainvalve": "Heating main valve",
+      "block.lightingfixtures.aluminum_grille_2": "Aluminum Grille",
+      "block.lightingfixtures.le_dcanopylight_2_x_2": "LED canopy light 2X2",
+      "block.lightingfixtures.heatingbleedvalve": "Heating bleed valve",
+      "block.lightingfixtures.metalhalidefloodlights": "Metal halide floodlights",
+      "block.lightingfixtures.fluorescentceilinglights": "Fluorescent ceiling lights (1X2)",
+      "block.lightingfixtures.electrical_cabinets_1x2_380": "Electrical cabinets 1x2 380",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_1x_1": "Electrical box with electricity meter 1X1",
+      "block.lightingfixtures.le_dpanellight": "LED panel light",
+      "block.lightingfixtures.energysavinlamplarge": "Energy-saving lamp (large)",
+      "block.lightingfixtures.doubletubeceilinglight": "Double-tube ceiling light",
+      "block.lightingfixtures.threetubefluorescentlamp": "Three-tube fluorescent lamp",
+      "block.lightingfixtures.heatingsupervisor": "Heating supervisor",
+      "block.lightingfixtures.corner_type_fluorescent_lamp": "Corner-type fluorescent lamp",
+      "block.lightingfixtures.otembwaem": "Outdoor type electric meter box with an electric meter",
+      "block.lightingfixtures.sevenpinsocket": "Seven-pin socket",
+      "subtitles.like": "XXX ! like !",
+      "block.lightingfixtures.doubletubefluorescentlamps": "Double-tube fluorescent lamps",
+      "block.lightingfixtures.hfs": "Heater fan switch",
+      "block.lightingfixtures.sle_dbc": "Small LED ball cannon",
+      "block.lightingfixtures.aluminumgusset": "Aluminum gusset",
+      "block.lightingfixtures.heatingpipe": "Heating pipe",
+      "block.lightingfixtures.le_dfloodlights": "LED flood lights",
+      "block.lightingfixtures.ovemvlcd_2": "Outdoor 380V Electric Meter Box",
+      "block.lightingfixtures.heatingpipe.description_0": "Pair with school and home modular radiators",
+      "block.lightingfixtures.heatinga.description_0": "Pair with school and home modular radiators",
+      "block.lightingfixtures.trackspotlights": "Track spotlights",
+      "block.lightingfixtures.electronicdoubletubefluorescentlamps": "Electronic double-tube fluorescent lamps",
+      "block.lightingfixtures.ebwem_lcd": "Electrical box with electricity meter 1X1 LCD",
+      "block.lightingfixtures.lle_dbc": "Large LED ball cannon",
+      "block.lightingfixtures.ovemv_2": "Outdoor 380V Electric Meter Box",
+      "block.lightingfixtures.hfs.description_0": "The actual switch comes from home",
+      "block.lightingfixtures.tungstenbulbs": "Tungsten bulbs",
+      "block.lightingfixtures.singleswitchswitch": "Single-switch switch",
+      "block.lightingfixtures.electronicsingletubefluorescentamps": "Electronic single-tube fluorescent lamps",
+      "block.lightingfixtures.iodinetungstenlamp": "Iodine-tungsten lamp",
+      "block.lightingfixtures.otembwtm": "Outdoor type electric meter box with two meters",
+      "block.lightingfixtures.hfbh": "Heated fan bathroom heater",
+      "block.lightingfixtures.metalhalidefloodlight": "Metal halide floodlights",
+      "block.lightingfixtures.tpflst": "Three-proof Fluorescent Lamp - Single Tube",
+      "block.lightingfixtures.eslm": "Energy-saving lamp (large)",
+      "block.lightingfixtures.esll": "Energy-saving lamp (medium)",
+      "block.lightingfixtures.fluorescentlightbulbs": "Energy-saving lamps (small)",
+      "block.lightingfixtures.themainheatingisthe": "The main heating is the horizontal and vertical pipes",
+      "block.lightingfixtures.singletubefluorescentlamps_1": "Single-stand double-tube fluorescent lamps",
+      "block.lightingfixtures.fluorescentdoublebracket": "Fluorescent double bracket",
+      "block.lightingfixtures.ebwem_2_x_3_lcd": "Electrical box with electricity meter 2X3 LCD",
+      "block.lightingfixtures.uhpec": "Ultra-high power electrical cabinet",
+      "block.lightingfixtures.heatinginterconnectionpipes.description_0": "Pair with school and home modular radiators",
+      "block.lightingfixtures.esls": "Energy-saving lamps (small)",
+      "block.lightingfixtures.track_2": "Track",
+      "block.lightingfixtures.heatingpipes.description_0": "Pair with school and home modular radiators",
+      "block.lightingfixtures.highpoweroutlets": "High-power outlets",
+      "block.lightingfixtures.heatingc.description_0": "Pair with school and home modular radiators",
+      "block.lightingfixtures.aluminumgusset_2_x_2": "Aluminum gusset 2 X 2",
+      "subtitles.azxs": "",
+      "block.lightingfixtures.fire_alarm_button": "Fire Alarm Button",
+      "block.lightingfixtures.electricalboxwithelectricitymeter": "Electrical box with electricity meter 1X1",
+      "block.lightingfixtures.watermeter": "Water meter",
+      "block.lightingfixtures.eplehb": "Explosion-proof Light - Extended Hanging Bracket",
+      "block.lightingfixtures.oembwsm": "Outdoor electric meter box with six meters",
+      "block.lightingfixtures.heatingpipes": "Heating pipes",
+      "block.lightingfixtures.largecylinderlamp": "Large-cylinder lamp",
+      "item.lightingfixtures.like.desc": "Very popular two-dimensional music",
+      "block.lightingfixtures.theheatingis": "The heating is mainly in the horizontal pipe",
+      "block.lightingfixtures.classroom_led_lights": "Classroom LED Lights",
+      "block.lightingfixtures.supermarke_tantitheft_system": "Supermarket anti-theft system",
+      "block.lightingfixtures.le_dilh": "LED integrated lamp head",
+      "block.lightingfixtures.ovemv": "Outdoor 380V Electric Meter Box",
+      "block.lightingfixtures.hfbh.description_0": "§9\"Thanks to the warm air bathroom heater in my home.   You have been working silently for so many years, and I finally made you in Minecraft.   Although you yourself don\u0027t know it.\"",
+      "block.lightingfixtures.gasmeters": "Gas meters",
+      "block.lightingfixtures.cemospalcepa": "Ceiling-mounted speaker aluminum ceiling pane",
+      "block.lightingfixtures.ebwem": "Electrical box with electricity meter 2X1",
+      "item_group.lightingfixtures.switchsocketsandfans": "Switch sockets and fans",
+      "block.lightingfixtures.double_tube_singlestand_fluorescent_lamp_with_lampshade": "Single-stand double-tube fluorescent lamps",
+      "block.lightingfixtures.tpfldt": "Three-proof Fluorescent Lamp - Double Tube",
+      "block.lightingfixtures.le_dcanopylight_1_x_2": "LED canopylight 1X2",
+      "block.lightingfixtures.high_power_electric_meter_box": "High-power electric meter box",
+      "block.lightingfixtures.fluorescentlightsforclassrooms": "Fluorescent lights for classrooms",
+      "block.lightingfixtures.rain_cs": "Rain CS",
+      "block.lightingfixtures.aluminum_grille": "Aluminum Grille",
+      "block.lightingfixtures.oembwtm": "Outdoor electric meter box with three meters",
+      "block.lightingfixtures.singletubefluorescentlamps": "single-tube fluorescent lamps",
+      "block.lightingfixtures.single_tube_fluorescent_lamp_with_lampshade": "single-tube fluorescent lamps",
+      "block.lightingfixtures.psg": "Park streetlights",
+      "block.lightingfixtures.mediumdownlight": "Medium downlight",
+      "block.lightingfixtures.four_tube_fluorescent_lamp": "Four-tube fluorescent lamp",
+      "block.lightingfixtures.internetoutlets": "Internet outlets",
+      "block.lightingfixtures.t_vsocket": "TV socket",
+      "block.lightingfixtures.heatingbranchpipe": "Heating branch pipe",
+      "block.lightingfixtures.electrical_cabinets_1x1_380": "Electrical cabinets 1x1 380",
+      "block.lightingfixtures.letfll.description_0": "§6\"This T5 fluorescent lamp was bought by the author PDD for six yuan, brought home, and restored\"",
+      "block.lightingfixtures.aluminumtubesarefluorescent": "Aluminum tubes are fluorescent",
+      "item.lightingfixtures.electric_card": "Electric Card",
+      "block.lightingfixtures.dualnetworkoutlets": "Dual network outlets",
+      "subtitles.gta": "You are committing a crime",
+      "block.lightingfixtures.fluorescent_lamp_holders": "Fluorescent lamp holders",
+      "block.lightingfixtures.heatingc": "Heating interconnection pipes",
+      "block.lightingfixtures.supermarket_self_checkout_system": "Supermarket Self Checkout System",
+      "block.lightingfixtures.epldt": "Explosion-proof Lamp - Double Tube",
+      "block.lightingfixtures.energysavinglampmedium": "Energy-saving lamp (medium)",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_2x_380": "Electrical box with electricity meter 2X2 380",
+      "block.lightingfixtures.heatinginterconnectionpipes": "Heating interconnection pipes",
+      "block.lightingfixtures.t_vnetworksocket": "TV network socket",
+      "item.lightingfixtures.like": "§6Like",
+      "block.lightingfixtures.heatingb": "Heating interconnection pipes",
+      "block.lightingfixtures.fluorescentluminaires": "Old-fashioned ceiling-mounted fluorescent luminaires",
+      "block.lightingfixtures.heatinga": "Heating interconnection pipes",
+      "block.lightingfixtures.ovemvlcd": "Outdoor 380V Electric Meter Box LCD",
+      "block.lightingfixtures.fluorescentceilinglights_2": "Fluorescent ceiling lights （ 2X2）",
+      "block.lightingfixtures.electricalcabinets_2x_3": "Electrical cabinets 2X2",
+      "block.lightingfixtures.electricalcabinets_2x_2": "Electrical cabinets 2X2",
+      "item_group.lightingfixtures.lightingfixtures": "fluorescent lamp",
+      "subtitles.calling_sounds": "Calling sounds",
+      "block.lightingfixtures.fluorescentceilinglights_1": "Fluorescent ceiling lights",
+      "block.lightingfixtures.electricalcabinets_1_x_2": "Electrical cabinets 1X2"
+    },
+    "zh_cn": {
+      "block.lightingfixtures.fivepinsocket": "五孔插座",
+      "item_group.lightingfixtures.le_dluminaires": "LED灯具",
+      "block.lightingfixtures.led_flood_light_top": "LED投光灯 （上）",
+      "block.lightingfixtures.smalldownlights": "小筒灯",
+      "block.lightingfixtures.three_lamp_fluorescent_lampwith_lampshade": "三管荧光灯",
+      "block.lightingfixtures.themaincornerpipeoftheheater": "暖气主转弯管",
+      "block.lightingfixtures.lampwarmthbath": "灯暖浴霸",
+      "block.lightingfixtures.heatingbranchpipe.description_0": "搭配学校与家庭模组暖气片",
+      "block.lightingfixtures.double_tube_fluorescent_lampwith_lampshade": "双管荧光灯",
+      "block.lightingfixtures.eplst": "防爆型灯-单灯管",
+      "block.lightingfixtures.letfls.description_0": "§6\"本T5荧光灯具由作者PDD上花六块钱买下来回家还原\"",
+      "block.lightingfixtures.themainbranchpipeoftheheater": "暖气主分支管",
+      "block.lightingfixtures.electricalcabinets_1x_1": "配电箱 1X1",
+      "block.lightingfixtures.oembwfm": "户外型电表箱，带4个电表",
+      "block.lightingfixtures.twoopenthreepinsocket": "二开五孔插座",
+      "block.lightingfixtures.trackspotlights_1": "轨道射灯（黑）",
+      "block.lightingfixtures.oneopenthreepinsocket": "一开五孔插座",
+      "block.lightingfixtures.ceiling": "LED 吸顶灯",
+      "block.lightingfixtures.doubleopenswitch": "双开开关",
+      "block.lightingfixtures.accesscontrolintercomextension": "门禁对讲分机",
+      "block.lightingfixtures.accesscontrolintercomhost": "门禁对讲主机",
+      "block.lightingfixtures.psga": "公园路灯",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_2x_3": "带电表的配电箱 2X3 ",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_2x_2": "带电表的配电箱 2X2",
+      "block.lightingfixtures.psgb": "公园路灯",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_2x_1": "带电表的配电箱 1X2",
+      "block.lightingfixtures.dtubeceilinglight": "2D灯管吸顶灯",
+      "block.lightingfixtures.threeonswitch": "三开开关",
+      "block.lightingfixtures.letfll": "一体化电子T5荧光灯-长",
+      "block.lightingfixtures.track": "轨道",
+      "block.lightingfixtures.quadrupleswitch": "四开开关",
+      "block.lightingfixtures.letfls": "一体化电子T5荧光灯-短",
+      "block.lightingfixtures.aluminumgusset_1_x_2": "铝扣板 1X2",
+      "block.lightingfixtures.fire_emergency_light": "消防应急灯",
+      "block.lightingfixtures.smoke_detector": "烟雾报警器",
+      "block.lightingfixtures.aluminum_tubesare_fluorescent_2": "铝管通荧光灯",
+      "block.lightingfixtures.heatingb.description_0": "搭配学校与家庭模组暖气片",
+      "block.lightingfixtures.four_tube_fluorescent_light_with_lampshade": "带灯罩的四灯管荧光灯",
+      "block.lightingfixtures.mle_dbc": "中型led球炮",
+      "block.lightingfixtures.accesscontrolintercomextension_on": "门禁对讲分机",
+      "block.lightingfixtures.heatingmainvalve": "暖气主管阀门",
+      "block.lightingfixtures.aluminum_grille_2": "铝格栅",
+      "block.lightingfixtures.le_dcanopylight_2_x_2": "LED 棚顶灯 2X2",
+      "block.lightingfixtures.heatingbleedvalve": "暖气放气阀",
+      "block.lightingfixtures.fluorescentceilinglights": "荧光棚顶灯 1X2",
+      "block.lightingfixtures.metalhalidefloodlights": "金卤投光灯",
+      "block.lightingfixtures.electrical_cabinets_1x2_380": "配电箱 1X2 380",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_1x_1": "带电表的配电箱 1X1",
+      "block.lightingfixtures.le_dpanellight": "LED 棚顶灯",
+      "block.lightingfixtures.energysavinlamplarge": "节能灯 （大）",
+      "block.lightingfixtures.doubletubeceilinglight": "双管吸顶灯",
+      "block.lightingfixtures.threetubefluorescentlamp": "三管荧光灯",
+      "block.lightingfixtures.heatingsupervisor": "暖气主管",
+      "block.lightingfixtures.corner_type_fluorescent_lamp": "墙角电子荧光灯",
+      "block.lightingfixtures.otembwaem": "户外型电表箱，带有电表",
+      "block.lightingfixtures.sevenpinsocket": "七孔插座",
+      "subtitles.like": "XXX！喜欢！",
+      "block.lightingfixtures.doubletubefluorescentlamps": "双管荧光灯",
+      "block.lightingfixtures.hfs": "浴霸开关",
+      "block.lightingfixtures.sle_dbc": "小型led球炮",
+      "block.lightingfixtures.aluminumgusset": "铝扣板",
+      "block.lightingfixtures.heatingpipe": "暖气长管",
+      "block.lightingfixtures.le_dfloodlights": "LED 投光灯",
+      "block.lightingfixtures.ovemvlcd_2": "带电表的配电箱 2X3 LCD",
+      "block.lightingfixtures.heatingpipe.description_0": "搭配学校与家庭模组暖气片",
+      "block.lightingfixtures.heatinga.description_0": "搭配学校与家庭模组暖气片",
+      "block.lightingfixtures.trackspotlights": "轨道射灯",
+      "block.lightingfixtures.electronicdoubletubefluorescentlamps": "电子双管荧光灯 ",
+      "block.lightingfixtures.ebwem_lcd": "带电表的配电箱 1X1 LCD",
+      "block.lightingfixtures.lle_dbc": "大型led球炮",
+      "block.lightingfixtures.ovemv_2": "户外型380伏电表箱",
+      "block.lightingfixtures.hfs.description_0": "§b \"开关实物来自家中\"",
+      "block.lightingfixtures.tungstenbulbs": "白炽灯泡",
+      "block.lightingfixtures.singleswitchswitch": "单开开关 ",
+      "block.lightingfixtures.electronicsingletubefluorescentamps": "电子单管荧光灯",
+      "block.lightingfixtures.iodinetungstenlamp": "工地用碘钨灯",
+      "block.lightingfixtures.otembwtm": "户外型电表箱，带2个电表",
+      "block.lightingfixtures.hfbh": "风暖浴霸",
+      "block.lightingfixtures.metalhalidefloodlight": "金卤投光灯（上）",
+      "block.lightingfixtures.tpflst": "三防型荧光灯-单灯管",
+      "block.lightingfixtures.eslm": "节能灯 （大）",
+      "block.lightingfixtures.esll": "节能灯 （中）",
+      "block.lightingfixtures.fluorescentlightbulbs": "节能灯 （小）",
+      "block.lightingfixtures.themainheatingisthe": "暖气主横竖管",
+      "block.lightingfixtures.singletubefluorescentlamps_1": "单灯架双灯管荧光灯 ",
+      "block.lightingfixtures.fluorescentdoublebracket": "荧光灯双支架",
+      "block.lightingfixtures.ebwem_2_x_3_lcd": "带电表的配电箱 2X3 LCD",
+      "block.lightingfixtures.uhpec": "超高功率电力柜",
+      "block.lightingfixtures.heatinginterconnectionpipes.description_0": "搭配学校与家庭模组暖气片",
+      "block.lightingfixtures.esls": "节能灯 （小）",
+      "block.lightingfixtures.track_2": "轨道",
+      "block.lightingfixtures.heatingpipes.description_0": "搭配学校与家庭模组暖气片",
+      "block.lightingfixtures.highpoweroutlets": "大功率插座",
+      "block.lightingfixtures.heatingc.description_0": "搭配学校与家庭模组暖气片",
+      "block.lightingfixtures.aluminumgusset_2_x_2": "铝扣板 2X2",
+      "subtitles.azxs": "",
+      "block.lightingfixtures.fire_alarm_button": "消防报警按钮",
+      "block.lightingfixtures.electricalboxwithelectricitymeter": "带电表的配电箱 1X1",
+      "block.lightingfixtures.watermeter": "水表",
+      "block.lightingfixtures.eplehb": "防爆型灯-加长吊架",
+      "block.lightingfixtures.oembwsm": "户外型电表箱，带6个电表",
+      "block.lightingfixtures.heatingpipes": "暖气管",
+      "block.lightingfixtures.largecylinderlamp": "大筒灯",
+      "item.lightingfixtures.like.desc": "非常流行的二次元的音乐",
+      "block.lightingfixtures.theheatingis": "暖气主横管",
+      "block.lightingfixtures.classroom_led_lights": "教室LED灯",
+      "block.lightingfixtures.supermarke_tantitheft_system": "超市防盗系统",
+      "block.lightingfixtures.le_dilh": "LED一体化灯头",
+      "block.lightingfixtures.ovemv": "户外型380伏电表箱",
+      "block.lightingfixtures.hfbh.description_0": "§9“感谢我家卫生间的风暖浴霸。 你默默工作了这么多年，终于被我做进了 Minecraft。 虽然你本人并不知道。”",
+      "block.lightingfixtures.gasmeters": "煤气表",
+      "block.lightingfixtures.cemospalcepa": "铝扣板吸顶广播喇叭 ",
+      "block.lightingfixtures.ebwem": "带电表的配电箱 1X2",
+      "item_group.lightingfixtures.switchsocketsandfans": "其他设施",
+      "block.lightingfixtures.double_tube_singlestand_fluorescent_lamp_with_lampshade": "单灯架双灯管荧光灯",
+      "block.lightingfixtures.tpfldt": "三防型荧光灯-双灯管",
+      "block.lightingfixtures.le_dcanopylight_1_x_2": "LED 棚顶灯 1X2",
+      "block.lightingfixtures.high_power_electric_meter_box": "大功率电表箱",
+      "block.lightingfixtures.fluorescentlightsforclassrooms": "教室专用荧光灯",
+      "block.lightingfixtures.rain_cs": "RING CS",
+      "block.lightingfixtures.aluminum_grille": "铝格栅",
+      "block.lightingfixtures.oembwtm": "户外型电表箱，带3个电表",
+      "block.lightingfixtures.singletubefluorescentlamps": "单管荧光灯 ",
+      "block.lightingfixtures.single_tube_fluorescent_lamp_with_lampshade": "单管荧光灯",
+      "block.lightingfixtures.psg": "公园路灯",
+      "block.lightingfixtures.mediumdownlight": "中筒灯",
+      "block.lightingfixtures.four_tube_fluorescent_lamp": "四灯管荧光灯",
+      "block.lightingfixtures.internetoutlets": "网络插座",
+      "block.lightingfixtures.t_vsocket": "电视插座",
+      "block.lightingfixtures.heatingbranchpipe": "暖气分支管",
+      "block.lightingfixtures.electrical_cabinets_1x1_380": "配电箱 1X1 380",
+      "block.lightingfixtures.letfll.description_0": "§6\"本T5荧光灯具由作者PDD上花六块钱买下来回家还原\"",
+      "block.lightingfixtures.aluminumtubesarefluorescent": "铝管通荧光灯",
+      "item.lightingfixtures.electric_card": "电卡",
+      "block.lightingfixtures.dualnetworkoutlets": "双网络插座",
+      "subtitles.gta": "You are committing a crime",
+      "block.lightingfixtures.fluorescent_lamp_holders": "荧光灯支架",
+      "block.lightingfixtures.heatingc": "暖气互联管",
+      "block.lightingfixtures.supermarket_self_checkout_system": "超市自助收银系统",
+      "block.lightingfixtures.epldt": "防爆型灯-双灯管",
+      "block.lightingfixtures.energysavinglampmedium": "节能灯 （中）",
+      "block.lightingfixtures.electricalboxwithelectricitymeter_2x_380": "配电箱 2X2 380",
+      "block.lightingfixtures.heatinginterconnectionpipes": "暖气互联管",
+      "block.lightingfixtures.t_vnetworksocket": "电视网络插座",
+      "item.lightingfixtures.like": "§6喜欢",
+      "block.lightingfixtures.heatingb": "暖气互联管",
+      "block.lightingfixtures.fluorescentluminaires": "老式吊装型荧光灯具",
+      "block.lightingfixtures.heatinga": "暖气互联管",
+      "block.lightingfixtures.ovemvlcd": "带电表的配电箱 2X3 LCD",
+      "block.lightingfixtures.fluorescentceilinglights_2": "荧光棚顶灯 2X2",
+      "block.lightingfixtures.electricalcabinets_2x_3": "配电箱 2X3",
+      "block.lightingfixtures.electricalcabinets_2x_2": "配电箱 2X2",
+      "item_group.lightingfixtures.lightingfixtures": "荧光灯具 ",
+      "subtitles.calling_sounds": "呼叫",
+      "block.lightingfixtures.fluorescentceilinglights_1": "荧光棚顶灯",
+      "block.lightingfixtures.electricalcabinets_1_x_2": "配电箱 1X2"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "lightingfixtures",
+    "modName": "Electrical appliances and lamps",
+    "version": "0.8.9",
+    "description": "The addition of various appliances and lamps will make your Minecraft more realistic This MoD will not be available for subsequent versions of MCMOD",
+    "author": "Noel-Cornehl",
+    "websiteURL": "https://space.bilibili.com/1685065897",
+    "license": "CC BY-NC-SA 4.0",
+    "serverSideOnly": false,
+    "modPicture": "electrical_appliances_and_lamps_beta",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "MCreator BlockBenck DeepSeek",
+    "modElementsPackage": "net.mcreator.lightingfixtures"
+  },
+  "mcreatorVersion": 202400452410
+}

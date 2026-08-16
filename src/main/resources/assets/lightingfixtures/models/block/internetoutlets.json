@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/whiteboard",
+  "textures": {
+    "all": "lightingfixtures:block/internet_outlets",
+    "particle": "lightingfixtures:block/internet_outlets",
+    "missing": "lightingfixtures:block/internet_outlets"
+  },
+  "render_type": "solid"
+}

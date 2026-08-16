@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/doubletubeceilinglight"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/doubletubeceilinglight",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/doubletubeceilinglight",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/doubletubeceilinglight",
+      "y": 270
+    }
+  }
+}

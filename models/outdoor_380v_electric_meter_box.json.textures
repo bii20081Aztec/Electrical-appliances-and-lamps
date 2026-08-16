@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "outdoor_380v_electric_meter_box"
+      },
+      "name": "default"
+    },
+    "a": {
+      "map": {
+        "2": "outdoor_380v_electric_meter_boxlcd"
+      },
+      "name": "a"
+    }
+  }
+}

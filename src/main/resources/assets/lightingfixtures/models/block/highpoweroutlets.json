@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/whiteboard",
+  "textures": {
+    "all": "lightingfixtures:block/high-power_outlets",
+    "particle": "lightingfixtures:block/high-power_outlets",
+    "missing": "lightingfixtures:block/high-power_outlets"
+  },
+  "render_type": "solid"
+}

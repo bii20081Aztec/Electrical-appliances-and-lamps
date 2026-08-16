@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "lightingfixtures:blocks/electrical_cabinets_1x1_380",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "lightingfixtures:electrical_cabinets_1x1_380"
+        }
+      ]
+    }
+  ]
+}

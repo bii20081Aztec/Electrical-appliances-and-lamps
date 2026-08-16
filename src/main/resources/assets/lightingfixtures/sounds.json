@@ -1,0 +1,37 @@
+{
+  "calling_sounds": {
+    "subtitle": "subtitles.calling_sounds",
+    "sounds": [
+      {
+        "name": "lightingfixtures:split",
+        "stream": false
+      }
+    ]
+  },
+  "azxs": {
+    "sounds": [
+      {
+        "name": "lightingfixtures:lu_yin__12",
+        "stream": false
+      }
+    ]
+  },
+  "like": {
+    "subtitle": "subtitles.like",
+    "sounds": [
+      {
+        "name": "lightingfixtures:30770004372-1-30280",
+        "stream": false
+      }
+    ]
+  },
+  "gta": {
+    "subtitle": "subtitles.gta",
+    "sounds": [
+      {
+        "name": "lightingfixtures:gta",
+        "stream": false
+      }
+    ]
+  }
+}

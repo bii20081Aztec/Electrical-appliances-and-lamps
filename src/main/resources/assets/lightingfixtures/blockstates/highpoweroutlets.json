@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/highpoweroutlets"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/highpoweroutlets",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/highpoweroutlets",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/highpoweroutlets",
+      "y": 270
+    }
+  }
+}

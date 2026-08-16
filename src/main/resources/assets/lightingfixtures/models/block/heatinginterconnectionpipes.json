@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/heating_interconnection_pipes",
+  "textures": {
+    "all": "lightingfixtures:block/heating_pipes",
+    "particle": "lightingfixtures:block/heating_pipes",
+    "0": "lightingfixtures:block/heating_interconnection_pipes"
+  },
+  "render_type": "solid"
+}

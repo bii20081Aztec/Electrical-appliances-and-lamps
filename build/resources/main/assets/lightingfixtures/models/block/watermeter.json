@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/water_meter",
+  "textures": {
+    "all": "lightingfixtures:block/water_meter",
+    "particle": "lightingfixtures:block/water_meter",
+    "0": "lightingfixtures:block/water_meter"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "a": {
+      "map": {
+        "0": "track_spotlights1"
+      },
+      "name": "a"
+    },
+    "default": {
+      "map": {
+        "0": "track_spotlights"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "lightingfixtures:custom/ying_guang_peng_ding_deng_1",
+  "textures": {
+    "all": "lightingfixtures:block/sheng_huo_",
+    "particle": "lightingfixtures:block/sheng_huo_",
+    "0": "lightingfixtures:block/wall",
+    "1": "lightingfixtures:block/na_"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/access_control_intercom_host",
+  "textures": {
+    "all": "lightingfixtures:block/access_control_intercom_host",
+    "particle": "lightingfixtures:block/access_control_intercom_host",
+    "0": "lightingfixtures:block/access_control_intercom_host"
+  },
+  "render_type": "solid"
+}

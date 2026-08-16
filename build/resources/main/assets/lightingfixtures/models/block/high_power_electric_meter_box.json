@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/electrical_cabinets_1x12",
+  "textures": {
+    "all": "lightingfixtures:block/electrical_cabinets_1x1",
+    "particle": "lightingfixtures:block/electrical_cabinets_1x1",
+    "0": "lightingfixtures:block/high-power_electric_meter_box"
+  },
+  "render_type": "solid"
+}

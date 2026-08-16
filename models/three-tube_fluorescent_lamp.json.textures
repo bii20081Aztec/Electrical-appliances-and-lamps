@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "three-tube_fluorescent_lamp"
+      },
+      "name": "default"
+    }
+  }
+}

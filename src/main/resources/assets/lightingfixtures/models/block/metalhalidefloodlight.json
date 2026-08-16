@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/metal_halide_floodlights1",
+  "textures": {
+    "all": "lightingfixtures:block/metal_halide_floodlights",
+    "particle": "lightingfixtures:block/metal_halide_floodlights",
+    "0": "lightingfixtures:block/metal_halide_floodlights"
+  },
+  "render_type": "cutout_mipped"
+}

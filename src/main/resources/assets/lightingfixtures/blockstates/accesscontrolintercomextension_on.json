@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/accesscontrolintercomextension_on"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/accesscontrolintercomextension_on",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/accesscontrolintercomextension_on",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/accesscontrolintercomextension_on",
+      "y": 270
+    }
+  }
+}

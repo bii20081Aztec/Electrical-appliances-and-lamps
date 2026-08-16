@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/two-open_three-pin_socket",
+  "textures": {
+    "all": "lightingfixtures:block/one_open_three-pin_socket",
+    "particle": "lightingfixtures:block/one_open_three-pin_socket",
+    "0": "lightingfixtures:block/one_open_three-pin_socket"
+  },
+  "render_type": "solid"
+}

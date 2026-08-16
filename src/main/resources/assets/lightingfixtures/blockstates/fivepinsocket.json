@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/fivepinsocket"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/fivepinsocket",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/fivepinsocket",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/fivepinsocket",
+      "y": 270
+    }
+  }
+}

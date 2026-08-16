@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/supermarket_self_checkout_system"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/supermarket_self_checkout_system",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/supermarket_self_checkout_system",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/supermarket_self_checkout_system",
+      "y": 270
+    }
+  }
+}

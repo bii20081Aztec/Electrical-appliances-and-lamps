@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/gasmeters"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/gasmeters",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/gasmeters",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/gasmeters",
+      "y": 270
+    }
+  }
+}

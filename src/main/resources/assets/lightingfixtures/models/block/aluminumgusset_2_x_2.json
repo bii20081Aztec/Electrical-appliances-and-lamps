@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/lu_kou_ban_2x2",
+  "textures": {
+    "all": "lightingfixtures:block/texture",
+    "particle": "lightingfixtures:block/texture",
+    "0": "lightingfixtures:block/texture"
+  },
+  "render_type": "solid"
+}

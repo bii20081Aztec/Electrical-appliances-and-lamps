@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "led_ball_cannon"
+      },
+      "name": "default"
+    }
+  }
+}

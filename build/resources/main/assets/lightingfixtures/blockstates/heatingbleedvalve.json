@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/heatingbleedvalve"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/heatingbleedvalve",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/heatingbleedvalve",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/heatingbleedvalve",
+      "y": 270
+    }
+  }
+}

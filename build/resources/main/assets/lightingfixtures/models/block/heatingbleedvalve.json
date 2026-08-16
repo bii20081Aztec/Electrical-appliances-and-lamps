@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/heating_bleed_valve",
+  "textures": {
+    "all": "lightingfixtures:block/heating_pipes",
+    "particle": "lightingfixtures:block/heating_pipes",
+    "0": "lightingfixtures:block/heating_bleed_valve"
+  },
+  "render_type": "solid"
+}

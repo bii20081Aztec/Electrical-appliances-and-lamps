@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/small_downlights",
+  "textures": {
+    "all": "lightingfixtures:block/small_downlights",
+    "particle": "lightingfixtures:block/small_downlights",
+    "1": "lightingfixtures:block/small_downlights"
+  },
+  "render_type": "solid"
+}

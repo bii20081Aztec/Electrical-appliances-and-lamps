@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/watermeter"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/watermeter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/watermeter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/watermeter",
+      "y": 270
+    }
+  }
+}

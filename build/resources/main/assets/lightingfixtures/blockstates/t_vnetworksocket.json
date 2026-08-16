@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/t_vnetworksocket"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/t_vnetworksocket",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/t_vnetworksocket",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/t_vnetworksocket",
+      "y": 270
+    }
+  }
+}

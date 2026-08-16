@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/the_main_heating_is_the_horizontal_and_vertical_pipes",
+  "textures": {
+    "all": "lightingfixtures:block/heating_pipes",
+    "particle": "lightingfixtures:block/heating_pipes",
+    "0": "lightingfixtures:block/the_main_heating_is_the_horizontal_and_vertical_pipes"
+  },
+  "render_type": "solid"
+}

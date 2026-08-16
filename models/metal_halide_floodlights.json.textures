@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "metal_halide_floodlights"
+      },
+      "name": "default"
+    }
+  }
+}

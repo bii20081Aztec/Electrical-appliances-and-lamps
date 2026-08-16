@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "sylvania_energy-saving_lamp_2u_tube"
+      },
+      "name": "default"
+    }
+  }
+}

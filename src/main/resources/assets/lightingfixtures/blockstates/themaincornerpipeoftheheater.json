@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/themaincornerpipeoftheheater"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/themaincornerpipeoftheheater",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/themaincornerpipeoftheheater",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/themaincornerpipeoftheheater",
+      "y": 270
+    }
+  }
+}

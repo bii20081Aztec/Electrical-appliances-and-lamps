@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "aluminum_tubes_are_fluorescent"
+      },
+      "name": "default"
+    }
+  }
+}

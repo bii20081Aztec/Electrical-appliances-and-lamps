@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/dualnetworkoutlets"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/dualnetworkoutlets",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/dualnetworkoutlets",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/dualnetworkoutlets",
+      "y": 270
+    }
+  }
+}

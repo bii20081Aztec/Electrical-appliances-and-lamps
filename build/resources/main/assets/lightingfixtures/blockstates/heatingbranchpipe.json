@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/heatingbranchpipe"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/heatingbranchpipe",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/heatingbranchpipe",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/heatingbranchpipe",
+      "y": 270
+    }
+  }
+}

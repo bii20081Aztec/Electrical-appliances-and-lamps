@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "led_flood_lights"
+      },
+      "name": "default"
+    }
+  }
+}

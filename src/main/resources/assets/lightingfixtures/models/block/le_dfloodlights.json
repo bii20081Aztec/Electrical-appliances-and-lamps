@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/led_flood_lights",
+  "textures": {
+    "all": "lightingfixtures:block/led_flood_lights",
+    "particle": "lightingfixtures:block/led_flood_lights",
+    "0": "lightingfixtures:block/led_flood_lights"
+  },
+  "render_type": "solid"
+}

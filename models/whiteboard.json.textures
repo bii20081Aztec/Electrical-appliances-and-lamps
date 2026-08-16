@@ -1,0 +1,46 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "missing": "tv_socket"
+      },
+      "name": "default"
+    },
+    "in": {
+      "map": {
+        "missing": "internet_outlets"
+      },
+      "name": "in"
+    },
+    "fivepinsocket": {
+      "map": {
+        "missing": "five-pin_socket"
+      },
+      "name": "fivepinsocket"
+    },
+    "se": {
+      "map": {
+        "missing": "seven-pin_socket"
+      },
+      "name": "se"
+    },
+    "nt": {
+      "map": {
+        "missing": "tv_network_socket"
+      },
+      "name": "nt"
+    },
+    "dn": {
+      "map": {
+        "missing": "dual_network_outlets"
+      },
+      "name": "dn"
+    },
+    "hp": {
+      "map": {
+        "missing": "high-power_outlets"
+      },
+      "name": "hp"
+    }
+  }
+}

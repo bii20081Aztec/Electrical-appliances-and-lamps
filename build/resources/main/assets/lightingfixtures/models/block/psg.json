@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/park_streetlights",
+  "textures": {
+    "all": "lightingfixtures:block/park_streetlights",
+    "particle": "lightingfixtures:block/park_streetlights",
+    "0": "lightingfixtures:block/park_streetlights"
+  },
+  "render_type": "solid"
+}

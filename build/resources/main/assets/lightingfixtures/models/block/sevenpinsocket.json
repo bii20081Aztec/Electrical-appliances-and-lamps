@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/whiteboard",
+  "textures": {
+    "all": "lightingfixtures:block/seven-pin_socket",
+    "particle": "lightingfixtures:block/seven-pin_socket",
+    "missing": "lightingfixtures:block/seven-pin_socket"
+  },
+  "render_type": "solid"
+}

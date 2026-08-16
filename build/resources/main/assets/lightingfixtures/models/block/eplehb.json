@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/explosion-proof_light_-_extended_hanging_bracket",
+  "textures": {
+    "all": "lightingfixtures:block/explosion-proof_lamp",
+    "particle": "lightingfixtures:block/explosion-proof_lamp",
+    "0": "lightingfixtures:block/explosion-proof_lamp"
+  },
+  "render_type": "cutout"
+}

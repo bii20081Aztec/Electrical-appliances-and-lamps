@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/fluorescent_lamps",
+  "textures": {
+    "all": "lightingfixtures:block/fluorescent_lamp",
+    "particle": "lightingfixtures:block/fluorescent_lamp",
+    "0": "lightingfixtures:block/fluorescent_lamp"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "electronic_single-tube_fluorescent_lamps"
+      },
+      "name": "default"
+    }
+  }
+}

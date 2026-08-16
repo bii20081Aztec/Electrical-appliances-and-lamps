@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/fluorescentceilinglights"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/fluorescentceilinglights",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/fluorescentceilinglights",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/fluorescentceilinglights",
+      "y": 270
+    }
+  }
+}

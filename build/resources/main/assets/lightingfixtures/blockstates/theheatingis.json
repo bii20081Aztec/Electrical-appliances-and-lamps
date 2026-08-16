@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/theheatingis"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/theheatingis",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/theheatingis",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/theheatingis",
+      "y": 270
+    }
+  }
+}

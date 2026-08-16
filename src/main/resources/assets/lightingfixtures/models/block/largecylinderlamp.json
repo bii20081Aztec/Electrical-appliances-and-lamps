@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/large-cylinder_lamp",
+  "textures": {
+    "all": "lightingfixtures:block/large-cylinder_lamp",
+    "particle": "lightingfixtures:block/large-cylinder_lamp",
+    "1": "lightingfixtures:block/large-cylinder_lamp"
+  },
+  "render_type": "solid"
+}

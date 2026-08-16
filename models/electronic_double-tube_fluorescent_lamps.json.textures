@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "electronic_double-tube_fluorescent_lamps"
+      },
+      "name": "default"
+    }
+  }
+}

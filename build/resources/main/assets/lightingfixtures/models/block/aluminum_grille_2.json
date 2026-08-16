@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/aluminum_grille2",
+  "textures": {
+    "all": "lightingfixtures:block/aluminum_grille",
+    "particle": "lightingfixtures:block/aluminum_grille",
+    "0": "lightingfixtures:block/aluminum_grille"
+  },
+  "render_type": "solid"
+}

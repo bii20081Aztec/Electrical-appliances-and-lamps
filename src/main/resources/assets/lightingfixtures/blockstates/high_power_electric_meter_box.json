@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/high_power_electric_meter_box"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/high_power_electric_meter_box",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/high_power_electric_meter_box",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/high_power_electric_meter_box",
+      "y": 270
+    }
+  }
+}

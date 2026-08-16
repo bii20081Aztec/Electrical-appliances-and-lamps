@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/double-open_switch",
+  "textures": {
+    "all": "lightingfixtures:block/double-open_switch",
+    "particle": "lightingfixtures:block/double-open_switch",
+    "0": "lightingfixtures:block/double-open_switch"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "lightingfixtures:custom/supermarket_self-checkout_system",
+  "textures": {
+    "all": "lightingfixtures:block/supermarket_self-checkout_system",
+    "particle": "lightingfixtures:block/supermarket_self-checkout_system",
+    "0": "lightingfixtures:block/supermarket_self-checkout_system",
+    "3": "lightingfixtures:block/sup"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "outdoor_type_electric_meter_box_with_an_electric_meter"
+      },
+      "name": "default"
+    }
+  }
+}

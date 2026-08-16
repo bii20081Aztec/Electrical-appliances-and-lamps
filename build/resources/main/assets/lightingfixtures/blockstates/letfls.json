@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/letfls"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/letfls",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/letfls",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/letfls",
+      "y": 270
+    }
+  }
+}

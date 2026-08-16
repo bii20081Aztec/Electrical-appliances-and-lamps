@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/iodine-tungsten_lamp",
+  "textures": {
+    "all": "lightingfixtures:block/iodine-tungsten_lamp",
+    "particle": "lightingfixtures:block/iodine-tungsten_lamp",
+    "0": "lightingfixtures:block/iodine-tungsten_lamp"
+  },
+  "render_type": "solid"
+}

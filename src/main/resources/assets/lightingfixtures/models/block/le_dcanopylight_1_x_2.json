@@ -1,0 +1,10 @@
+{
+  "parent": "lightingfixtures:custom/led_panel_light1x2",
+  "textures": {
+    "all": "lightingfixtures:block/fluorescent_light_bulbs",
+    "particle": "lightingfixtures:block/fluorescent_light_bulbs",
+    "0": "lightingfixtures:block/fluorescent_light_bulbs",
+    "1": "lightingfixtures:block/qwe"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,37 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "The heating is mainly in the horizontal pipe",
+		"particle": "The heating is mainly in the horizontal pipe"
+	},
+	"elements": [
+		{
+			"from": [0, 11.1, 2.6],
+			"to": [16, 12.9, 4.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 11, 3]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 1.75], "texture": "#0"},
+				"east": {"uv": [0, 8, 1.75, 9.75], "texture": "#0"},
+				"south": {"uv": [0, 2, 16, 3.75], "texture": "#0"},
+				"west": {"uv": [2, 8, 3.75, 9.75], "texture": "#0"},
+				"up": {"uv": [16, 5.75, 0, 4], "texture": "#0"},
+				"down": {"uv": [16, 6, 0, 7.75], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"translation": [-3.5, -4.25, 0],
+			"scale": [1, 0.54, 1]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 16, 1],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

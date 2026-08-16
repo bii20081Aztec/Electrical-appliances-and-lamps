@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/fluorescent_double_bracket",
+  "textures": {
+    "all": "lightingfixtures:block/fluorescent_double_bracket",
+    "particle": "lightingfixtures:block/fluorescent_double_bracket",
+    "0": "lightingfixtures:block/fluorescent_double_bracket"
+  },
+  "render_type": "solid"
+}

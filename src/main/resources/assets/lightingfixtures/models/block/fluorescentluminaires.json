@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/old-fashioned_ceiling-mounted_fluorescent_luminaires",
+  "textures": {
+    "all": "lightingfixtures:block/old-fashioned_ceiling-mounted_fluorescent_luminaires",
+    "particle": "lightingfixtures:block/old-fashioned_ceiling-mounted_fluorescent_luminaires",
+    "0": "lightingfixtures:block/old-fashioned_ceiling-mounted_fluorescent_luminaires"
+  },
+  "render_type": "solid"
+}

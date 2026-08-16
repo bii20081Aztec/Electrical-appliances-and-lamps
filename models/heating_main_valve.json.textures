@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "heating_main_valve"
+      },
+      "name": "default"
+    }
+  }
+}

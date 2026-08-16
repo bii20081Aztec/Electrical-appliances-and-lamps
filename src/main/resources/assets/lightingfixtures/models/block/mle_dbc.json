@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/medium_led_ball_cannon",
+  "textures": {
+    "all": "lightingfixtures:block/led_ball_cannon",
+    "particle": "lightingfixtures:block/led_ball_cannon",
+    "0": "lightingfixtures:block/led_ball_cannon"
+  },
+  "render_type": "solid"
+}

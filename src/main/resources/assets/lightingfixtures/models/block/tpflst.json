@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/three-proof_fluorescent_lamp_-_single_tube",
+  "textures": {
+    "all": "lightingfixtures:block/three-proof_fluorescent_lamp",
+    "particle": "lightingfixtures:block/three-proof_fluorescent_lamp",
+    "0": "lightingfixtures:block/three-proof_fluorescent_lamp"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/three-tube_fluorescent_lamp",
+  "textures": {
+    "all": "lightingfixtures:block/three-tube_fluorescent_lamp",
+    "particle": "lightingfixtures:block/three-tube_fluorescent_lamp",
+    "0": "lightingfixtures:block/three-tube_fluorescent_lamp"
+  },
+  "render_type": "solid"
+}

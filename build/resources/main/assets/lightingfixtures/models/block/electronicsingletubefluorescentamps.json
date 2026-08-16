@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/electronic_single-tube_fluorescent_lamps",
+  "textures": {
+    "all": "lightingfixtures:block/electronic_single-tube_fluorescent_lamps",
+    "particle": "lightingfixtures:block/electronic_single-tube_fluorescent_lamps",
+    "0": "lightingfixtures:block/electronic_single-tube_fluorescent_lamps"
+  },
+  "render_type": "solid"
+}

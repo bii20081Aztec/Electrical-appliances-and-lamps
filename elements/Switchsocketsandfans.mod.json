@@ -1,0 +1,11 @@
+{
+  "_fv": 73,
+  "_type": "tab",
+  "definition": {
+    "name": "Switch sockets and fans",
+    "icon": {
+      "value": "CUSTOM:Singleswitchswitch"
+    },
+    "showSearch": false
+  }
+}

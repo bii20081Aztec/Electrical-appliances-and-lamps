@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "fluorescent_ceiling_lights"
+      },
+      "name": "default"
+    }
+  }
+}

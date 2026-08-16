@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lightingfixtures:block/track"
+    },
+    "facing=east": {
+      "model": "lightingfixtures:block/track",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lightingfixtures:block/track",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lightingfixtures:block/track",
+      "y": 270
+    }
+  }
+}

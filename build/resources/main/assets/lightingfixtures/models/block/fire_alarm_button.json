@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/fire_alarm_button",
+  "textures": {
+    "all": "lightingfixtures:block/fire_alarm_button",
+    "particle": "lightingfixtures:block/fire_alarm_button",
+    "0": "lightingfixtures:block/fire_alarm_button"
+  },
+  "render_type": "solid"
+}

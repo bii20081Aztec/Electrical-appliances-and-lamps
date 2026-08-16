@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/ceiling-mounted_speaker_aluminum_ceiling_panel",
+  "textures": {
+    "all": "lightingfixtures:block/ceiling_mounted_speaker_aluminum_ceiling_panel",
+    "particle": "lightingfixtures:block/ceiling_mounted_speaker_aluminum_ceiling_panel",
+    "0": "lightingfixtures:block/ceiling_mounted_speaker_aluminum_ceiling_panel"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/ceiling_lights",
+  "textures": {
+    "all": "lightingfixtures:block/fluorescent_ceiling_lights",
+    "particle": "lightingfixtures:block/fluorescent_ceiling_lights",
+    "1": "lightingfixtures:block/fluorescent_ceiling_lights"
+  },
+  "render_type": "solid"
+}

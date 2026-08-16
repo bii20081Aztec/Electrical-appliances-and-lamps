@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/single-stand_double-tube_fluorescent_lamps",
+  "textures": {
+    "all": "lightingfixtures:block/single-stand_double-tube_fluorescent_lamps",
+    "particle": "lightingfixtures:block/single-stand_double-tube_fluorescent_lamps",
+    "0": "lightingfixtures:block/single-stand_double-tube_fluorescent_lamps"
+  },
+  "render_type": "solid"
+}
