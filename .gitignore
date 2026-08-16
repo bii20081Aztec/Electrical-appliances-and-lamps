@@ -5,3 +5,5 @@ run/
 # 系统文件
 *.log
 *.tmp
+*.bat
+*.gitignore
