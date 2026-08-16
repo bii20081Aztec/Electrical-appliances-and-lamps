@@ -1,9 +1,9 @@
-# MCreator 工作区不需要上传的
-run/
-.idea/
-
-# 系统文件
+# 绝对禁止上传的脚本和垃圾文件
+*.bat
 *.log
 *.tmp
-*.bat
 *.gitignore
+
+# 系统文件
+Thumbs.db
+.DS_Store
