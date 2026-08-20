@@ -2589,6 +2589,70 @@
           "src/main/resources/assets/lightingfixtures/models/block/lle_dbc.json"
         ]
       }
+    },
+    {
+      "name": "Ebwm2X3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ebwm_2_x_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ebwm_2_x_3.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/ebwm_2_x_3.json",
+          "src/main/resources/assets/lightingfixtures/models/item/ebwm_2_x_3.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Ebwm2X3Block.java",
+          "src/main/resources/assets/lightingfixtures/models/block/ebwm_2_x_3.json"
+        ]
+      }
+    },
+    {
+      "name": "ELbwem2X3LCD",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "e_lbwem_2_x_3_lcd",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/block/e_lbwem_2_x_3_lcd.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/e_lbwem_2_x_3_lcd.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/ELbwem2X3LCDBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/e_lbwem_2_x_3_lcd.json",
+          "src/main/resources/assets/lightingfixtures/models/item/e_lbwem_2_x_3_lcd.json"
+        ]
+      }
+    },
+    {
+      "name": "Elbwem2X3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elbwem_2_x_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/elbwem_2_x_3.json",
+          "src/main/resources/assets/lightingfixtures/models/block/elbwem_2_x_3.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Elbwem2X3Block.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/elbwem_2_x_3.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/elbwem_2_x_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Ebwelm2X3LCD",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ebwelm_2_x_3_lcd",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/ebwelm_2_x_3_lcd.json",
+          "src/main/resources/assets/lightingfixtures/models/block/ebwelm_2_x_3_lcd.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Ebwelm2X3LCDBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ebwelm_2_x_3_lcd.json",
+          "src/main/resources/assets/lightingfixtures/models/item/ebwelm_2_x_3_lcd.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -2655,10 +2719,11 @@
       "block.lightingfixtures.doubleopenswitch": "двойной выключатель",
       "block.lightingfixtures.accesscontrolintercomextension": "домофонная трубка",
       "block.lightingfixtures.accesscontrolintercomhost": "главный блок домофона",
-      "block.lightingfixtures.psga": "парковый фонарь",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_3": "распределительный щит со счётчиком 2×3",
+      "block.lightingfixtures.psga": "парковый фонарь",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_2": "распределительный щит со счётчиком 2×2",
       "block.lightingfixtures.psgb": "парковый фонарь",
+      "block.lightingfixtures.ebwm_2_x_3": "Electrical box with electricity meter 2X3",
       "block.lightingfixtures.dtubeceilinglight": "потолочный светильник с 2D трубкой",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_1": "распределительный щит со счётчиком 1×2",
       "block.lightingfixtures.threeonswitch": "тройной выключатель",
@@ -2707,6 +2772,7 @@
       "block.lightingfixtures.hfs.description_0": "реальный выключатель из дома",
       "block.lightingfixtures.tungstenbulbs": "лампа накаливания",
       "block.lightingfixtures.singleswitchswitch": "одинарный выключатель",
+      "block.lightingfixtures.e_lbwem_2_x_3_lcd": "Electrical box with electricity meter 2X3",
       "block.lightingfixtures.electronicsingletubefluorescentamps": "электронные однотрубные люминесцентные лампы",
       "block.lightingfixtures.iodinetungstenlamp": "йодно-вольфрамовая лампа",
       "block.lightingfixtures.otembwtm": "уличный ящик счётчика с двумя счётчиками",
@@ -2736,6 +2802,7 @@
       "block.lightingfixtures.heatingpipes": "трубы отопления",
       "block.lightingfixtures.largecylinderlamp": "большой точечный светильник",
       "item.lightingfixtures.like.desc": "очень популярная двумерная музыка",
+      "block.lightingfixtures.ebwelm_2_x_3_lcd": "Electrical box with electricity meter 2X3",
       "block.lightingfixtures.theheatingis": "главная горизонтальная труба отопления",
       "block.lightingfixtures.classroom_led_lights": "классный светодиодный светильник",
       "block.lightingfixtures.supermarke_tantitheft_system": "супермаркетная противокражная система",
@@ -2759,6 +2826,7 @@
       "block.lightingfixtures.psg": "парковый фонарь",
       "block.lightingfixtures.mediumdownlight": "средний точечный светильник",
       "block.lightingfixtures.four_tube_fluorescent_lamp": "четырёхламповая люминесцентная лампа",
+      "block.lightingfixtures.elbwem_2_x_3": "Electrical box with electricity meter 2X3",
       "block.lightingfixtures.internetoutlets": "интернет-розетка",
       "block.lightingfixtures.t_vsocket": "телевизионная розетка",
       "block.lightingfixtures.heatingbranchpipe": "ответвляющая труба отопления",
@@ -2815,6 +2883,7 @@
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_3": "Electrical box with electricity meter 2X3",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_2": "Electrical box with electricity meter 2X2",
       "block.lightingfixtures.psgb": "Park streetlights",
+      "block.lightingfixtures.ebwm_2_x_3": "Electrical box with electricity meter 2X3",
       "block.lightingfixtures.dtubeceilinglight": "2D tube ceiling light",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_1": "Electrical cabinets 2X1",
       "block.lightingfixtures.threeonswitch": "Three-on switch",
@@ -2864,6 +2933,7 @@
       "block.lightingfixtures.hfs.description_0": "The actual switch comes from home",
       "block.lightingfixtures.tungstenbulbs": "Tungsten bulbs",
       "block.lightingfixtures.singleswitchswitch": "Single-switch switch",
+      "block.lightingfixtures.e_lbwem_2_x_3_lcd": "Electrical box with electricity meter 2X3",
       "block.lightingfixtures.electronicsingletubefluorescentamps": "Electronic single-tube fluorescent lamps",
       "block.lightingfixtures.iodinetungstenlamp": "Iodine-tungsten lamp",
       "block.lightingfixtures.otembwtm": "Outdoor type electric meter box with two meters",
@@ -2894,6 +2964,7 @@
       "block.lightingfixtures.heatingpipes": "Heating pipes",
       "block.lightingfixtures.largecylinderlamp": "Large-cylinder lamp",
       "item.lightingfixtures.like.desc": "Very popular two-dimensional music",
+      "block.lightingfixtures.ebwelm_2_x_3_lcd": "Electrical box with electricity meter 2X3",
       "block.lightingfixtures.theheatingis": "The heating is mainly in the horizontal pipe",
       "block.lightingfixtures.classroom_led_lights": "Classroom LED Lights",
       "block.lightingfixtures.supermarke_tantitheft_system": "Supermarket anti-theft system",
@@ -2917,6 +2988,7 @@
       "block.lightingfixtures.psg": "Park streetlights",
       "block.lightingfixtures.mediumdownlight": "Medium downlight",
       "block.lightingfixtures.four_tube_fluorescent_lamp": "Four-tube fluorescent lamp",
+      "block.lightingfixtures.elbwem_2_x_3": "Electrical box with electricity meter 2X3",
       "block.lightingfixtures.internetoutlets": "Internet outlets",
       "block.lightingfixtures.t_vsocket": "TV socket",
       "block.lightingfixtures.heatingbranchpipe": "Heating branch pipe",
@@ -2973,6 +3045,7 @@
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_3": "带电表的配电箱 2X3 ",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_2": "带电表的配电箱 2X2",
       "block.lightingfixtures.psgb": "公园路灯",
+      "block.lightingfixtures.ebwm_2_x_3": "带电表的配电箱 2X3 ",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_1": "带电表的配电箱 1X2",
       "block.lightingfixtures.dtubeceilinglight": "2D灯管吸顶灯",
       "block.lightingfixtures.threeonswitch": "三开开关",
@@ -3022,6 +3095,7 @@
       "block.lightingfixtures.hfs.description_0": "§b \"开关实物来自家中\"",
       "block.lightingfixtures.tungstenbulbs": "白炽灯泡",
       "block.lightingfixtures.singleswitchswitch": "单开开关 ",
+      "block.lightingfixtures.e_lbwem_2_x_3_lcd": "带电表的配电箱 2X3 LCD",
       "block.lightingfixtures.electronicsingletubefluorescentamps": "电子单管荧光灯",
       "block.lightingfixtures.iodinetungstenlamp": "工地用碘钨灯",
       "block.lightingfixtures.otembwtm": "户外型电表箱，带2个电表",
@@ -3052,6 +3126,7 @@
       "block.lightingfixtures.heatingpipes": "暖气管",
       "block.lightingfixtures.largecylinderlamp": "大筒灯",
       "item.lightingfixtures.like.desc": "非常流行的二次元的音乐",
+      "block.lightingfixtures.ebwelm_2_x_3_lcd": "带电表的配电箱 2X3 LCD",
       "block.lightingfixtures.theheatingis": "暖气主横管",
       "block.lightingfixtures.classroom_led_lights": "教室LED灯",
       "block.lightingfixtures.supermarke_tantitheft_system": "超市防盗系统",
@@ -3075,6 +3150,7 @@
       "block.lightingfixtures.psg": "公园路灯",
       "block.lightingfixtures.mediumdownlight": "中筒灯",
       "block.lightingfixtures.four_tube_fluorescent_lamp": "四灯管荧光灯",
+      "block.lightingfixtures.elbwem_2_x_3": "带电表的配电箱 2X3 ",
       "block.lightingfixtures.internetoutlets": "网络插座",
       "block.lightingfixtures.t_vsocket": "电视插座",
       "block.lightingfixtures.heatingbranchpipe": "暖气分支管",
@@ -3125,7 +3201,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.20.1",
-    "credits": "MCreator BlockBenck",
+    "credits": "MCreator BlockBenck DeepSeek",
     "modElementsPackage": "net.mcreator.lightingfixtures"
   },
   "mcreatorVersion": 202400452410

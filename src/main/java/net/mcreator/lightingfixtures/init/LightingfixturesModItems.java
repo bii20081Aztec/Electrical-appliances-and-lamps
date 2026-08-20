@@ -155,6 +155,10 @@ public class LightingfixturesModItems {
 	public static final RegistryObject<Item> SLE_DBC = block(LightingfixturesModBlocks.SLE_DBC);
 	public static final RegistryObject<Item> MLE_DBC = block(LightingfixturesModBlocks.MLE_DBC);
 	public static final RegistryObject<Item> LLE_DBC = block(LightingfixturesModBlocks.LLE_DBC);
+	public static final RegistryObject<Item> EBWM_2_X_3 = block(LightingfixturesModBlocks.EBWM_2_X_3);
+	public static final RegistryObject<Item> E_LBWEM_2_X_3_LCD = block(LightingfixturesModBlocks.E_LBWEM_2_X_3_LCD);
+	public static final RegistryObject<Item> ELBWEM_2_X_3 = block(LightingfixturesModBlocks.ELBWEM_2_X_3);
+	public static final RegistryObject<Item> EBWELM_2_X_3_LCD = block(LightingfixturesModBlocks.EBWELM_2_X_3_LCD);
 
 	// Start of user code block custom items
 	// End of user code block custom items

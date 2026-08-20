@@ -4,7 +4,7 @@ license="CC BY-NC-SA 4.0"
 
 [[mods]]
 modId="lightingfixtures"
-version="0.8.9"
+version="1.0.0"
 displayName="Electrical appliances and lamps"
 displayURL="https://space.bilibili.com/1685065897"
 logoFile="logo.png"

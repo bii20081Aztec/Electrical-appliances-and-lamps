@@ -24,7 +24,6 @@ public class LightingfixturesModTabs {
 	public static final RegistryObject<CreativeModeTab> LE_DLUMINAIRES = REGISTRY.register("le_dluminaires",
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.lightingfixtures.le_dluminaires")).icon(() -> new ItemStack(LightingfixturesModBlocks.ALUMINUMGUSSET.get())).displayItems((parameters, tabData) -> {
 				tabData.accept(LightingfixturesModBlocks.CEILING.get().asItem());
-				tabData.accept(LightingfixturesModBlocks.CLASSROOM_LED_LIGHTS.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.LE_DPANELLIGHT.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.LE_DCANOPYLIGHT_1_X_2.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.LE_DCANOPYLIGHT_2_X_2.get().asItem());
@@ -55,13 +54,12 @@ public class LightingfixturesModTabs {
 				tabData.accept(LightingfixturesModBlocks.MLE_DBC.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.LLE_DBC.get().asItem());
 			}).build());
-	public static final RegistryObject<CreativeModeTab> LIGHTINGFIXTURES = REGISTRY.register("lightingfixtures", () -> CreativeModeTab.builder().title(Component.translatable("item_group.lightingfixtures.lightingfixtures"))
-			.icon(() -> new ItemStack(LightingfixturesModBlocks.FLUORESCENTLIGHTSFORCLASSROOMS.get())).displayItems((parameters, tabData) -> {
+	public static final RegistryObject<CreativeModeTab> LIGHTINGFIXTURES = REGISTRY.register("lightingfixtures",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.lightingfixtures.lightingfixtures")).icon(() -> new ItemStack(LightingfixturesModBlocks.ESLS.get())).displayItems((parameters, tabData) -> {
 				tabData.accept(LightingfixturesModBlocks.SINGLETUBEFLUORESCENTLAMPS.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.SINGLETUBEFLUORESCENTLAMPS_1.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.DOUBLETUBEFLUORESCENTLAMPS.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.THREETUBEFLUORESCENTLAMP.get().asItem());
-				tabData.accept(LightingfixturesModBlocks.FLUORESCENTLIGHTSFORCLASSROOMS.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.FLUORESCENTCEILINGLIGHTS.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.FLUORESCENTCEILINGLIGHTS_2.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.FLUORESCENTCEILINGLIGHTS_1.get().asItem());
@@ -158,6 +156,10 @@ public class LightingfixturesModTabs {
 				tabData.accept(LightingfixturesModBlocks.EBWEM_LCD.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.OVEMVLCD.get().asItem());
 				tabData.accept(LightingfixturesModItems.ELECTRIC_CARD.get());
+				tabData.accept(LightingfixturesModBlocks.EBWM_2_X_3.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.E_LBWEM_2_X_3_LCD.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.ELBWEM_2_X_3.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.EBWELM_2_X_3_LCD.get().asItem());
 			}).withTabsBefore(LIGHTINGFIXTURES.getId()).build());
 
 	@SubscribeEvent

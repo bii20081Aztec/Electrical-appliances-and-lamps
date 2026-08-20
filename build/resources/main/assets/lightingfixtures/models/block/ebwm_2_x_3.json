@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/electrical_box_with_electricity_meter_2x33",
+  "textures": {
+    "all": "lightingfixtures:block/electrical_box_with_electricity_meter_2x3",
+    "particle": "lightingfixtures:block/electrical_box_with_electricity_meter_2x3",
+    "1": "lightingfixtures:block/electrical_box_with_electricity_meter_2x3"
+  },
+  "render_type": "solid"
+}

@@ -2589,6 +2589,22 @@
           "src/main/resources/assets/lightingfixtures/models/block/lle_dbc.json"
         ]
       }
+    },
+    {
+      "name": "Ebwm2X3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ebwm_2_x_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ebwm_2_x_3.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/ebwm_2_x_3.json",
+          "src/main/resources/assets/lightingfixtures/models/item/ebwm_2_x_3.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/Ebwm2X3Block.java",
+          "src/main/resources/assets/lightingfixtures/models/block/ebwm_2_x_3.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -2655,10 +2671,11 @@
       "block.lightingfixtures.doubleopenswitch": "двойной выключатель",
       "block.lightingfixtures.accesscontrolintercomextension": "домофонная трубка",
       "block.lightingfixtures.accesscontrolintercomhost": "главный блок домофона",
-      "block.lightingfixtures.psga": "парковый фонарь",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_3": "распределительный щит со счётчиком 2×3",
+      "block.lightingfixtures.psga": "парковый фонарь",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_2": "распределительный щит со счётчиком 2×2",
       "block.lightingfixtures.psgb": "парковый фонарь",
+      "block.lightingfixtures.ebwm_2_x_3": "Electrical box with electricity meter 2X3",
       "block.lightingfixtures.dtubeceilinglight": "потолочный светильник с 2D трубкой",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_1": "распределительный щит со счётчиком 1×2",
       "block.lightingfixtures.threeonswitch": "тройной выключатель",
@@ -2815,6 +2832,7 @@
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_3": "Electrical box with electricity meter 2X3",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_2": "Electrical box with electricity meter 2X2",
       "block.lightingfixtures.psgb": "Park streetlights",
+      "block.lightingfixtures.ebwm_2_x_3": "Electrical box with electricity meter 2X3",
       "block.lightingfixtures.dtubeceilinglight": "2D tube ceiling light",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_1": "Electrical cabinets 2X1",
       "block.lightingfixtures.threeonswitch": "Three-on switch",
@@ -2973,6 +2991,7 @@
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_3": "带电表的配电箱 2X3 ",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_2": "带电表的配电箱 2X2",
       "block.lightingfixtures.psgb": "公园路灯",
+      "block.lightingfixtures.ebwm_2_x_3": "Electrical box with electricity meter 2X3",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_1": "带电表的配电箱 1X2",
       "block.lightingfixtures.dtubeceilinglight": "2D灯管吸顶灯",
       "block.lightingfixtures.threeonswitch": "三开开关",
@@ -3125,7 +3144,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.20.1",
-    "credits": "MCreator BlockBenck",
+    "credits": "MCreator BlockBenck DeepSeek",
     "modElementsPackage": "net.mcreator.lightingfixtures"
   },
   "mcreatorVersion": 202400452410

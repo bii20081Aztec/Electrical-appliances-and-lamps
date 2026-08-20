@@ -3113,7 +3113,7 @@
   "workspaceSettings": {
     "modid": "lightingfixtures",
     "modName": "Electrical appliances and lamps",
-    "version": "0.7.0",
+    "version": "0.8.9",
     "description": "The addition of various appliances and lamps will make your Minecraft more realistic This MoD will not be available for subsequent versions of MCMOD",
     "author": "Noel-Cornehl",
     "websiteURL": "https://space.bilibili.com/1685065897",
@@ -3125,7 +3125,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.20.1",
-    "credits": "MCreator BlockBenck",
+    "credits": "MCreator BlockBenck DeepSeek",
     "modElementsPackage": "net.mcreator.lightingfixtures"
   },
   "mcreatorVersion": 202400452410

@@ -116,13 +116,17 @@ import net.mcreator.lightingfixtures.block.Electricalboxwithelectricitymeter2x38
 import net.mcreator.lightingfixtures.block.Electricalboxwithelectricitymeter2x2Block;
 import net.mcreator.lightingfixtures.block.Electricalboxwithelectricitymeter2x1Block;
 import net.mcreator.lightingfixtures.block.Electricalboxwithelectricitymeter1x1Block;
+import net.mcreator.lightingfixtures.block.Elbwem2X3Block;
+import net.mcreator.lightingfixtures.block.Ebwm2X3Block;
 import net.mcreator.lightingfixtures.block.EbwemLCDBlock;
 import net.mcreator.lightingfixtures.block.Ebwem2X3LCDBlock;
+import net.mcreator.lightingfixtures.block.Ebwelm2X3LCDBlock;
 import net.mcreator.lightingfixtures.block.ESLSBlock;
 import net.mcreator.lightingfixtures.block.ESLLBlock;
 import net.mcreator.lightingfixtures.block.EPLSTBlock;
 import net.mcreator.lightingfixtures.block.EPLEHBBlock;
 import net.mcreator.lightingfixtures.block.EPLDTBlock;
+import net.mcreator.lightingfixtures.block.ELbwem2X3LCDBlock;
 import net.mcreator.lightingfixtures.block.EBWEMBlock;
 import net.mcreator.lightingfixtures.block.DualnetworkoutletsBlock;
 import net.mcreator.lightingfixtures.block.DtubeceilinglightBlock;
@@ -284,6 +288,10 @@ public class LightingfixturesModBlocks {
 	public static final RegistryObject<Block> SLE_DBC = REGISTRY.register("sle_dbc", () -> new SLEDbcBlock());
 	public static final RegistryObject<Block> MLE_DBC = REGISTRY.register("mle_dbc", () -> new MLEDbcBlock());
 	public static final RegistryObject<Block> LLE_DBC = REGISTRY.register("lle_dbc", () -> new LLEDbcBlock());
+	public static final RegistryObject<Block> EBWM_2_X_3 = REGISTRY.register("ebwm_2_x_3", () -> new Ebwm2X3Block());
+	public static final RegistryObject<Block> E_LBWEM_2_X_3_LCD = REGISTRY.register("e_lbwem_2_x_3_lcd", () -> new ELbwem2X3LCDBlock());
+	public static final RegistryObject<Block> ELBWEM_2_X_3 = REGISTRY.register("elbwem_2_x_3", () -> new Elbwem2X3Block());
+	public static final RegistryObject<Block> EBWELM_2_X_3_LCD = REGISTRY.register("ebwelm_2_x_3_lcd", () -> new Ebwelm2X3LCDBlock());
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }

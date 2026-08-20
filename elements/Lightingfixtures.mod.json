@@ -4,7 +4,7 @@
   "definition": {
     "name": "fluorescent lamp",
     "icon": {
-      "value": "CUSTOM:Fluorescentlightsforclassrooms"
+      "value": "CUSTOM:ESLS"
     },
     "showSearch": false
   }

@@ -34,7 +34,7 @@
       }
     ],
     "customProperties": [],
-    "name": "Fluorescent lights for classrooms",
+    "name": "Heritage Preservation",
     "specialInformation": {
       "fixedValue": []
     },
@@ -42,11 +42,7 @@
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
-    "creativeTabs": [
-      {
-        "value": "CUSTOM:Lightingfixtures"
-      }
-    ],
+    "creativeTabs": [],
     "destroyTool": "Not specified",
     "customDrop": {
       "value": ""

@@ -2541,6 +2541,54 @@
           "src/main/resources/assets/lightingfixtures/blockstates/le_dilh.json"
         ]
       }
+    },
+    {
+      "name": "SLEDbc",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sle_dbc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/SLEDbcBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/sle_dbc.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/sle_dbc.json",
+          "src/main/resources/assets/lightingfixtures/models/item/sle_dbc.json",
+          "src/main/resources/assets/lightingfixtures/models/block/sle_dbc.json"
+        ]
+      }
+    },
+    {
+      "name": "MLEDbc",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mle_dbc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/mle_dbc.json",
+          "src/main/resources/assets/lightingfixtures/models/item/mle_dbc.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/mle_dbc.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/MLEDbcBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/mle_dbc.json"
+        ]
+      }
+    },
+    {
+      "name": "LLEDbc",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lle_dbc",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/lle_dbc.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/lle_dbc.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/lle_dbc.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/LLEDbcBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/lle_dbc.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -2624,6 +2672,7 @@
       "block.lightingfixtures.aluminum_tubesare_fluorescent_2": "алюминиевая трубная люминесцентная лампа",
       "block.lightingfixtures.heatingb.description_0": "комбинируется с радиаторами школьного и домашнего модуля",
       "block.lightingfixtures.four_tube_fluorescent_light_with_lampshade": "четырёхламповая люминесцентная лампа с плафоном",
+      "block.lightingfixtures.mle_dbc": "Medium LED ball cannon",
       "block.lightingfixtures.accesscontrolintercomextension_on": "домофонная трубка (вкл)",
       "block.lightingfixtures.heatingmainvalve": "главный клапан отопления",
       "block.lightingfixtures.aluminum_grille_2": "алюминиевая решётка",
@@ -2643,6 +2692,7 @@
       "subtitles.like": "XXX! нравится!",
       "block.lightingfixtures.doubletubefluorescentlamps": "двухтрубные люминесцентные лампы",
       "block.lightingfixtures.hfs": "выключатель вентилятора обогревателя",
+      "block.lightingfixtures.sle_dbc": "Small LED ball cannon",
       "block.lightingfixtures.aluminumgusset": "алюминиевая панель",
       "block.lightingfixtures.heatingpipe": "длинная труба отопления",
       "block.lightingfixtures.le_dfloodlights": "светодиодный прожектор",
@@ -2652,6 +2702,7 @@
       "block.lightingfixtures.trackspotlights": "трековые точечные светильники",
       "block.lightingfixtures.electronicdoubletubefluorescentlamps": "электронные двухтрубные люминесцентные лампы",
       "block.lightingfixtures.ebwem_lcd": "Electrical box with electricity meter 1X1",
+      "block.lightingfixtures.lle_dbc": "Large LED ball cannon",
       "block.lightingfixtures.ovemv_2": "уличный ящик счётчика 380 В",
       "block.lightingfixtures.hfs.description_0": "реальный выключатель из дома",
       "block.lightingfixtures.tungstenbulbs": "лампа накаливания",
@@ -2777,6 +2828,7 @@
       "block.lightingfixtures.aluminum_tubesare_fluorescent_2": "Aluminum tubes are fluorescent",
       "block.lightingfixtures.heatingb.description_0": "Pair with school and home modular radiators",
       "block.lightingfixtures.four_tube_fluorescent_light_with_lampshade": "Four-tube fluorescent light with lampshade",
+      "block.lightingfixtures.mle_dbc": "Medium LED ball cannon",
       "block.lightingfixtures.accesscontrolintercomextension_on": "Access control intercom extension",
       "block.lightingfixtures.heatingmainvalve": "Heating main valve",
       "block.lightingfixtures.aluminum_grille_2": "Aluminum Grille",
@@ -2797,6 +2849,7 @@
       "subtitles.like": "XXX ! like !",
       "block.lightingfixtures.doubletubefluorescentlamps": "Double-tube fluorescent lamps",
       "block.lightingfixtures.hfs": "Heater fan switch",
+      "block.lightingfixtures.sle_dbc": "Small LED ball cannon",
       "block.lightingfixtures.aluminumgusset": "Aluminum gusset",
       "block.lightingfixtures.heatingpipe": "Heating pipe",
       "block.lightingfixtures.le_dfloodlights": "LED flood lights",
@@ -2806,6 +2859,7 @@
       "block.lightingfixtures.trackspotlights": "Track spotlights",
       "block.lightingfixtures.electronicdoubletubefluorescentlamps": "Electronic double-tube fluorescent lamps",
       "block.lightingfixtures.ebwem_lcd": "Electrical box with electricity meter 1X1 LCD",
+      "block.lightingfixtures.lle_dbc": "Large LED ball cannon",
       "block.lightingfixtures.ovemv_2": "Outdoor 380V Electric Meter Box",
       "block.lightingfixtures.hfs.description_0": "The actual switch comes from home",
       "block.lightingfixtures.tungstenbulbs": "Tungsten bulbs",
@@ -2932,6 +2986,7 @@
       "block.lightingfixtures.aluminum_tubesare_fluorescent_2": "铝管通荧光灯",
       "block.lightingfixtures.heatingb.description_0": "搭配学校与家庭模组暖气片",
       "block.lightingfixtures.four_tube_fluorescent_light_with_lampshade": "带灯罩的四灯管荧光灯",
+      "block.lightingfixtures.mle_dbc": "中型led球炮",
       "block.lightingfixtures.accesscontrolintercomextension_on": "门禁对讲分机",
       "block.lightingfixtures.heatingmainvalve": "暖气主管阀门",
       "block.lightingfixtures.aluminum_grille_2": "铝格栅",
@@ -2952,6 +3007,7 @@
       "subtitles.like": "XXX！喜欢！",
       "block.lightingfixtures.doubletubefluorescentlamps": "双管荧光灯",
       "block.lightingfixtures.hfs": "浴霸开关",
+      "block.lightingfixtures.sle_dbc": "小型led球炮",
       "block.lightingfixtures.aluminumgusset": "铝扣板",
       "block.lightingfixtures.heatingpipe": "暖气长管",
       "block.lightingfixtures.le_dfloodlights": "LED 投光灯",
@@ -2961,6 +3017,7 @@
       "block.lightingfixtures.trackspotlights": "轨道射灯",
       "block.lightingfixtures.electronicdoubletubefluorescentlamps": "电子双管荧光灯 ",
       "block.lightingfixtures.ebwem_lcd": "带电表的配电箱 1X1 LCD",
+      "block.lightingfixtures.lle_dbc": "大型led球炮",
       "block.lightingfixtures.ovemv_2": "户外型380伏电表箱",
       "block.lightingfixtures.hfs.description_0": "§b \"开关实物来自家中\"",
       "block.lightingfixtures.tungstenbulbs": "白炽灯泡",
@@ -3056,7 +3113,7 @@
   "workspaceSettings": {
     "modid": "lightingfixtures",
     "modName": "Electrical appliances and lamps",
-    "version": "0.7.0",
+    "version": "0.8.9",
     "description": "The addition of various appliances and lamps will make your Minecraft more realistic This MoD will not be available for subsequent versions of MCMOD",
     "author": "Noel-Cornehl",
     "websiteURL": "https://space.bilibili.com/1685065897",
@@ -3068,7 +3125,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.20.1",
-    "credits": "MCreator BlockBenck",
+    "credits": "MCreator BlockBenck DeepSeek",
     "modElementsPackage": "net.mcreator.lightingfixtures"
   },
   "mcreatorVersion": 202400452410
