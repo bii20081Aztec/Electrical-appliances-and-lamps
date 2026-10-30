@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "seven-pin_socket",
+        "2": "one_open_three-pin_socket"
+      },
+      "name": "default"
+    }
+  }
+}

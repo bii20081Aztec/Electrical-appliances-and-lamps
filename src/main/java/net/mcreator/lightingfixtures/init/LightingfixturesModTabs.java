@@ -92,6 +92,16 @@ public class LightingfixturesModTabs {
 				tabData.accept(LightingfixturesModBlocks.ESLS.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.ESLL.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.ESLM.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.HPSS.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.TEF_DIB.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.SEFD.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.TEFDIBQ.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.SEFDQ.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.TEFDIBAL.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.SETDAL.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.MBRL.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.LETFLLT.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.LETFLST.get().asItem());
 			}).withTabsBefore(LE_DLUMINAIRES.getId()).build());
 	public static final RegistryObject<CreativeModeTab> SWITCHSOCKETSANDFANS = REGISTRY.register("switchsocketsandfans",
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.lightingfixtures.switchsocketsandfans")).icon(() -> new ItemStack(LightingfixturesModBlocks.SINGLESWITCHSWITCH.get())).displayItems((parameters, tabData) -> {
@@ -160,6 +170,22 @@ public class LightingfixturesModTabs {
 				tabData.accept(LightingfixturesModBlocks.E_LBWEM_2_X_3_LCD.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.ELBWEM_2_X_3.get().asItem());
 				tabData.accept(LightingfixturesModBlocks.EBWELM_2_X_3_LCD.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.FPS.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.KSC.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.SRSC.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.FHASHSC.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.BSC.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.SC_1.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.SC_2.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.SC_3.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.EC_380.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.EC_3802.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.EC_3803.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.EC_32.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.EBWCM_380.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.HPECMB.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.EC_3804.get().asItem());
+				tabData.accept(LightingfixturesModBlocks.EC_3805.get().asItem());
 			}).withTabsBefore(LIGHTINGFIXTURES.getId()).build());
 
 	@SubscribeEvent

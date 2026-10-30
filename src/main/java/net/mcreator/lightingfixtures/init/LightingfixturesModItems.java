@@ -159,6 +159,32 @@ public class LightingfixturesModItems {
 	public static final RegistryObject<Item> E_LBWEM_2_X_3_LCD = block(LightingfixturesModBlocks.E_LBWEM_2_X_3_LCD);
 	public static final RegistryObject<Item> ELBWEM_2_X_3 = block(LightingfixturesModBlocks.ELBWEM_2_X_3);
 	public static final RegistryObject<Item> EBWELM_2_X_3_LCD = block(LightingfixturesModBlocks.EBWELM_2_X_3_LCD);
+	public static final RegistryObject<Item> HPSS = block(LightingfixturesModBlocks.HPSS);
+	public static final RegistryObject<Item> FPS = block(LightingfixturesModBlocks.FPS);
+	public static final RegistryObject<Item> KSC = block(LightingfixturesModBlocks.KSC);
+	public static final RegistryObject<Item> SRSC = block(LightingfixturesModBlocks.SRSC);
+	public static final RegistryObject<Item> FHASHSC = block(LightingfixturesModBlocks.FHASHSC);
+	public static final RegistryObject<Item> BSC = block(LightingfixturesModBlocks.BSC);
+	public static final RegistryObject<Item> SC_1 = block(LightingfixturesModBlocks.SC_1);
+	public static final RegistryObject<Item> SC_2 = block(LightingfixturesModBlocks.SC_2);
+	public static final RegistryObject<Item> SC_3 = block(LightingfixturesModBlocks.SC_3);
+	public static final RegistryObject<Item> TEF_DIB = block(LightingfixturesModBlocks.TEF_DIB);
+	public static final RegistryObject<Item> SEFD = block(LightingfixturesModBlocks.SEFD);
+	public static final RegistryObject<Item> TEFDIBQ = block(LightingfixturesModBlocks.TEFDIBQ);
+	public static final RegistryObject<Item> SEFDQ = block(LightingfixturesModBlocks.SEFDQ);
+	public static final RegistryObject<Item> TEFDIBAL = block(LightingfixturesModBlocks.TEFDIBAL);
+	public static final RegistryObject<Item> SETDAL = block(LightingfixturesModBlocks.SETDAL);
+	public static final RegistryObject<Item> MBRL = block(LightingfixturesModBlocks.MBRL);
+	public static final RegistryObject<Item> LETFLLT = block(LightingfixturesModBlocks.LETFLLT);
+	public static final RegistryObject<Item> LETFLST = block(LightingfixturesModBlocks.LETFLST);
+	public static final RegistryObject<Item> EC_380 = block(LightingfixturesModBlocks.EC_380);
+	public static final RegistryObject<Item> EC_3802 = block(LightingfixturesModBlocks.EC_3802);
+	public static final RegistryObject<Item> EC_3803 = block(LightingfixturesModBlocks.EC_3803);
+	public static final RegistryObject<Item> EC_32 = block(LightingfixturesModBlocks.EC_32);
+	public static final RegistryObject<Item> EBWCM_380 = block(LightingfixturesModBlocks.EBWCM_380);
+	public static final RegistryObject<Item> HPECMB = block(LightingfixturesModBlocks.HPECMB);
+	public static final RegistryObject<Item> EC_3804 = block(LightingfixturesModBlocks.EC_3804);
+	public static final RegistryObject<Item> EC_3805 = block(LightingfixturesModBlocks.EC_3805);
 
 	// Start of user code block custom items
 	// End of user code block custom items

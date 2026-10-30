@@ -1,0 +1,10 @@
+{
+  "parent": "lightingfixtures:custom/small_embedded_fluorescent_downlight_al",
+  "textures": {
+    "all": "lightingfixtures:block/the_embedded_fluorescent_downlight_is",
+    "particle": "lightingfixtures:block/the_embedded_fluorescent_downlight_is",
+    "1": "lightingfixtures:block/the_embedded_fluorescent_downlight_is",
+    "3": "lightingfixtures:block/al"
+  },
+  "render_type": "cutout"
+}

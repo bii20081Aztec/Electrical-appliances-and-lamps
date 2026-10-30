@@ -5,6 +5,12 @@
         "0": "high-power_electric_meter_box"
       },
       "name": "default"
+    },
+    "lcd": {
+      "map": {
+        "0": "high-power_electric_meter_box_lcd"
+      },
+      "name": "lcd"
     }
   }
 }

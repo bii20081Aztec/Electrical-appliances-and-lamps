@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "five-pin_socket",
+        "1": "tv_network_socket"
+      },
+      "name": "default"
+    },
+    "o": {
+      "map": {
+        "0": "five-pin_socket",
+        "1": "five-pin_socket"
+      },
+      "name": "o"
+    }
+  }
+}

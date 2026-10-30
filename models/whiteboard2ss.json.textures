@@ -1,0 +1,25 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "quadruple_switch",
+        "1": "single-switch_switch"
+      },
+      "name": "default"
+    },
+    "hom": {
+      "map": {
+        "0": "three-on_switch",
+        "1": "quadruple_switch"
+      },
+      "name": "hom"
+    },
+    "home": {
+      "map": {
+        "0": "double-open_switch",
+        "1": "three-on_switch"
+      },
+      "name": "home"
+    }
+  }
+}

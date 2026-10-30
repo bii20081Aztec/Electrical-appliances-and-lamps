@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/marine_bedside_reading_light",
+  "textures": {
+    "all": "lightingfixtures:block/marine_bedside_reading_light",
+    "particle": "lightingfixtures:block/marine_bedside_reading_light",
+    "0": "lightingfixtures:block/marine_bedside_reading_light"
+  },
+  "render_type": "cutout"
+}

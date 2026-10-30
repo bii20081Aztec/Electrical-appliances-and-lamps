@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "the_embedded_fluorescent_downlight_is",
+        "1": "minecraft:white_concrete"
+      },
+      "name": "default"
+    },
+    "a": {
+      "map": {
+        "0": "the_embedded_fluorescent_downlight_is",
+        "1": "minecraft:quartz_block_side"
+      },
+      "name": "a"
+    }
+  }
+}

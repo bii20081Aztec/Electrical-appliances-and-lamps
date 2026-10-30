@@ -2,6 +2,8 @@
 chcp 65001 >nul
 title 推送 E 仓库
 
+cd /d "E:\MCR\EA"
+
 echo ========================================
 echo   推送当前仓库
 echo   路径: %cd%

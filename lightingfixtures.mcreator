@@ -2653,6 +2653,422 @@
           "src/main/resources/assets/lightingfixtures/models/item/ebwelm_2_x_3_lcd.json"
         ]
       }
+    },
+    {
+      "name": "Hpss",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hpss",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/HpssBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/hpss.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/hpss.json",
+          "src/main/resources/assets/lightingfixtures/models/block/hpss.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/hpss.json"
+        ]
+      }
+    },
+    {
+      "name": "FPS",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fps",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/fps.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/fps.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/FPSBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/fps.json",
+          "src/main/resources/assets/lightingfixtures/models/block/fps.json"
+        ]
+      }
+    },
+    {
+      "name": "Ksc",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ksc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/KscBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/ksc.json",
+          "src/main/resources/assets/lightingfixtures/models/block/ksc.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/ksc.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ksc.json"
+        ]
+      }
+    },
+    {
+      "name": "Srsc",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "srsc",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/srsc.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/srsc.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/SrscBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/srsc.json",
+          "src/main/resources/assets/lightingfixtures/models/block/srsc.json"
+        ]
+      }
+    },
+    {
+      "name": "Fhashsc",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fhashsc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/FhashscBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/fhashsc.json",
+          "src/main/resources/assets/lightingfixtures/models/item/fhashsc.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/fhashsc.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/fhashsc.json"
+        ]
+      }
+    },
+    {
+      "name": "Bsc",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bsc",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/bsc.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/bsc.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/BscBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/block/bsc.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/bsc.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/Sc1Block.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/sc_1.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/sc_1.json",
+          "src/main/resources/assets/lightingfixtures/models/block/sc_1.json",
+          "src/main/resources/assets/lightingfixtures/models/item/sc_1.json"
+        ]
+      }
+    },
+    {
+      "name": "SC2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/SC2Block.java",
+          "src/main/resources/assets/lightingfixtures/models/item/sc_2.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/sc_2.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/sc_2.json",
+          "src/main/resources/assets/lightingfixtures/models/block/sc_2.json"
+        ]
+      }
+    },
+    {
+      "name": "SC3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/sc_3.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/sc_3.json",
+          "src/main/resources/assets/lightingfixtures/models/item/sc_3.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/SC3Block.java",
+          "src/main/resources/assets/lightingfixtures/models/block/sc_3.json"
+        ]
+      }
+    },
+    {
+      "name": "TefDib",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tef_dib",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/tef_dib.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/tef_dib.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/TefDibBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/tef_dib.json",
+          "src/main/resources/assets/lightingfixtures/models/block/tef_dib.json"
+        ]
+      }
+    },
+    {
+      "name": "Sefd",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sefd",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/SefdBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/sefd.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/sefd.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/sefd.json",
+          "src/main/resources/assets/lightingfixtures/models/block/sefd.json"
+        ]
+      }
+    },
+    {
+      "name": "TEFDIBQ",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tefdibq",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/tefdibq.json",
+          "src/main/resources/assets/lightingfixtures/models/block/tefdibq.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/tefdibq.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/TEFDIBQBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/tefdibq.json"
+        ]
+      }
+    },
+    {
+      "name": "SEFDQ",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sefdq",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/blockstates/sefdq.json",
+          "src/main/resources/assets/lightingfixtures/models/block/sefdq.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/sefdq.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/SEFDQBlock.java",
+          "src/main/resources/assets/lightingfixtures/models/item/sefdq.json"
+        ]
+      }
+    },
+    {
+      "name": "TEFDIBAL",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tefdibal",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/TEFDIBALBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/tefdibal.json",
+          "src/main/resources/assets/lightingfixtures/models/item/tefdibal.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/tefdibal.json",
+          "src/main/resources/assets/lightingfixtures/models/block/tefdibal.json"
+        ]
+      }
+    },
+    {
+      "name": "SETDAL",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "setdal",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/setdal.json",
+          "src/main/resources/assets/lightingfixtures/models/item/setdal.json",
+          "src/main/resources/assets/lightingfixtures/models/block/setdal.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/setdal.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/SETDALBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Mbrl",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mbrl",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/MbrlBlock.java",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/mbrl.json",
+          "src/main/resources/assets/lightingfixtures/models/block/mbrl.json",
+          "src/main/resources/assets/lightingfixtures/models/item/mbrl.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/mbrl.json"
+        ]
+      }
+    },
+    {
+      "name": "LETFLLT",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "letfllt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/letfllt.json",
+          "src/main/resources/assets/lightingfixtures/models/block/letfllt.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/LETFLLTBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/letfllt.json",
+          "src/main/resources/assets/lightingfixtures/models/item/letfllt.json"
+        ]
+      }
+    },
+    {
+      "name": "LETFLST",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "letflst",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/letflst.json",
+          "src/main/resources/assets/lightingfixtures/models/item/letflst.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/letflst.json",
+          "src/main/resources/assets/lightingfixtures/models/block/letflst.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/LETFLSTBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "EC380",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ec_380",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/ec_380.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ec_380.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/EC380Block.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/ec_380.json",
+          "src/main/resources/assets/lightingfixtures/models/block/ec_380.json"
+        ]
+      }
+    },
+    {
+      "name": "EC3802",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ec_3802",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ec_3802.json",
+          "src/main/resources/assets/lightingfixtures/models/block/ec_3802.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/ec_3802.json",
+          "src/main/resources/assets/lightingfixtures/models/item/ec_3802.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/EC3802Block.java"
+        ]
+      }
+    },
+    {
+      "name": "EC3803",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ec_3803",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/ec_3803.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/ec_3803.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/EC3803Block.java",
+          "src/main/resources/assets/lightingfixtures/models/block/ec_3803.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ec_3803.json"
+        ]
+      }
+    },
+    {
+      "name": "EC32",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ec_32",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/EC32Block.java",
+          "src/main/resources/assets/lightingfixtures/models/block/ec_32.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ec_32.json",
+          "src/main/resources/assets/lightingfixtures/models/item/ec_32.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/ec_32.json"
+        ]
+      }
+    },
+    {
+      "name": "EBWCM380",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ebwcm_380",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/EBWCM380Block.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/ebwcm_380.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ebwcm_380.json",
+          "src/main/resources/assets/lightingfixtures/models/item/ebwcm_380.json",
+          "src/main/resources/assets/lightingfixtures/models/block/ebwcm_380.json"
+        ]
+      }
+    },
+    {
+      "name": "HPECMB",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hpecmb",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/HPECMBBlock.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/hpecmb.json",
+          "src/main/resources/assets/lightingfixtures/models/block/hpecmb.json",
+          "src/main/resources/assets/lightingfixtures/models/item/hpecmb.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/hpecmb.json"
+        ]
+      }
+    },
+    {
+      "name": "EC3804",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ec_3804",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightingfixtures/models/item/ec_3804.json",
+          "src/main/resources/assets/lightingfixtures/blockstates/ec_3804.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ec_3804.json",
+          "src/main/resources/assets/lightingfixtures/models/block/ec_3804.json",
+          "src/main/java/net/mcreator/lightingfixtures/block/EC3804Block.java"
+        ]
+      }
+    },
+    {
+      "name": "EC3805",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ec_3805",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/lightingfixtures/block/EC3805Block.java",
+          "src/main/resources/assets/lightingfixtures/blockstates/ec_3805.json",
+          "src/main/resources/data/lightingfixtures/loot_tables/blocks/ec_3805.json",
+          "src/main/resources/assets/lightingfixtures/models/item/ec_3805.json",
+          "src/main/resources/assets/lightingfixtures/models/block/ec_3805.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -2698,6 +3114,8 @@
   "tab_element_order": {},
   "language_map": {
     "ru_ru": {
+      "block.lightingfixtures.ebwcm_380": "Electrical box with electricity meter 1X1",
+      "block.lightingfixtures.letflst.description_0": "This T5 fluorescent lamp was bought by the author PDD for six yuan, brought home, and restored.",
       "block.lightingfixtures.fivepinsocket": "пятигнездовая розетка",
       "item_group.lightingfixtures.le_dluminaires": "светодиодные светильники",
       "block.lightingfixtures.led_flood_light_top": "светодиодный прожектор (верхний)",
@@ -2710,6 +3128,7 @@
       "block.lightingfixtures.eplst": "взрывозащищённый светильник - одна лампа",
       "block.lightingfixtures.letfls.description_0": "§6\"Эту люминесцентную лампу T5 автор купил на PDD за шесть юаней, принёс домой и восстановил\"",
       "block.lightingfixtures.themainbranchpipeoftheheater": "главная ответвительная труба отопления",
+      "block.lightingfixtures.letflst": "Integrated electronic T5 fluorescent lamp - short",
       "block.lightingfixtures.electricalcabinets_1x_1": "электрический щит 1x1",
       "block.lightingfixtures.oembwfm": "уличный щит учёта электроэнергии на 4 счётчика",
       "block.lightingfixtures.twoopenthreepinsocket": "двойная розетка с тремя отверстиями",
@@ -2719,14 +3138,19 @@
       "block.lightingfixtures.doubleopenswitch": "двухклавишный выключатель",
       "block.lightingfixtures.accesscontrolintercomextension": "абонентская трубка домофона",
       "block.lightingfixtures.accesscontrolintercomhost": "вызывная панель домофона",
+      "block.lightingfixtures.ec_3805": "Electrical cabinets 2X2",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_3": "распределительный щит со счётчиком 2x3",
       "block.lightingfixtures.psga": "парковый фонарь",
+      "block.lightingfixtures.ec_3803": "Electrical box with electricity meter 2X2 380",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_2": "распределительный щит со счётчиком 2x2",
       "block.lightingfixtures.psgb": "парковый фонарь",
       "block.lightingfixtures.ebwm_2_x_3": "распределительный щит со счётчиком 2x3",
+      "block.lightingfixtures.ec_3804": "Electrical cabinets 2X2",
       "block.lightingfixtures.dtubeceilinglight": "потолочный светильник с 2D-лампой",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_1": "распределительный щит со счётчиком 1x2",
+      "block.lightingfixtures.ec_3802": "Electrical cabinets 1x2 380",
       "block.lightingfixtures.threeonswitch": "трёхклавишный выключатель",
+      "block.lightingfixtures.sefdq": "Small embedded fluorescent downlight",
       "block.lightingfixtures.letfll": "электронная люминесцентная лампа T5 в сборе - длинная",
       "block.lightingfixtures.track": "трек",
       "block.lightingfixtures.quadrupleswitch": "четырёхклавишный выключатель",
@@ -2735,9 +3159,13 @@
       "block.lightingfixtures.fire_emergency_light": "аварийный пожарный светильник",
       "block.lightingfixtures.smoke_detector": "дымовой извещатель",
       "block.lightingfixtures.aluminum_tubesare_fluorescent_2": "люминесцентный светильник с алюминиевым корпусом",
+      "block.lightingfixtures.letfllt.description_0": "This T5 fluorescent lamp was bought by the author PDD for six yuan, brought home, and restored.",
       "block.lightingfixtures.heatingb.description_0": "комбинируется с радиаторами из мода \"Школа и Дом\"",
+      "block.lightingfixtures.sc_1": "Bedroom socket combo",
       "block.lightingfixtures.four_tube_fluorescent_light_with_lampshade": "четырёхламповый люминесцентный светильник с плафоном",
       "block.lightingfixtures.mle_dbc": "светодиодная лампа-шар средняя",
+      "block.lightingfixtures.sc_3": "Switch combo 2",
+      "block.lightingfixtures.sc_2": "Switch combo 1",
       "block.lightingfixtures.accesscontrolintercomextension_on": "абонентская трубка домофона (вкл)",
       "block.lightingfixtures.heatingmainvalve": "главный запорный клапан отопления",
       "block.lightingfixtures.aluminum_grille_2": "алюминиевая решётка",
@@ -2745,6 +3173,7 @@
       "block.lightingfixtures.fluorescentceilinglights": "люминесцентный потолочный светильник 1x2",
       "block.lightingfixtures.metalhalidefloodlights": "металлогалогенный прожектор",
       "block.lightingfixtures.electrical_cabinets_1x2_380": "электрический щит 1x2 380В",
+      "block.lightingfixtures.fhashsc": "Study room socket combo",
       "block.lightingfixtures.electricalboxwithelectricitymeter_1x_1": "распределительный щит со счётчиком 1x1",
       "block.lightingfixtures.le_dpanellight": "светодиодный панельный светильник",
       "block.lightingfixtures.energysavinlamplarge": "энергосберегающая лампа (большая)",
@@ -2755,9 +3184,12 @@
       "block.lightingfixtures.otembwaem": "уличный щит учёта электроэнергии с одним счётчиком",
       "block.lightingfixtures.sevenpinsocket": "семигнездовая розетка",
       "subtitles.like": "XXX! нравится!",
+      "block.lightingfixtures.srsc": "Study room socket combo",
       "block.lightingfixtures.doubletubefluorescentlamps": "двухламповые люминесцентные светильники",
       "block.lightingfixtures.hfs": "выключатель для вентилятора обогревателя",
       "block.lightingfixtures.sle_dbc": "светодиодная лампа-шар малая",
+      "block.lightingfixtures.letfllt": "Integrated electronic T5 fluorescent lamp - long",
+      "block.lightingfixtures.bsc": "Five-hole and seven-hole socket combo",
       "block.lightingfixtures.aluminumgusset": "алюминиевая панель",
       "block.lightingfixtures.heatingpipe": "длинная труба отопления",
       "block.lightingfixtures.le_dfloodlights": "светодиодный прожектор",
@@ -2768,16 +3200,19 @@
       "block.lightingfixtures.electronicdoubletubefluorescentlamps": "электронные двухламповые люминесцентные светильники",
       "block.lightingfixtures.ebwem_lcd": "распределительный щит со счётчиком 1x1 (LCD)",
       "block.lightingfixtures.lle_dbc": "светодиодная лампа-шар большая",
+      "block.lightingfixtures.ec_380": "Electrical cabinets 1x1 380",
       "block.lightingfixtures.ovemv_2": "уличный щит учёта электроэнергии 380В",
       "block.lightingfixtures.hfs.description_0": "§b \"Реальный выключатель из моего дома\"",
       "block.lightingfixtures.tungstenbulbs": "лампа накаливания",
       "block.lightingfixtures.singleswitchswitch": "одноклавишный выключатель",
       "block.lightingfixtures.e_lbwem_2_x_3_lcd": "распределительный щит со счётчиком 2x3 (LCD)",
       "block.lightingfixtures.electronicsingletubefluorescentamps": "электронные одноламповые люминесцентные светильники",
+      "block.lightingfixtures.tefdibq": "The embedded fluorescent downlight is big",
       "block.lightingfixtures.iodinetungstenlamp": "йодно-вольфрамовая лампа для стройплощадки",
       "block.lightingfixtures.otembwtm": "уличный щит учёта электроэнергии на 2 счётчика",
       "block.lightingfixtures.hfbh": "вентиляторный обогреватель для ванной",
       "block.lightingfixtures.metalhalidefloodlight": "металлогалогенный прожектор (верхний)",
+      "block.lightingfixtures.tefdibal": "The embedded fluorescent downlight is big",
       "block.lightingfixtures.tpflst": "влагозащищённый люминесцентный светильник - одна лампа",
       "block.lightingfixtures.eslm": "энергосберегающая лампа (большая)",
       "block.lightingfixtures.esll": "энергосберегающая лампа (средняя)",
@@ -2785,21 +3220,28 @@
       "block.lightingfixtures.themainheatingisthe": "главная горизонтально-вертикальная труба отопления",
       "block.lightingfixtures.singletubefluorescentlamps_1": "одностойка с двумя лампами",
       "block.lightingfixtures.fluorescentdoublebracket": "люминесцентный двойной кронштейн",
+      "block.lightingfixtures.ksc": "Living room socket combo",
       "block.lightingfixtures.ebwem_2_x_3_lcd": "распределительный щит со счётчиком 2x3 (LCD)",
       "block.lightingfixtures.uhpec": "сверхмощный электрический шкаф",
       "block.lightingfixtures.heatinginterconnectionpipes.description_0": "комбинируется с радиаторами из мода \"Школа и Дом\"",
       "block.lightingfixtures.esls": "энергосберегающая лампа (малая)",
+      "block.lightingfixtures.hpss.description_0": "This is a lamp model made specifically for the city mod.",
       "block.lightingfixtures.track_2": "трек",
+      "block.lightingfixtures.tef_dib": "The embedded fluorescent downlight is big",
       "block.lightingfixtures.heatingpipes.description_0": "комбинируется с радиаторами из мода \"Школа и Дом\"",
+      "block.lightingfixtures.setdal": "Small embedded fluorescent downlight",
       "block.lightingfixtures.highpoweroutlets": "розетка высокой мощности",
       "block.lightingfixtures.heatingc.description_0": "комбинируется с радиаторами из мода \"Школа и Дом\"",
+      "block.lightingfixtures.hpecmb": "High-power electric meter box",
       "block.lightingfixtures.aluminumgusset_2_x_2": "алюминиевая панель 2x2",
       "block.lightingfixtures.fire_alarm_button": "кнопка пожарной сигнализации",
       "block.lightingfixtures.electricalboxwithelectricitymeter": "распределительный щит со счётчиком 1x1",
       "block.lightingfixtures.watermeter": "водяной счётчик",
       "block.lightingfixtures.eplehb": "взрывозащищённый светильник - удлинённый подвес",
+      "block.lightingfixtures.fps": "Living room socket combo",
       "block.lightingfixtures.oembwsm": "уличный щит учёта электроэнергии на 6 счётчиков",
       "block.lightingfixtures.heatingpipes": "трубы отопления",
+      "block.lightingfixtures.mbrl": "Marine bedside reading light",
       "block.lightingfixtures.largecylinderlamp": "большой точечный светильник (цилиндр)",
       "item.lightingfixtures.like.desc": "очень популярная музыка в стиле аниме",
       "block.lightingfixtures.ebwelm_2_x_3_lcd": "распределительный щит со счётчиком 2x3 (LCD)",
@@ -2809,9 +3251,11 @@
       "block.lightingfixtures.le_dilh": "светодиодный интегрированный патрон",
       "block.lightingfixtures.ovemv": "уличный щит учёта электроэнергии 380В",
       "block.lightingfixtures.hfbh.description_0": "§9\"Спасибо вентиляторному обогревателю в моей ванной. Ты молча работал много лет, и наконец-то я перенёс тебя в Minecraft. Хотя ты сам об этом не знаешь.\"",
+      "block.lightingfixtures.ec_32": "Electrical cabinets 2X2",
       "block.lightingfixtures.gasmeters": "газовый счётчик",
       "block.lightingfixtures.cemospalcepa": "потолочный громкоговоритель с алюминиевой панелью",
       "block.lightingfixtures.ebwem": "распределительный щит со счётчиком 2x1",
+      "block.lightingfixtures.sefd": "The embedded fluorescent downlight is big",
       "item_group.lightingfixtures.switchsocketsandfans": "прочие устройства",
       "block.lightingfixtures.double_tube_singlestand_fluorescent_lamp_with_lampshade": "одностойка с двумя лампами",
       "block.lightingfixtures.tpfldt": "влагозащищённый люминесцентный светильник - две лампы",
@@ -2844,6 +3288,7 @@
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_380": "распределительный щит со счётчиком 2x2 380В",
       "block.lightingfixtures.heatinginterconnectionpipes": "соединительная труба отопления",
       "block.lightingfixtures.t_vnetworksocket": "телевизионно-интернетная розетка",
+      "block.lightingfixtures.hpss": "High-pressure sodium streetlight",
       "item.lightingfixtures.like": "§6нравится",
       "block.lightingfixtures.heatingb": "соединительная труба отопления",
       "block.lightingfixtures.fluorescentluminaires": "старомодный подвесной люминесцентный светильник",
@@ -2858,6 +3303,8 @@
       "block.lightingfixtures.electricalcabinets_1_x_2": "электрический щит 1x2"
     },
     "en_us": {
+      "block.lightingfixtures.ebwcm_380": "Electrical box with electricity meter 1X1 LCD",
+      "block.lightingfixtures.letflst.description_0": "This T5 fluorescent lamp was bought by the author PDD for six yuan, brought home, and restored.",
       "block.lightingfixtures.fivepinsocket": "Five-pin socket",
       "item_group.lightingfixtures.le_dluminaires": "LED luminaires",
       "block.lightingfixtures.led_flood_light_top": "LED Flood Light (Top)",
@@ -2870,6 +3317,7 @@
       "block.lightingfixtures.eplst": "Explosion-proof Lamp - Single Tube",
       "block.lightingfixtures.letfls.description_0": "§6\"This T5 fluorescent lamp was bought by the author PDD for six yuan, brought home, and restored\"",
       "block.lightingfixtures.themainbranchpipeoftheheater": "The main branch pipe of the heater",
+      "block.lightingfixtures.letflst": "Integrated electronic T5 fluorescent lamp - short Tuo",
       "block.lightingfixtures.electricalcabinets_1x_1": "Electrical cabinets 1X1",
       "block.lightingfixtures.oembwfm": "Outdoor electric meter box with four meters",
       "block.lightingfixtures.twoopenthreepinsocket": "Two-open three-pin socket",
@@ -2879,14 +3327,19 @@
       "block.lightingfixtures.doubleopenswitch": "Double-open switch",
       "block.lightingfixtures.accesscontrolintercomextension": "Access control intercom extension",
       "block.lightingfixtures.accesscontrolintercomhost": "Access control intercom host",
+      "block.lightingfixtures.ec_3805": "Multiple 380 meter boxes LCD",
       "block.lightingfixtures.psga": "Park streetlights",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_3": "Electrical box with electricity meter 2X3",
+      "block.lightingfixtures.ec_3803": "Electrical box with electricity meter 2X2 380",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_2": "Electrical box with electricity meter 2X2",
       "block.lightingfixtures.psgb": "Park streetlights",
       "block.lightingfixtures.ebwm_2_x_3": "Electrical box with electricity meter 2X3",
+      "block.lightingfixtures.ec_3804": "Multiple 380 meter boxes",
       "block.lightingfixtures.dtubeceilinglight": "2D tube ceiling light",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_1": "Electrical cabinets 2X1",
+      "block.lightingfixtures.ec_3802": "Electrical cabinets 1x2 380",
       "block.lightingfixtures.threeonswitch": "Three-on switch",
+      "block.lightingfixtures.sefdq": "Small embedded fluorescent downlight",
       "block.lightingfixtures.letfll": "Integrated electronic T5 fluorescent lamp - long",
       "block.lightingfixtures.quadrupleswitch": "Quadruple switch",
       "block.lightingfixtures.track": "Track",
@@ -2895,9 +3348,13 @@
       "block.lightingfixtures.fire_emergency_light": "Fire emergency light",
       "block.lightingfixtures.smoke_detector": "Smoke detector",
       "block.lightingfixtures.aluminum_tubesare_fluorescent_2": "Aluminum tubes are fluorescent",
+      "block.lightingfixtures.letfllt.description_0": "This T5 fluorescent lamp was bought by the author PDD for six yuan, brought home, and restored.",
       "block.lightingfixtures.heatingb.description_0": "Pair with school and home modular radiators",
+      "block.lightingfixtures.sc_1": "Switch combo 1",
       "block.lightingfixtures.four_tube_fluorescent_light_with_lampshade": "Four-tube fluorescent light with lampshade",
       "block.lightingfixtures.mle_dbc": "Medium LED ball cannon",
+      "block.lightingfixtures.sc_3": "Switch combo 3",
+      "block.lightingfixtures.sc_2": "Switch combo 2",
       "block.lightingfixtures.accesscontrolintercomextension_on": "Access control intercom extension",
       "block.lightingfixtures.heatingmainvalve": "Heating main valve",
       "block.lightingfixtures.aluminum_grille_2": "Aluminum Grille",
@@ -2906,6 +3363,7 @@
       "block.lightingfixtures.metalhalidefloodlights": "Metal halide floodlights",
       "block.lightingfixtures.fluorescentceilinglights": "Fluorescent ceiling lights (1X2)",
       "block.lightingfixtures.electrical_cabinets_1x2_380": "Electrical cabinets 1x2 380",
+      "block.lightingfixtures.fhashsc": "Five-hole and seven-hole socket combo",
       "block.lightingfixtures.electricalboxwithelectricitymeter_1x_1": "Electrical box with electricity meter 1X1",
       "block.lightingfixtures.le_dpanellight": "LED panel light",
       "block.lightingfixtures.energysavinlamplarge": "Energy-saving lamp (large)",
@@ -2916,9 +3374,12 @@
       "block.lightingfixtures.otembwaem": "Outdoor type electric meter box with an electric meter",
       "block.lightingfixtures.sevenpinsocket": "Seven-pin socket",
       "subtitles.like": "XXX ! like !",
+      "block.lightingfixtures.srsc": "Study room socket combo",
       "block.lightingfixtures.doubletubefluorescentlamps": "Double-tube fluorescent lamps",
       "block.lightingfixtures.hfs": "Heater fan switch",
       "block.lightingfixtures.sle_dbc": "Small LED ball cannon",
+      "block.lightingfixtures.letfllt": "Integrated electronic T5 fluorescent lamp - long Tuo",
+      "block.lightingfixtures.bsc": "Bedroom socket combo",
       "block.lightingfixtures.aluminumgusset": "Aluminum gusset",
       "block.lightingfixtures.heatingpipe": "Heating pipe",
       "block.lightingfixtures.le_dfloodlights": "LED flood lights",
@@ -2929,16 +3390,19 @@
       "block.lightingfixtures.electronicdoubletubefluorescentlamps": "Electronic double-tube fluorescent lamps",
       "block.lightingfixtures.ebwem_lcd": "Electrical box with electricity meter 1X1 LCD",
       "block.lightingfixtures.lle_dbc": "Large LED ball cannon",
+      "block.lightingfixtures.ec_380": "Electrical cabinets 1x1 380",
       "block.lightingfixtures.ovemv_2": "Outdoor 380V Electric Meter Box",
       "block.lightingfixtures.hfs.description_0": "The actual switch comes from home",
       "block.lightingfixtures.tungstenbulbs": "Tungsten bulbs",
       "block.lightingfixtures.singleswitchswitch": "Single-switch switch",
       "block.lightingfixtures.e_lbwem_2_x_3_lcd": "Electrical box with electricity meter 2X3",
       "block.lightingfixtures.electronicsingletubefluorescentamps": "Electronic single-tube fluorescent lamps",
+      "block.lightingfixtures.tefdibq": "The embedded fluorescent downlight is big",
       "block.lightingfixtures.iodinetungstenlamp": "Iodine-tungsten lamp",
       "block.lightingfixtures.otembwtm": "Outdoor type electric meter box with two meters",
       "block.lightingfixtures.hfbh": "Heated fan bathroom heater",
       "block.lightingfixtures.metalhalidefloodlight": "Metal halide floodlights",
+      "block.lightingfixtures.tefdibal": "The embedded fluorescent downlight is big",
       "block.lightingfixtures.tpflst": "Three-proof Fluorescent Lamp - Single Tube",
       "block.lightingfixtures.eslm": "Energy-saving lamp (large)",
       "block.lightingfixtures.esll": "Energy-saving lamp (medium)",
@@ -2946,22 +3410,29 @@
       "block.lightingfixtures.themainheatingisthe": "The main heating is the horizontal and vertical pipes",
       "block.lightingfixtures.singletubefluorescentlamps_1": "Single-stand double-tube fluorescent lamps",
       "block.lightingfixtures.fluorescentdoublebracket": "Fluorescent double bracket",
+      "block.lightingfixtures.ksc": "Kitchen socket combo",
       "block.lightingfixtures.ebwem_2_x_3_lcd": "Electrical box with electricity meter 2X3 LCD",
       "block.lightingfixtures.uhpec": "Ultra-high power electrical cabinet",
       "block.lightingfixtures.heatinginterconnectionpipes.description_0": "Pair with school and home modular radiators",
       "block.lightingfixtures.esls": "Energy-saving lamps (small)",
+      "block.lightingfixtures.hpss.description_0": "§6This is a lamp model made specifically for the city mod.",
       "block.lightingfixtures.track_2": "Track",
+      "block.lightingfixtures.tef_dib": "The embedded fluorescent downlight is big",
       "block.lightingfixtures.heatingpipes.description_0": "Pair with school and home modular radiators",
+      "block.lightingfixtures.setdal": "Small embedded fluorescent downlight",
       "block.lightingfixtures.highpoweroutlets": "High-power outlets",
       "block.lightingfixtures.heatingc.description_0": "Pair with school and home modular radiators",
+      "block.lightingfixtures.hpecmb": "High-power electric meter box LCD",
       "block.lightingfixtures.aluminumgusset_2_x_2": "Aluminum gusset 2 X 2",
       "subtitles.azxs": "",
       "block.lightingfixtures.fire_alarm_button": "Fire Alarm Button",
       "block.lightingfixtures.electricalboxwithelectricitymeter": "Electrical box with electricity meter 1X1",
       "block.lightingfixtures.watermeter": "Water meter",
       "block.lightingfixtures.eplehb": "Explosion-proof Light - Extended Hanging Bracket",
+      "block.lightingfixtures.fps": "Living room socket combo",
       "block.lightingfixtures.oembwsm": "Outdoor electric meter box with six meters",
       "block.lightingfixtures.heatingpipes": "Heating pipes",
+      "block.lightingfixtures.mbrl": "Marine bedside reading light",
       "block.lightingfixtures.largecylinderlamp": "Large-cylinder lamp",
       "item.lightingfixtures.like.desc": "Very popular two-dimensional music",
       "block.lightingfixtures.ebwelm_2_x_3_lcd": "Electrical box with electricity meter 2X3",
@@ -2971,9 +3442,11 @@
       "block.lightingfixtures.le_dilh": "LED integrated lamp head",
       "block.lightingfixtures.ovemv": "Outdoor 380V Electric Meter Box",
       "block.lightingfixtures.hfbh.description_0": "§9\"Thanks to the warm air bathroom heater in my home.   You have been working silently for so many years, and I finally made you in Minecraft.   Although you yourself don\u0027t know it.\"",
+      "block.lightingfixtures.ec_32": "Electrical cabinets 2X2",
       "block.lightingfixtures.gasmeters": "Gas meters",
       "block.lightingfixtures.cemospalcepa": "Ceiling-mounted speaker aluminum ceiling pane",
       "block.lightingfixtures.ebwem": "Electrical box with electricity meter 2X1",
+      "block.lightingfixtures.sefd": "Small embedded fluorescent downlight",
       "item_group.lightingfixtures.switchsocketsandfans": "Switch sockets and fans",
       "block.lightingfixtures.double_tube_singlestand_fluorescent_lamp_with_lampshade": "Single-stand double-tube fluorescent lamps",
       "block.lightingfixtures.tpfldt": "Three-proof Fluorescent Lamp - Double Tube",
@@ -3006,6 +3479,7 @@
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_380": "Electrical box with electricity meter 2X2 380",
       "block.lightingfixtures.heatinginterconnectionpipes": "Heating interconnection pipes",
       "block.lightingfixtures.t_vnetworksocket": "TV network socket",
+      "block.lightingfixtures.hpss": "§6High-pressure sodium streetlight",
       "item.lightingfixtures.like": "§6Like",
       "block.lightingfixtures.heatingb": "Heating interconnection pipes",
       "block.lightingfixtures.fluorescentluminaires": "Old-fashioned ceiling-mounted fluorescent luminaires",
@@ -3020,6 +3494,8 @@
       "block.lightingfixtures.electricalcabinets_1_x_2": "Electrical cabinets 1X2"
     },
     "zh_cn": {
+      "block.lightingfixtures.ebwcm_380": "带电表的配电箱 1X1 LCD",
+      "block.lightingfixtures.letflst.description_0": "§6\"本T5荧光灯具由作者PDD上花14块钱买下来回家还原\"",
       "block.lightingfixtures.fivepinsocket": "五孔插座",
       "item_group.lightingfixtures.le_dluminaires": "LED灯具",
       "block.lightingfixtures.led_flood_light_top": "LED投光灯 （上）",
@@ -3032,6 +3508,7 @@
       "block.lightingfixtures.eplst": "防爆型灯-单灯管",
       "block.lightingfixtures.letfls.description_0": "§6\"本T5荧光灯具由作者PDD上花六块钱买下来回家还原\"",
       "block.lightingfixtures.themainbranchpipeoftheheater": "暖气主分支管",
+      "block.lightingfixtures.letflst": "一体化电子T5荧光灯-短 双灯管",
       "block.lightingfixtures.electricalcabinets_1x_1": "配电箱 1X1",
       "block.lightingfixtures.oembwfm": "户外型电表箱，带4个电表",
       "block.lightingfixtures.twoopenthreepinsocket": "二开五孔插座",
@@ -3041,14 +3518,19 @@
       "block.lightingfixtures.doubleopenswitch": "双开开关",
       "block.lightingfixtures.accesscontrolintercomextension": "门禁对讲分机",
       "block.lightingfixtures.accesscontrolintercomhost": "门禁对讲主机",
+      "block.lightingfixtures.ec_3805": "多电表380箱 LCD",
       "block.lightingfixtures.psga": "公园路灯",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_3": "带电表的配电箱 2X3",
+      "block.lightingfixtures.ec_3803": "配电箱 2X2 380",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_2": "带电表的配电箱 2X2",
       "block.lightingfixtures.psgb": "公园路灯",
       "block.lightingfixtures.ebwm_2_x_3": "带电表的配电箱 2X3",
+      "block.lightingfixtures.ec_3804": "多电表380箱",
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_1": "带电表的配电箱 1X2",
       "block.lightingfixtures.dtubeceilinglight": "2D灯管吸顶灯",
+      "block.lightingfixtures.ec_3802": "配电箱 1X2 380",
       "block.lightingfixtures.threeonswitch": "三开开关",
+      "block.lightingfixtures.sefdq": "嵌入式荧光筒灯（小）",
       "block.lightingfixtures.letfll": "一体化电子T5荧光灯-长",
       "block.lightingfixtures.track": "轨道",
       "block.lightingfixtures.quadrupleswitch": "四开开关",
@@ -3057,9 +3539,13 @@
       "block.lightingfixtures.fire_emergency_light": "消防应急灯",
       "block.lightingfixtures.smoke_detector": "烟雾报警器",
       "block.lightingfixtures.aluminum_tubesare_fluorescent_2": "铝管通荧光灯",
+      "block.lightingfixtures.letfllt.description_0": "§6\"本T5荧光灯具由作者PDD上花14块钱买下来回家还原\"",
       "block.lightingfixtures.heatingb.description_0": "搭配学校与家庭模组暖气片",
+      "block.lightingfixtures.sc_1": "开关组合 1",
       "block.lightingfixtures.four_tube_fluorescent_light_with_lampshade": "带灯罩的四灯管荧光灯",
       "block.lightingfixtures.mle_dbc": "中型led球炮",
+      "block.lightingfixtures.sc_3": "开关组合 3",
+      "block.lightingfixtures.sc_2": "开关组合 2",
       "block.lightingfixtures.accesscontrolintercomextension_on": "门禁对讲分机",
       "block.lightingfixtures.heatingmainvalve": "暖气主管阀门",
       "block.lightingfixtures.aluminum_grille_2": "铝格栅",
@@ -3068,6 +3554,7 @@
       "block.lightingfixtures.fluorescentceilinglights": "荧光棚顶灯 1X2",
       "block.lightingfixtures.metalhalidefloodlights": "金卤投光灯",
       "block.lightingfixtures.electrical_cabinets_1x2_380": "配电箱 1X2 380",
+      "block.lightingfixtures.fhashsc": "五孔加七孔插座组合",
       "block.lightingfixtures.electricalboxwithelectricitymeter_1x_1": "带电表的配电箱 1X1",
       "block.lightingfixtures.le_dpanellight": "LED 棚顶灯",
       "block.lightingfixtures.energysavinlamplarge": "节能灯 （大）",
@@ -3078,9 +3565,12 @@
       "block.lightingfixtures.otembwaem": "户外型电表箱，带有电表",
       "block.lightingfixtures.sevenpinsocket": "七孔插座",
       "subtitles.like": "XXX！喜欢！",
+      "block.lightingfixtures.srsc": "书房插座组合",
       "block.lightingfixtures.doubletubefluorescentlamps": "双管荧光灯",
       "block.lightingfixtures.hfs": "浴霸开关",
       "block.lightingfixtures.sle_dbc": "小型led球炮",
+      "block.lightingfixtures.letfllt": "一体化电子T5荧光灯-长 双灯管",
+      "block.lightingfixtures.bsc": "卧室插座组合",
       "block.lightingfixtures.aluminumgusset": "铝扣板",
       "block.lightingfixtures.heatingpipe": "暖气长管",
       "block.lightingfixtures.le_dfloodlights": "LED 投光灯",
@@ -3091,16 +3581,19 @@
       "block.lightingfixtures.electronicdoubletubefluorescentlamps": "电子双管荧光灯",
       "block.lightingfixtures.ebwem_lcd": "带电表的配电箱 1X1 LCD",
       "block.lightingfixtures.lle_dbc": "大型led球炮",
+      "block.lightingfixtures.ec_380": "配电箱 1X1 380",
       "block.lightingfixtures.ovemv_2": "户外型380伏电表箱",
       "block.lightingfixtures.hfs.description_0": "§b \"开关实物来自家中\"",
       "block.lightingfixtures.tungstenbulbs": "白炽灯泡",
       "block.lightingfixtures.singleswitchswitch": "单开开关",
       "block.lightingfixtures.e_lbwem_2_x_3_lcd": "带电表的配电箱 2X3 LCD",
       "block.lightingfixtures.electronicsingletubefluorescentamps": "电子单管荧光灯",
+      "block.lightingfixtures.tefdibq": "嵌入式荧光筒灯（大）",
       "block.lightingfixtures.iodinetungstenlamp": "工地用碘钨灯",
       "block.lightingfixtures.otembwtm": "户外型电表箱，带2个电表",
       "block.lightingfixtures.hfbh": "风暖浴霸",
       "block.lightingfixtures.metalhalidefloodlight": "金卤投光灯（上）",
+      "block.lightingfixtures.tefdibal": "嵌入式荧光筒灯（大）",
       "block.lightingfixtures.tpflst": "三防型荧光灯-单灯管",
       "block.lightingfixtures.eslm": "节能灯 （大）",
       "block.lightingfixtures.esll": "节能灯 （中）",
@@ -3108,21 +3601,28 @@
       "block.lightingfixtures.themainheatingisthe": "暖气主横竖管",
       "block.lightingfixtures.singletubefluorescentlamps_1": "单灯架双灯管荧光灯",
       "block.lightingfixtures.fluorescentdoublebracket": "荧光灯双支架",
+      "block.lightingfixtures.ksc": "厨房插座组合",
       "block.lightingfixtures.ebwem_2_x_3_lcd": "带电表的配电箱 2X3 LCD",
       "block.lightingfixtures.uhpec": "超高功率电力柜",
       "block.lightingfixtures.heatinginterconnectionpipes.description_0": "搭配学校与家庭模组暖气片",
       "block.lightingfixtures.esls": "节能灯 （小）",
+      "block.lightingfixtures.hpss.description_0": "§6这个是城市模组专门做的一个灯具模型",
       "block.lightingfixtures.track_2": "轨道",
+      "block.lightingfixtures.tef_dib": "嵌入式荧光筒灯（大）",
       "block.lightingfixtures.heatingpipes.description_0": "搭配学校与家庭模组暖气片",
+      "block.lightingfixtures.setdal": "嵌入式荧光筒灯（小）",
       "block.lightingfixtures.highpoweroutlets": "大功率插座",
       "block.lightingfixtures.heatingc.description_0": "搭配学校与家庭模组暖气片",
+      "block.lightingfixtures.hpecmb": "大功率电表箱LCD",
       "block.lightingfixtures.aluminumgusset_2_x_2": "铝扣板 2X2",
       "block.lightingfixtures.fire_alarm_button": "消防报警按钮",
       "block.lightingfixtures.electricalboxwithelectricitymeter": "带电表的配电箱 1X1",
       "block.lightingfixtures.watermeter": "水表",
       "block.lightingfixtures.eplehb": "防爆型灯-加长吊架",
+      "block.lightingfixtures.fps": "客厅插座组合",
       "block.lightingfixtures.oembwsm": "户外型电表箱，带6个电表",
       "block.lightingfixtures.heatingpipes": "暖气管",
+      "block.lightingfixtures.mbrl": "船用床头荧光灯",
       "block.lightingfixtures.largecylinderlamp": "大筒灯",
       "item.lightingfixtures.like.desc": "非常流行的二次元的音乐",
       "block.lightingfixtures.ebwelm_2_x_3_lcd": "带电表的配电箱 2X3 LCD",
@@ -3132,9 +3632,11 @@
       "block.lightingfixtures.le_dilh": "LED一体化灯头",
       "block.lightingfixtures.ovemv": "户外型380伏电表箱",
       "block.lightingfixtures.hfbh.description_0": "§9“感谢我家卫生间的风暖浴霸。 你默默工作了这么多年，终于被我做进了 Minecraft。 虽然你本人并不知道。”",
+      "block.lightingfixtures.ec_32": "配电箱 2X3",
       "block.lightingfixtures.gasmeters": "煤气表",
       "block.lightingfixtures.cemospalcepa": "铝扣板吸顶广播喇叭",
       "block.lightingfixtures.ebwem": "带电表的配电箱 1X2",
+      "block.lightingfixtures.sefd": "嵌入式荧光筒灯（小）",
       "item_group.lightingfixtures.switchsocketsandfans": "其他设施",
       "block.lightingfixtures.double_tube_singlestand_fluorescent_lamp_with_lampshade": "单灯架双灯管荧光灯",
       "block.lightingfixtures.tpfldt": "三防型荧光灯-双灯管",
@@ -3167,6 +3669,7 @@
       "block.lightingfixtures.electricalboxwithelectricitymeter_2x_380": "配电箱 2X2 380",
       "block.lightingfixtures.heatinginterconnectionpipes": "暖气互联管",
       "block.lightingfixtures.t_vnetworksocket": "电视网络插座",
+      "block.lightingfixtures.hpss": "§6高压钠路灯",
       "item.lightingfixtures.like": "§6喜欢",
       "block.lightingfixtures.heatingb": "暖气互联管",
       "block.lightingfixtures.fluorescentluminaires": "老式吊装型荧光灯具",
@@ -3188,13 +3691,13 @@
   "workspaceSettings": {
     "modid": "lightingfixtures",
     "modName": "Electrical appliances and lamps",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "The addition of various appliances and lamps will make your Minecraft more realistic This MoD will not be available for subsequent versions of MCMOD",
     "author": "Noel-Cornehl",
     "websiteURL": "https://space.bilibili.com/1685065897",
     "license": "CC BY-NC-SA 4.0",
     "serverSideOnly": false,
-    "modPicture": "electrical_appliances_and_lamps",
+    "modPicture": "electrical_appliances_and_lamps_beta",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],

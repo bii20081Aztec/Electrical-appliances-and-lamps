@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "the_embedded_fluorescent_downlight_is",
+        "2": "al"
+      },
+      "name": "default"
+    }
+  }
+}

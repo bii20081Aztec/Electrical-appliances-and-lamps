@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "lightingfixtures:blocks/ec_3803",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "lightingfixtures:ec_3803"
+        }
+      ]
+    }
+  ]
+}

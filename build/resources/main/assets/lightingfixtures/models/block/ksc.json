@@ -1,0 +1,10 @@
+{
+  "parent": "lightingfixtures:custom/whiteboard3",
+  "textures": {
+    "all": "lightingfixtures:block/five-pin_socket",
+    "particle": "lightingfixtures:block/five-pin_socket",
+    "0": "lightingfixtures:block/five-pin_socket",
+    "1": "lightingfixtures:block/five-pin_socket"
+  },
+  "render_type": "solid"
+}

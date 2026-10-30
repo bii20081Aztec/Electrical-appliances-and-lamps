@@ -1,0 +1,9 @@
+{
+  "parent": "lightingfixtures:custom/high-pressure_sodium_streetlight",
+  "textures": {
+    "all": "lightingfixtures:block/high-pressure_sodium_streetlight",
+    "particle": "lightingfixtures:block/high-pressure_sodium_streetlight",
+    "0": "lightingfixtures:block/high-pressure_sodium_streetlight"
+  },
+  "render_type": "cutout_mipped"
+}

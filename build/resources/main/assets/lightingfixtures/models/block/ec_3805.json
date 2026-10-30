@@ -1,0 +1,10 @@
+{
+  "parent": "lightingfixtures:custom/electrical_cabinets_2x31",
+  "textures": {
+    "all": "lightingfixtures:block/electrical_cabinets_1x1",
+    "particle": "lightingfixtures:block/electrical_cabinets_1x1",
+    "0": "lightingfixtures:block/electrical_box_with_electricity_meter_1x11_lcd",
+    "1": "lightingfixtures:block/380_3p_80"
+  },
+  "render_type": "solid"
+}

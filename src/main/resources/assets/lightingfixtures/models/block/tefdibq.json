@@ -1,0 +1,10 @@
+{
+  "parent": "lightingfixtures:custom/the_embedded_fluorescent_downlight_is_big",
+  "textures": {
+    "all": "lightingfixtures:block/the_embedded_fluorescent_downlight_is",
+    "particle": "lightingfixtures:block/the_embedded_fluorescent_downlight_is",
+    "1": "lightingfixtures:block/the_embedded_fluorescent_downlight_is",
+    "2": "minecraft:block/quartz_block_side"
+  },
+  "render_type": "cutout"
+}
